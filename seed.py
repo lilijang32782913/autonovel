@@ -15,6 +15,8 @@ import sys
 from pathlib import Path
 from dotenv import load_dotenv
 
+from deepseek_client import chat_completion
+
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
 
@@ -25,35 +27,21 @@ ANTHROPIC_BETA = "context-1m-2025-08-07"
 
 
 def call_writer(prompt, max_tokens=4000):
-    import httpx
-    headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": ANTHROPIC_BETA,
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 1.0,  # high temp for creative diversity
-        "system": (
-            "You are a fantasy novelist with deep knowledge of the genre's "
-            "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
-            "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
-            "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
-            "SOUND. You never propose generic medieval Europe + elves. Each "
-            "concept should make a reader think 'I've never seen THAT before.'"
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(
-        f"{API_BASE_URL}/v1/messages",
-        headers=headers,
-        json=payload,
-        timeout=120,
-    )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+  return chat_completion(
+    model=WRITER_MODEL,
+    prompt=prompt,
+    system=(
+      "You are a fantasy novelist with deep knowledge of the genre's "
+      "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
+      "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
+      "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
+      "SOUND. You never propose generic medieval Europe + elves. Each "
+      "concept should make a reader think 'I've never seen THAT before.'"
+    ),
+    max_tokens=max_tokens,
+    temperature=1.0,
+    timeout=120,
+  )
 
 
 GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts. Each should be

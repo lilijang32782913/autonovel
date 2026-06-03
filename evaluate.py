@@ -22,6 +22,8 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+from deepseek_client import chat_completion
+
 # --- Configuration ---
 BASE_DIR = Path(__file__).parent
 
@@ -274,34 +276,18 @@ def load_all_chapters():
 
 def call_judge(prompt, max_tokens=2000):
     """Call the Anthropic judge LLM and return its response text."""
-    import httpx
-
-    headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": ANTHROPIC_BETA,
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "system": "You are a literary critic and novel editor. "
-                  "You evaluate fiction with precision. Always respond with valid JSON. "
-                  "No markdown fences, no preamble -- just the JSON object.",
-        "messages": [
-            {"role": "user", "content": prompt},
-        ],
-    }
-
-    resp = httpx.post(
-        f"{API_BASE_URL}/v1/messages",
-        headers=headers,
-        json=payload,
-        timeout=180,
-    )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+  return chat_completion(
+    model=JUDGE_MODEL,
+    prompt=prompt,
+    system=(
+      "You are a literary critic and novel editor. "
+      "You evaluate fiction with precision. Always respond with valid JSON. "
+      "No markdown fences, no preamble -- just the JSON object."
+    ),
+    max_tokens=max_tokens,
+    temperature=0.3,
+    timeout=180,
+  )
 
 
 def parse_json_response(text):

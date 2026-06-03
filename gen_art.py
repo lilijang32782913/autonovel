@@ -32,6 +32,8 @@ import subprocess
 from pathlib import Path
 from dotenv import load_dotenv
 
+from deepseek_client import chat_completion
+
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
@@ -113,24 +115,13 @@ def download_image(url, dest_path):
 
 
 def call_claude(prompt, max_tokens=1500):
-    import httpx
-    resp = httpx.post(
-        f"{ANTHROPIC_BASE}/v1/messages",
-        headers={
-            "x-api-key": ANTHROPIC_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-        json={
-            "model": WRITER_MODEL,
-            "max_tokens": max_tokens,
-            "temperature": 0.3,
-            "messages": [{"role": "user", "content": prompt}],
-        },
+    return chat_completion(
+        model=WRITER_MODEL,
+        prompt=prompt,
+        max_tokens=max_tokens,
+        temperature=0.3,
         timeout=120,
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
 
 
 def load_style():

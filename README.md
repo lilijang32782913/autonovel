@@ -199,11 +199,11 @@ The pipeline uses three external services:
 
 | Service | Key | Used for |
 |---------|-----|----------|
-| Anthropic | `ANTHROPIC_API_KEY` | Writing, evaluation, review (Sonnet + Opus) |
+| DeepSeek | `DEEPSEEK_API_KEY` | Writing, evaluation, review |
 | fal.ai | `FAL_KEY` | Cover art and ornament generation (Nano Banana 2) |
 | ElevenLabs | `ELEVENLABS_API_KEY` | Multi-voice audiobook generation |
 
-Copy `.env.example` to `.env` and fill in your keys. Only the Anthropic
+Copy `.env.example` to `.env` and fill in your keys. Only the DeepSeek
 key is required for the core pipeline. Art and audiobook are optional.
 
 ---

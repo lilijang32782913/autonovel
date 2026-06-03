@@ -20,6 +20,8 @@ from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
 
+from deepseek_client import chat_completion
+
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
@@ -38,26 +40,14 @@ REVIEW_PROMPT = """Read the below novel, "{title}". Review it first as a literar
 
 def call_opus(prompt, max_tokens=8000):
     """Call Opus with the full manuscript."""
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "context-1m-2025-08-07",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": REVIEW_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "messages": [{"role": "user", "content": prompt}],
-    }
     print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
-    resp = httpx.post(
-        f"{API_BASE}/v1/messages",
-        headers=headers, json=payload, timeout=600,
+    return chat_completion(
+        model=REVIEW_MODEL,
+        prompt=prompt,
+        max_tokens=max_tokens,
+        temperature=0.3,
+        timeout=600,
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
 
 
 def get_title():
