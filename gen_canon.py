@@ -31,9 +31,9 @@ def call_writer(prompt, max_tokens=16000):
         timeout=300,
     )
 
-world = (BASE_DIR / "world.md").read_text()
-characters = (BASE_DIR / "characters.md").read_text()
-seed = (BASE_DIR / "seed.txt").read_text()
+world = (BASE_DIR / "world.md").read_text(encoding="utf-8")
+characters = (BASE_DIR / "characters.md").read_text(encoding="utf-8")
+seed = (BASE_DIR / "seed.txt").read_text(encoding="utf-8")
 
 prompt = f"""Extract EVERY hard fact from these planning documents into a structured canon database.
 A "hard fact" is anything a writer must not contradict: names, ages, dates, physical descriptions,
@@ -86,4 +86,8 @@ RULES:
 
 print("Calling writer model...", file=sys.stderr)
 result = call_writer(prompt)
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+canon_path = BASE_DIR / "canon.md"
+canon_path.write_text(result, encoding="utf-8")
+print(f"Wrote {canon_path.name}", file=sys.stderr)
 print(result)

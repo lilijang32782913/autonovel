@@ -29,8 +29,9 @@ def call_writer(prompt, max_tokens=16000):
         timeout=600,
     )
 
-part1 = open('/tmp/outline_output.md').read()
-mystery = (BASE_DIR / "MYSTERY.md").read_text()
+part1_path = BASE_DIR / "outline_output.md"
+part1 = part1_path.read_text(encoding="utf-8") if part1_path.exists() else ""
+mystery = (BASE_DIR / "MYSTERY.md").read_text(encoding="utf-8")
 
 prompt = f"""Here are the first 17 chapters of a 24-chapter outline for "The Second Son of the House of Bells."
 The outline was cut off mid-chapter-17. Continue from where it left off, then complete chapters 18-24,
@@ -73,4 +74,9 @@ REMEMBER:
 
 print("Calling writer model...", file=sys.stderr)
 result = call_writer(prompt)
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+outline_path = BASE_DIR / "outline.md"
+combined = part1.rstrip() + "\n\n" + result.lstrip() if part1.strip() else result
+outline_path.write_text(combined, encoding="utf-8")
+print(f"Wrote {outline_path.name}", file=sys.stderr)
 print(result)

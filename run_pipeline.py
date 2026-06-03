@@ -54,7 +54,7 @@ PHASE_ORDER = ["foundation", "drafting", "revision", "export"]
 def load_state() -> dict:
     """Load pipeline state from state.json, creating defaults if missing."""
     if STATE_FILE.exists():
-        with open(STATE_FILE) as f:
+        with open(STATE_FILE, encoding="utf-8") as f:
             return json.load(f)
     return default_state()
 
@@ -76,7 +76,7 @@ def default_state() -> dict:
 
 def save_state(state: dict):
     """Write state to state.json."""
-    with open(STATE_FILE, "w") as f:
+    with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, indent=2)
 
 
@@ -123,6 +123,7 @@ def run_tool(cmd: str, timeout: int = 600, check: bool = False) -> subprocess.Co
     try:
         result = subprocess.run(
             cmd, shell=True, capture_output=True, text=True,
+            encoding="utf-8", errors="replace",
             timeout=timeout, cwd=str(BASE_DIR),
         )
         if result.returncode != 0:
@@ -206,7 +207,7 @@ def count_words_in_chapters() -> int:
     total = 0
     if CHAPTERS_DIR.exists():
         for f in CHAPTERS_DIR.glob("ch_*.md"):
-            total += len(f.read_text().split())
+            total += len(f.read_text(encoding="utf-8").split())
     return total
 
 
@@ -224,7 +225,7 @@ def get_total_chapters(state: dict) -> int:
     # Try to infer from outline.md
     outline = BASE_DIR / "outline.md"
     if outline.exists():
-        text = outline.read_text()
+        text = outline.read_text(encoding="utf-8")
         matches = re.findall(r'###\s*Ch(?:apter)?\s*(\d+)', text)
         if matches:
             return max(int(m) for m in matches)
@@ -265,6 +266,9 @@ def run_foundation(state: dict) -> dict:
         step("Generating canon...")
         uv_run("gen_canon.py", timeout=300)
 
+        step("Generating voice identity...")
+        uv_run("gen_voice.py", timeout=300)
+
         step("Running voice fingerprint...")
         uv_run("voice_fingerprint.py", timeout=300)
 
@@ -288,7 +292,10 @@ def run_foundation(state: dict) -> dict:
             save_state(state)
         else:
             step(f"Score did not improve ({score} <= {best_score}), discarding")
-            git_reset_hard("HEAD")
+            if os.environ.get("AUTONOVEL_ENABLE_GIT_RESET", "0") == "1":
+                git_reset_hard("HEAD")
+            else:
+                step("Skipping git reset in test mode")
             log_result("discarded", "foundation", score, 0, "discard",
                        f"Iteration {i}: no improvement ({score} <= {best_score})")
 
@@ -345,7 +352,7 @@ def run_drafting(state: dict) -> dict:
                 step("Chapter file missing or too short, retrying...")
                 continue
 
-            word_count = len(ch_file.read_text().split())
+            word_count = len(ch_file.read_text(encoding="utf-8").split())
             step(f"Drafted {word_count} words")
 
             # Evaluate
@@ -376,7 +383,7 @@ def run_drafting(state: dict) -> dict:
             # Keep whatever we have and commit it
             ch_file = CHAPTERS_DIR / f"ch_{ch:02d}.md"
             if ch_file.exists():
-                word_count = len(ch_file.read_text().split())
+                word_count = len(ch_file.read_text(encoding="utf-8").split())
                 commit_hash = git_add_commit(
                     f"ch{ch:02d}: best-effort after {MAX_CHAPTER_ATTEMPTS} attempts")
                 log_result(commit_hash, f"ch{ch:02d}", "?", word_count,
