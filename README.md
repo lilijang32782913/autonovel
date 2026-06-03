@@ -30,6 +30,8 @@ uv run python seed.py
 uv run python run_pipeline.py --from-scratch
 ```
 
+Chinese guide for export/new-book workflows: [USAGE_GUIDE_ZH.md](USAGE_GUIDE_ZH.md).
+
 ---
 
 ## The Pipeline

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Build LaTeX source from chapter files."""
 import re
-import os
+from pathlib import Path
 
-CHAPTERS_DIR = "/home/jeffq/autonovel/chapters"
-OUT_DIR = "/home/jeffq/autonovel/typeset"
+BASE_DIR = Path(__file__).resolve().parent.parent
+CHAPTERS_DIR = BASE_DIR / "chapters"
+OUT_DIR = BASE_DIR / "typeset"
 
 def latex_escape(t):
     t = t.replace('&', '\\&')
@@ -90,49 +91,56 @@ def make_drop_cap(latex_body):
     drop = f"\\lettrine[lines=2, lhang=0.1, nindent=0.2em]{{{first_letter}}}{{{word_rest}}}{para_rest}"
     return drop + '\n\n' + rest
 
-chapters_tex = []
-for n in range(1, 20):
-    path = os.path.join(CHAPTERS_DIR, f"ch_{n:02d}.md")
-    with open(path) as f:
-        text = f.read()
-    
-    lines = text.strip().split('\n')
-    title_line = lines[0].lstrip('# ').strip()
-    body = '\n'.join(lines[1:]).strip()
-    
-    if ': ' in title_line:
-        label, subtitle = title_line.split(': ', 1)
-    else:
-        label, subtitle = title_line, ""
-    
-    chapter_name = subtitle if subtitle else label
-    latex_body = md_to_latex(body)
-    latex_body = make_drop_cap(latex_body)
-    
-    # Check for chapter ornament (prefer vector PDF over raster PNG)
-    art_base = os.path.dirname(CHAPTERS_DIR)
-    pdf_path = os.path.join(art_base, "art", "pdf", f"ornament_ch{n:02d}.pdf")
-    png_path = os.path.join(art_base, "art", f"ornament_ch{n:02d}.png")
-    ornament_tex = ""
-    ornament_file = None
-    if os.path.exists(pdf_path):
-        ornament_file = pdf_path
-    elif os.path.exists(png_path):
-        ornament_file = png_path
-    if ornament_file:
-        ornament_tex = (
-            f"\\begin{{center}}\n"
-            f"\\includegraphics[width=0.8in]{{{ornament_file}}}\n"
-            f"\\end{{center}}\n"
-            f"\\vspace{{0.15in}}\n"
-        )
-    
-    chapters_tex.append(f"\\chapter{{{latex_escape(chapter_name)}}}\n\n{ornament_tex}{latex_body}\n")
-    print(f"  {n:2d}. {title_line}")
+def main():
+    chapter_paths = sorted(CHAPTERS_DIR.glob("ch_*.md"))
+    if not chapter_paths:
+        raise SystemExit("No chapter files found in chapters/")
 
-content = '\n\\clearpage\n\n'.join(chapters_tex)
+    chapters_tex = []
+    for path in chapter_paths:
+        m = re.search(r"ch_(\d+)", path.stem)
+        ch_num = int(m.group(1)) if m else 0
 
-with open(os.path.join(OUT_DIR, "chapters_content.tex"), 'w') as f:
-    f.write(content)
+        text = path.read_text(encoding="utf-8")
+        lines = text.strip().split('\n')
+        title_line = lines[0].lstrip('# ').strip() if lines else path.stem
+        body = '\n'.join(lines[1:]).strip() if len(lines) > 1 else ""
 
-print(f"\nWrote {len(chapters_tex)} chapters to typeset/chapters_content.tex")
+        if ': ' in title_line:
+            label, subtitle = title_line.split(': ', 1)
+        else:
+            label, subtitle = title_line, ""
+
+        chapter_name = subtitle if subtitle else label
+        latex_body = md_to_latex(body)
+        latex_body = make_drop_cap(latex_body)
+
+        pdf_path = BASE_DIR / "art" / "pdf" / f"ornament_ch{ch_num:02d}.pdf"
+        png_path = BASE_DIR / "art" / f"ornament_ch{ch_num:02d}.png"
+        ornament_tex = ""
+        ornament_file = None
+        if pdf_path.exists():
+            ornament_file = pdf_path
+        elif png_path.exists():
+            ornament_file = png_path
+
+        if ornament_file:
+            ornament_rel = ornament_file.relative_to(OUT_DIR).as_posix()
+            ornament_tex = (
+                "\\begin{center}\n"
+                f"\\includegraphics[width=0.8in]{{{ornament_rel}}}\n"
+                "\\end{center}\n"
+                "\\vspace{0.15in}\n"
+            )
+
+        chapters_tex.append(f"\\chapter{{{latex_escape(chapter_name)}}}\n\n{ornament_tex}{latex_body}\n")
+        print(f"  {ch_num:2d}. {title_line}")
+
+    content = '\n\\clearpage\n\n'.join(chapters_tex)
+    out_file = OUT_DIR / "chapters_content.tex"
+    out_file.write_text(content, encoding="utf-8")
+    print(f"\nWrote {len(chapters_tex)} chapters to {out_file.relative_to(BASE_DIR).as_posix()}")
+
+
+if __name__ == "__main__":
+    main()
