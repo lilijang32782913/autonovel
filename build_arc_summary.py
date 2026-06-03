@@ -46,10 +46,20 @@ def extract_key_passages(text):
 
 def main():
     summaries = []
-    
-    for ch in range(1, 20):
+
+    chapter_files = sorted(CHAPTERS_DIR.glob("ch_*.md"))
+    if not chapter_files:
+        raise FileNotFoundError("No chapter files found in chapters/")
+
+    chapter_nums = []
+    for path in chapter_files:
+        m = re.search(r"ch_(\d+)\.md$", path.name)
+        if m:
+            chapter_nums.append(int(m.group(1)))
+
+    for ch in chapter_nums:
         path = CHAPTERS_DIR / f"ch_{ch:02d}.md"
-        text = path.read_text()
+        text = path.read_text(encoding="utf-8", errors="replace")
         wc = len(text.split())
         opening, closing, dialogue = extract_key_passages(text)
         
@@ -73,16 +83,19 @@ def main():
         
         summaries.append(entry)
         print(f"Ch {ch}: summarized ({wc}w)")
-    
+
     # Calculate total word count
-    total_wc = sum(len((CHAPTERS_DIR / f"ch_{c:02d}.md").read_text().split()) for c in range(1, 20))
+    total_wc = sum(
+        len((CHAPTERS_DIR / f"ch_{c:02d}.md").read_text(encoding="utf-8", errors="replace").split())
+        for c in chapter_nums
+    )
     
     # Assemble
     full = f"""# THE SECOND SON OF THE HOUSE OF BELLS
 ## Full-Arc Summary for Reader Panel
 
 This document contains chapter summaries, opening/closing passages,
-and key dialogue for all 23 chapters. Total novel: {total_wc:,} words.
+and key dialogue for all {len(chapter_nums)} chapters. Total novel: {total_wc:,} words.
 
 PREMISE: In Cantamura, a city where law is sung into binding through
 specific musical intervals, 14-year-old Cass Bellwright can hear when
@@ -100,7 +113,7 @@ ever answered. Every binding in Cantamura is technically void.
     full += '\n---\n\n'.join(summaries)
     
     out_path = BASE_DIR / "arc_summary.md"
-    out_path.write_text(full)
+    out_path.write_text(full, encoding="utf-8")
     print(f"\nSaved to {out_path} ({len(full.split())} words)")
 
 if __name__ == "__main__":

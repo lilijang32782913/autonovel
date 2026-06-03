@@ -51,13 +51,13 @@ def get_title():
     """Extract novel title from first chapter or outline."""
     outline = BASE_DIR / "outline.md"
     if outline.exists():
-        first_line = outline.read_text().split("\n")[0]
+        first_line = outline.read_text(encoding="utf-8", errors="replace").split("\n")[0]
         title = first_line.lstrip("# ").strip()
         if title:
             return title
     ch1 = CHAPTERS_DIR / "ch_01.md"
     if ch1.exists():
-        first_line = ch1.read_text().split("\n")[0]
+        first_line = ch1.read_text(encoding="utf-8", errors="replace").split("\n")[0]
         return first_line.lstrip("# ").strip()
     return "Untitled Novel"
 
@@ -71,7 +71,7 @@ def build_manuscript():
     
     parts = []
     for ch in chapters:
-        parts.append(ch.read_text())
+        parts.append(ch.read_text(encoding="utf-8", errors="replace"))
     
     manuscript = "\n\n---\n\n".join(parts)
     wc = len(manuscript.split())
@@ -211,12 +211,12 @@ def cmd_review(args):
     parsed["title"] = title
     parsed["word_count"] = len(manuscript.split())
     
-    log_path.write_text(json.dumps(parsed, indent=2, default=str))
+    log_path.write_text(json.dumps(parsed, indent=2, default=str), encoding="utf-8")
     print(f"\nReview saved to {log_path}", file=sys.stderr)
     
     # Save human-readable copy
     if args.output:
-        Path(args.output).write_text(review_text)
+        Path(args.output).write_text(review_text, encoding="utf-8")
         print(f"Human-readable copy: {args.output}", file=sys.stderr)
     
     # Print summary

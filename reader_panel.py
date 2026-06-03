@@ -53,7 +53,7 @@ def call_reader(reader_key, arc_summary):
     reader = READERS[reader_key]
     raw = chat_completion(
         model=JUDGE_MODEL,
-        prompt=READER_PROMPT.format(arc_summary=arc_summary),
+        prompt=READER_PANEL_PROMPT.format(arc_summary=arc_summary),
         system=reader["system"],
         max_tokens=4000,
         temperature=0.7,
@@ -117,7 +117,7 @@ def find_disagreements(results):
     return disagreements
 
 def main():
-    arc_summary = (BASE_DIR / "arc_summary.md").read_text()
+    arc_summary = (BASE_DIR / "arc_summary.md").read_text(encoding="utf-8", errors="replace")
     
     results = {}
     for reader_key, reader_info in READERS.items():
@@ -169,7 +169,7 @@ def main():
         "timestamp": datetime.now().isoformat()
     }
     out_path = BASE_DIR / "edit_logs" / "reader_panel.json"
-    with open(out_path, "w") as f:
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2)
     print(f"\nSaved to {out_path}")
 
