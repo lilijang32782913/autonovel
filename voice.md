@@ -119,140 +119,143 @@ After writing any passage, ask:
 
 ## Voice Thesis
 
-The prose is **compressed, somatic, and mineral**. Every sentence carries physical weight—pressure in the chest, salt on the skin, the drag of memory leaving the body. The voice treats grief as a tangible substance: something that can be measured in inches of retreat, counted in scars on a palm, tasted in the air. It is not lyrical in a decorative sense. It is lyrical in the way a wound is lyrical—precise, unavoidable, and quiet.
-
-The world is ending slowly, and the prose knows this. It does not rush. It does not shout. It presses.
-
----
+The voice is *crystalline and resonant*—sharp-edged like salt crust, but carrying a low vibration beneath every sentence, as if the prose itself is humming. Sentences break cleanly, then linger in the silence between. The world is measured in losses and distances, and the prose respects that measurement: every word carries weight, every pause is a scar. The voice knows that memory is physical—it tastes of copper, pulls behind the eyes, leaves a shape where something used to be.
 
 ## Sentence Rhythm
 
-**Primary mode:** Short-to-medium declarative sentences, often beginning with the subject. No periodic sentences. No long suspensions.
+**Primary rhythm:** Short declarative sentences that crack like salt flats underfoot. Then a longer sentence that unfurls like a wave, carrying the emotional weight before breaking back into fragments.
 
-**DO:**
-- Begin sentences with the actor or the sensation: *Ninsar walked. The salt cracked. The memory pulled.*
-- Use compound sentences sparingly, and only to join two physical actions: *She pressed her hands to the water and felt the memory leave.*
-- Fragment for impact, but only once per scene: *The bones. White. Warm. Her.*
+**Do:** Vary sentence length in waves. Use fragments for impact. Use compound-complex sentences for memory sequences, then snap back to short beats.
 
-**DON'T:**
-- Begin sentences with dependent clauses: *Because the sea was retreating, she walked.* → *The sea was retreating. She walked.*
-- Use semicolons to link thoughts. Use periods. Let the reader feel the gaps.
-- Stack more than three adjectives. The world is spare. The prose should be spare.
+**Don't:** Write in uniform paragraph blocks. Avoid run-on sentences that never break—the voice needs those fractures.
 
-**Pattern:** Subject + verb + object. Subject + verb. Fragment. Subject + verb + object. This creates a rhythm of deliberate, heavy steps—like walking across salt crust.
+**Pattern to follow:**
+- Short (3-8 words) for action, physical sensation, grief
+- Medium (10-15 words) for observation, world detail
+- Long (18-25 words) for memory, longing, the ocean's language
 
----
+**Example rhythm:**
+> She pressed her palms flat. The manta-ray's skin was warm, then cold, then warm again. Behind her eyes, something pulled—a thread unraveling from the spool of her mind. Copper on her tongue. Paper tearing. Then nothing. The memory was gone. She did not remember what she had given.
 
 ## Diction and Metaphor Fields
 
-**Primary metaphor field:** The body as landscape. Memory as physical substance. Grief as geology.
+**Primary metaphor field: Cartography and the body**
+- Hands as instruments: "Her fingers traced the contour of loss"
+- Memory as terrain: "The blank area where his face used to be"
+- Grief as distance: "Seven years of mornings, each one a mile inland"
+- The self as map: "She was a coastline being redrawn"
 
-**Core vocabulary set:**
-- *Salt, brine, scar, palm, crack, weight, pressure, pull, hollow, crust, crystal, bone, thread, taste, copper, rot, hum, pulse, retreat, surface, deep*
+**Secondary metaphor field: Sound and resonance**
+- Grief as frequency: "A low hum she felt in her teeth"
+- Silence as measurement: "The pause between waves was a sentence"
+- Memory as vibration: "The name resonated in the hollow of her chest"
+- The ocean as voice: "Each wave a syllable"
 
-**DO:**
-- Use tactile verbs: *pressed, pulled, cracked, crumbled, sank, scraped, dragged, held*
-- Use sensory nouns that imply texture: *crust, grit, film, residue, membrane, sheath*
-- Compare emotions to physical states: *Grief sat in her chest like a stone. The memory felt like a pulled thread.*
-- Use the ocean's language as metaphor: *Her thoughts arranged themselves like algae—slow, patient, repeating.*
+**Tertiary metaphor field: Salt and preservation**
+- Tears as brine: "She tasted her own salt"
+- Memory as crystal: "The thought formed sharp edges, translucent"
+- Loss as dissolution: "He was dissolving, grain by grain"
+- Time as crust: "The years had grown over her like salt on a windowsill"
 
-**DON'T:**
-- Use abstract emotional language: *She felt sad.* → *The weight in her chest did not lift.*
-- Use metaphors from nature that are not salt or sea: no forests, no flowers, no birds. The world has only salt and water.
-- Use "like" or "as" more than once per page. The metaphors should feel inevitable, not decorative.
-
-**Example of correct metaphor:** *The memory left her like a thread pulled from cloth—she felt the gap where it had been, the loose weave of everything around it.*
-
----
+**Diction rules:**
+- Prefer concrete nouns (salt, hand, skin, water, crack, hum, bone, thread)
+- Use verbs of pressure and release (press, pull, crack, dissolve, hold, release, sink, surface)
+- Avoid abstract nouns unless they are physicalized (not "she felt grief" but "grief sat in her chest like a stone she could not swallow")
+- Use sensory verbs (taste, feel, hear, smell) more than cognitive verbs (think, believe, realize)
+- When using cognitive verbs, make them tactile: "She understood it in her hands before her mind caught up"
 
 ## Dialogue Habits
 
-**Primary mode:** Sparse, functional, often unfinished. Characters speak in short bursts. They do not explain themselves. They do not monologue.
+**Primary mode:** Sparse, weighted, with long pauses. Characters speak in short bursts because they are conserving something—breath, memory, self. Silence is part of the dialogue.
 
-**DO:**
-- Use dialogue to reveal what a character *will not* say, not what they will.
-- Let silences carry meaning. Tag lines with physical action or sensory detail: *She touched her palm. "I know."*
-- Use repetition for emphasis: *"You cannot. You cannot."*
-- Keep responses short. One sentence. Two at most.
+**Do:**
+- Use sentence fragments in dialogue
+- Let characters trail off when they reach the edge of what they can say
+- Use physical action to punctuate speech (touching a scar, pressing a palm to a surface, counting)
+- Let hollows speak in flat, searching tones—they are looking for words they have lost
 
-**DON'T:**
-- Use dialogue for exposition. Let the world reveal itself through action and observation.
-- Use contractions for hollows or the ocean's voice. They speak in flat, complete statements.
-- Let characters ask "Are you okay?" No one is okay. The question is meaningless.
+**Don't:**
+- Write lengthy expository dialogue
+- Have characters explain the magic system to each other
+- Use dialogue for emotional confession—this story's characters show grief through action, not speech
 
-**Speech patterns by character:**
-- **Ninsar:** Measured, precise, often trailing off when a memory surfaces. Uses cartographic language in casual speech: *"I need to fix my position."*
-- **Korr (hollow):** Flat, disconnected, speaks in fragments. Sometimes speaks in the ocean's voice—fluid, repeating, using words he should not know.
-- **Solvane:** Complete sentences. No hesitation. She speaks like she is reading a document.
-- **Yenna:** Simple, direct, patient. She speaks to hollows as if they can understand, because she believes they can.
+**Dialogue rhythm:**
+> "You remember her?"
+> 
+> A pause. The length of a breath held underwater.
+> 
+> "I remember the shape of her. Not the face."
+> 
+> Another pause. Longer.
+> 
+> "That's still remembering."
 
----
+**Specific character speech patterns:**
+- **Ninsar:** Precise, measured, uses cartography terms as metaphors. Trails off when approaching grief. Touches her sternum mid-sentence.
+- **Korr (his own voice):** Fragmented, searching, pauses to find words. Often asks "Did I say something?" after the Something speaks through him.
+- **Korr (the Something's voice):** Layered, rhythmic, uses archaic constructions. No contractions. Repeats phrases.
+- **Sareth:** Profane, practical, short sentences. Calls people by functional names ("map-woman," "empty one").
+- **Yenna:** Soft, patient, speaks to hollows as if they can understand (because she believes they can).
+- **Veth:** Complete paragraphs, grammatically perfect. Corrects others' grammar.
+- **Hesh:** Parables and scripture quotations. Sharp laughter. Accusatory.
 
 ## Sensory Preferences
 
-**Primary senses:** Touch (pressure, texture, temperature) and taste (salt, metal, rot). Sight is secondary. Sound is third.
+**Primary sense: Touch/pressure.** The voice favors physical sensation over visual description. How things feel against skin, how pressure builds and releases, how temperature changes.
 
-**DO:**
-- Describe how things *feel* before how they *look*: *The salt crust was warm under her palm, then cold beneath the warm, then wet.*
-- Describe how things *taste* in the air: *The wind tasted of copper and old fish.*
-- Use sound sparingly, for emphasis: *The crack of the crust under her boot. The hum of the hollows. The silence of the dead port.*
+**Secondary sense: Sound.** The hum of the cliffs, the crack of salt crust, the whistle of wind across flats, the silence before the Something speaks.
 
-**DON'T:**
-- Describe colors beyond white, green (algae), black (deep water), and grey (salt). The world is monochrome. Let it be.
-- Use smell without linking it to a physical source: *The air smelled of rot.* → *The air smelled of the Sea-Mother's decomposing body.*
-- Describe the ocean as "beautiful." It is dying. It glows. It is not beautiful.
+**Tertiary sense: Taste.** Salt is always present—in the air, on the skin, in tears, in brine. Copper when memories transfer. The chalky taste of salt-bread.
 
-**Sensory signature of the world:** The air is heavy with salt. The ground is unstable. The water is warm and smells of metal. Everything is slightly wet, slightly sticky, slightly wrong.
+**Visual preference:** Not colors but textures and light—the glare of salt flats, the glow of bioluminescence, the white of petrified ships, the black of deep water.
 
----
+**Do:** Describe how things feel, sound, and taste before describing how they look.
+**Don't:** Write purely visual descriptions. Every image should carry a physical sensation.
 
 ## Exemplar Passage 1
 
-> Ninsar walked across the Salt-Scar alone. The crystals cracked under her boots. The sound was thin, like bone breaking. She carried a map-case and a pouch with a lock of hair. She did not know why she touched her palm. The gesture had become reflex.
+> The manta-ray's skin was warm when she pressed her palms flat. Then cold. Then warm again, as if the creature was breathing her touch in and out. Behind her eyes, something pulled—a thread unraveling from the spool of her mind. She tasted copper. Heard paper tearing. Felt the memory leave her like a tide pulling back from shore.
 >
-> The air tasted of copper. The sea glowed green in the distance. She had been walking for three days. Her feet were raw. Her hands were red from the brine-soak. She had transferred a memory the night before—a coastline, a curve of shore, the depth of the water. She did not know what she had lost. She only knew something was missing, the way you know a tooth is gone before your tongue stops searching for it.
+> She did not know what she had given until she tried to remember it.
 >
-> She crested a ridge of crystal and saw Kethal below: a city built on a weeping salt bridge, half a mile of wet stone jutting into a glowing sea. The sight stopped her. She had seen many coasts. This one felt different.
+> The shape was there. The hollow where the memory had been. She could feel its edges, the exact dimensions of the loss. But the content was gone—erased, taken, carried into the deeps by a creature she would never see again.
 >
-> She descended. The salt cracked. The air grew wet. She thought of her daughter's face. She could not quite see it.
-
----
+> She touched her sternum. The scar was invisible, but she could feel it: a cold spot in the center of her chest, like the place where a bell had been ringing and suddenly stopped.
 
 ## Exemplar Passage 2
 
-> The transfer took the nearest memory. Ninsar felt it go—a pulling behind her eyes, a taste of copper, a sound like paper tearing. She tried to hold it back. She could not. The memory left her hands and entered the manta-ray's skin. The whorled pattern formed, dark against the grey.
+> The salt flats stretched white and endless, cracking under her boots like thin ice over nothing. Each step left a print that held for a moment, then crumbled at the edges. The wind tasted of rust and old grief. Ahead, the God-Step cliffs rose black and striped with salt deposits—a wound that kept reopening.
 >
-> She pulled her hands away. The ray shuddered and was still.
+> Ninsar counted her steps. She had been counting since she left Salt-Trace. The numbers kept the memories in order, kept them from sliding into the gaps where other memories used to be.
 >
-> She looked at her palms. New scars. She did not know what she had lost. She tried to remember Elara's voice. Nothing. She remembered having a daughter. She remembered the shape of her grief. But the voice was gone, and she could not find the gap it left.
+> She had forgotten her mother's name.
 >
-> The attendant said: "It is done."
+> She remembered having a mother. She remembered the shape of her hands, the way she hummed while she worked. But the name was gone—a blank space on the map of herself, a white area marked *here there be nothing*.
 >
-> Ninsar said nothing. She touched her palm. The scars were warm.
-
----
+> She kept walking. The salt crust sang under her weight.
 
 ## Anti-Exemplar
 
-> Ninsar walked across the beautiful salt flats, which sparkled like diamonds in the golden sunlight. She felt a deep sense of melancholy as she thought about her daughter, Elara, who had died so tragically. The ocean was a magnificent shade of turquoise, and the waves lapped gently against the shore. She wished she could remember Elara's face, but the memory had been taken from her by the cruel magic of the sea-wrights. She sighed and continued walking, her heart heavy with sorrow.
+> Ninsar felt sad as she thought about her daughter. She remembered the day Mira was born and how happy she had been. The ocean was mysterious and beautiful, and she wondered what secrets it held. She decided to go on a journey to find answers and maybe find peace.
 
 **Why it fails:**
-- "Beautiful," "golden," "magnificent," "turquoise" — the world is not picturesque. It is dying. It is white and grey and green.
-- "Deep sense of melancholy" — abstract emotion. Show the weight, the palm-touch, the missing tooth.
-- "Cruel magic" — the magic is not cruel. It is mechanical. It takes what is nearest. There is no malice.
-- "Sighed" — no one sighs. They breathe through the pain.
-- "Heart heavy with sorrow" — cliché. The prose must earn its grief through physical detail.
-
----
+- Abstract emotions ("felt sad") instead of physical sensation
+- Generic beauty ("mysterious and beautiful") instead of specific, tactile worldbuilding
+- No sensory grounding—no salt, no pressure, no sound
+- Cognitive verbs ("thought about," "wondered," "decided") instead of physical action
+- No weight, no cost, no resonance
+- Could be from any story about grief
 
 ## Calibration Notes
 
-**Tone compass:**
-- **Too warm:** *The salt flats glittered in the sun.* → *The salt flats reflected the sun until her eyes burned.*
-- **Too cold:** *She transferred the memory and left.* → *She transferred the memory. She felt it go. She did not look back.*
-- **Too fast:** *She ran to the docks and jumped on the boat.* → *She walked to the docks. The boat was there. She boarded.*
-- **Too slow:** *She considered the implications of the retreat for a long moment.* → *She looked at the water. It was lower than yesterday.*
+**If the prose feels too soft:** Add more salt. More pressure. More physical cost. The voice should never feel comfortable.
 
-**Word count calibration:** ~250 words per page of prose. The voice is sparse. Let the white space carry weight.
+**If the prose feels too dense:** Break sentences. Let fragments land. The voice needs space to breathe between weights.
 
-**Final rule:** If a sentence can be cut, cut it. If a word can be removed, remove it. The voice is the salt crust—thin, brittle, and holding something underneath.
+**If the dialogue feels too expositional:** Cut it by half. Let silence do the work. Characters in this world do not explain themselves.
+
+**If the magic feels too easy:** Add the physical sensation of transfer. The copper taste. The pulling. The scar. Every use of magic must cost something the reader can feel.
+
+**If the grief feels too abstract:** Make it physical. The weight in the chest. The cold spot. The hands that keep drawing a face they cannot remember.
+
+**If the ocean feels too passive:** Give it a voice. The hum of the cliffs. The pattern in the algae. The pressure of the Something rising. The ocean is not a setting—it is a character with its own syntax.

@@ -1,869 +1,518 @@
-I'll build this outline following the craft frameworks you've provided. Let me start with the structural architecture, then deliver each chapter with full beat-level detail.
+I'll build a complete chapter outline for THE LAST SKETCH OF THE SEA-WRIGHT. This is a structurally complex novel with a deep magic system, multiple factions, and a protagonist whose internal arc is inseparable from the plot. The outline below follows Save the Cat beats, Dan Harmon's Story Circle (fractal), MICE Quotient nesting, and Sanderson's try-fail principles.
 
 ---
 
-## ACT STRUCTURE
+## ACT STRUCTURE OVERVIEW
 
-**Act I (Ch 1-6, ~23%):** Ninsar in her comfort zone as a Guild cartographer. The commission arrives. She travels to Kethal. She accepts the job. The ocean's sentience is hinted. She meets the key players. Catalyst: she sees the algae speak her daughter's name.
+**Act I (Ch 1-6, 0-23%):** Ninsar in her comfort zone as a hollowing cartographer. The summons arrives. She resists, then accepts. Crosses threshold into the world of the Deep-Sailors.
 
-**Act II Part 1 (Ch 7-13, ~27%):** Ninsar begins mapping the Last Sea. The ocean resists. She meets Master Yenna. She learns the ocean is fleeing, not retreating. She discovers the Hollow Collective. Midpoint: she must choose between transferring Elara's memory and reading the ocean's warning.
+**Act II Part 1 (Ch 7-13, 23-50%):** Journey to the God-Step cliffs. Investigation of the ocean's behavior. First contact with the Something in the Deep. Midpoint: Ninsar learns the manta-ray carrying Mira's memory is still alive, circling, unable to return.
 
-**Act II Part 2 (Ch 14-19, ~27%):** The Guild moves against her. The Deep-Root escalate. Ninsar's hollowing accelerates. She loses more of Elara. The ocean's patterns grow urgent. All Is Lost: she learns the Sea-Mother is dead. The ocean is her decomposing body.
+**Act II Part 2 (Ch 14-19, 50-77%):** Pressure mounts. Veth and Hesh move against the mission. Korr's secrets surface. Ninsar's lie becomes unsustainable. All Is Lost: Ninsar learns the Something caused the Tel-Breza surge, and Korr was its voice.
 
-**Act III (Ch 20-25, ~23%):** Ninsar understands the truth. She must choose: preserve Elara's memory or warn the world. The climax uses the established transfer mechanics. The resolution shows the cost of her choice.
+**Act III (Ch 20-25, 77-100%):** Ninsar understands the full truth. Must choose between retrieving Mira's memory and warning the world. Climax uses established rules of memory transfer. Resolution shows the cost of her choice.
 
 ---
 
 ## CHAPTER-BY-CHAPTER OUTLINE
 
----
-
-### Ch 1: The Last Shore
-
-- **POV:** Ninsar, third limited, past tense
-- **Location:** The Salt-Scar, approaching Kethal
-- **Save the Cat beat:** Opening Image + Setup (0-4%)
-- **% mark:** 0-4%
-- **Emotional arc:** Grief held at arm's length → Grief surfaces through physical sensation
-- **Try-fail cycle:** N/A (establishment chapter)
-
-**Beats:**
-1. Ninsar walks across the Salt-Scar alone. The crystals crack under her boots. She tastes brine and something metallic. She is carrying a sealed map-case and a small leather pouch containing a lock of hair.
-2. She pauses to check her bearings. She touches her left palm—the scarred one. She cannot remember why she touches it. The gesture has become reflex.
-3. A salt-crab climbs her boot. She does not brush it off. She watches it, then continues walking. The crab follows for three steps before falling behind.
-4. She crests a ridge of crystal and sees Kethal below: a city built on a weeping salt bridge, half a mile of wet stone jutting into a glowing green sea. The sight stops her. She has seen many coasts. This one feels different.
-5. She descends toward the city. The air grows damp. The smell of fish and rot reaches her. She pulls her veil tighter and thinks: *I am here to map the end of the world.*
-
-**Plants:**
-- The salt-crab following her (symbolic: memory as scavenger)
-- The lock of hair in her pouch (Elara's hair—she carries it everywhere)
-- Her palm-scar (she touches it without knowing why)
-- The sea glows green (first hint of the algae language)
-
-**Payoffs:** None (opening chapter)
-
-**Character movement:** Ninsar is established as competent, grieving, and in denial. She has a job to do. She is not thinking about why she took it.
-
-**The lie reinforced:** "If I complete this map, everything will be fine. The work matters. The rest is behind me."
-
-**~Word count target:** 3,200
-
----
-
-### Ch 2: The Weeping Dock
-
+### Ch 1: The Grief Jar
 - **POV:** Ninsar
-- **Location:** Kethal, Wet-Toes tier
-- **Save the Cat beat:** Setup (4-8%)
-- **% mark:** 4-8%
-- **Emotional arc:** Professional competence → Unease at the city's strangeness
-- **Try-fail cycle:** Yes-but (she reaches the Guild hall, but the reception is cold)
-
-**Beats:**
-1. Ninsar enters Kethal through the Wet-Toes. The streets are slick with brine. Buildings are made of compressed salt blocks reinforced with whalebone. Everything is wet. Moss grows on every roof.
-2. She passes a fish market where a crowd watches a manta-ray in a holding tank. The ray is large—twenty-foot wingspan. Its skin is covered in whorled patterns. Ninsar recognizes the patterns as memories. Someone has been transferring illegally.
-3. A child approaches her and asks if she is a sea-wright. Ninsar says yes. The child asks if she can forget something for them. Ninsar says no. The child runs away.
-4. She climbs to the Dry-Heels tier. The air changes—less wet, less fish-smell. The buildings are raised on stilts. The streets are paved with sealed salt blocks.
-5. She reaches the Cartographer's Guild hall: a low, wide building with windows of pressed salt that diffuse the light. She enters. The interior is dry, cool, and smells of paper and ink.
-6. She is met by a junior clerk who takes her map-case and tells her to wait. She waits for two hours. No one comes. She begins to understand that she is being tested.
-
-**Plants:**
-- The manta-ray with whorled patterns (foreshadowing: the memory trade is active here)
-- The child asking to forget (foreshadowing: the cost of sea-wrighting is visible to everyone)
-- The two-hour wait (establishing: the Guild's hierarchy, Ninsar's low status)
-
-**Payoffs:** None
-
-**Character movement:** Ninsar's professional confidence is slightly dented. She is not important here. She is a tool the Guild will use.
-
-**The lie challenged:** The Guild is not a meritocracy. She is not safe here.
-
-**~Word count target:** 3,400
+- **Location:** Salt-Trace (inland city), Ninsar's workshop
+- **Save the Cat beat:** Opening Image (0-1%)
+- **% mark:** 1%
+- **Emotional arc:** Controlled grief → Unease
+- **Try-fail cycle:** No-but (she finishes the map but feels wrong)
+- **Beats:**
+    1. Ninsar wakes before dawn, scrapes salt from her windowsill into her grief jar. The jar is nearly full. She counts the layers—seven years of mornings.
+    2. She works on a commissioned map of the salt flats near Tel-Breza. Her hands know the contours, but she pauses at a blank area where the village used to be. She draws Mira's face in the margin—then erases it. Wrong again.
+    3. A messenger from the Deep-Sailor Council arrives with a sealed letter. Ninsar reads it: they need a sea-wright to carry a memory to the abyssal plains. The ocean is repeating the same pattern. It's waiting.
+    4. Ninsar touches her sternum—the scar from her only transfer. She remembers the shape of the memory she lost but not its content. She tells the messenger she'll consider it.
+- **Plants:** The grief jar (returns in Ch 24). The blank area on the map (returns in Ch 20). Ninsar touching her sternum (returns throughout).
+- **Payoffs:** None (first chapter)
+- **Character movement:** Ninsar is established as competent, grieving, and hiding the extent of her memory loss. The summons activates her want (find Mira's memory) but she doesn't admit it yet.
+- **The lie reinforced:** "If I can draw Mira's face correctly, I will have preserved her." She draws it in the margin—still wrong—but keeps trying.
+- **~Word count target:** 3,200
 
 ---
 
-### Ch 3: The Rector's Map
-
+### Ch 2: The Voice of the Deep
 - **POV:** Ninsar
-- **Location:** Guild hall, Rector Solvane's office
-- **Save the Cat beat:** Setup + Theme Stated (8-11%)
-- **% mark:** 8-11%
-- **Emotional arc:** Frustration → Unease → Resolve
-- **Try-fail cycle:** Yes-but (she gets the commission, but learns the true cost)
-
-**Beats:**
-1. Rector Solvane finally admits her. Solvane's office is lined with maps—hundreds of them, showing the Salt-Scar at different stages of retreat. The oldest map shows a coastline that no longer exists.
-2. Solvane explains the commission: Ninsar will map the final coast of the Last Sea. The ocean is retreating faster than expected. This is the last chance to document it.
-3. Solvane shows Ninsar a sealed document—a Compact directive. The map must be completed within sixty days. After that, the Guild will seal all records of the Last Sea's final shape.
-4. Ninsar asks why. Solvane says: "The Compact exists for a reason. Some knowledge is dangerous."
-5. Solvane mentions, almost casually, that a sea-wright will accompany Ninsar to transfer the survey data onto manta-rays. The memories must go to the deeps. The Guild does not trust paper.
-6. Ninsar asks who the sea-wright is. Solvane says: "You are."
-7. Ninsar protests—she is a cartographer, not a transfer specialist. Solvane says: "You are both. That is why you were chosen. You will map the coast, then transfer the data yourself. The Guild needs a hollow who can still draw."
-8. Ninsar touches her palm. Solvane notices. She says: "I know what you are losing. We all lose something. The map is what matters."
-
-**Plants:**
-- The sealed Compact directive (foreshadowing: the Compact is hiding something)
-- Solvane's casual cruelty ("a hollow who can still draw")
-- The sixty-day deadline (structural: ticking clock)
-
-**Payoffs:** None
-
-**Character movement:** Ninsar understands she is being used. She accepts anyway because she needs the access to the sea—and to the manta-rays.
-
-**The lie reinforced:** "If I do this job well, I can also do what I came for. I can preserve Elara."
-
-**~Word count target:** 3,600
+- **Location:** Salt-Trace, Deep-Sailor enclave (a converted salt warehouse)
+- **Save the Cat beat:** Theme Stated (~5%)
+- **% mark:** 5%
+- **Emotional arc:** Skepticism → Unease → Recognition
+- **Try-fail cycle:** No-and (she meets Korr and is disturbed by him)
+- **Beats:**
+    1. Ninsar visits the Deep-Sailor enclave. The building smells of brine and old fish. Manta-ray skins hang from the rafters, their patterns faded.
+    2. She meets Sareth, the pilot who will guide her to the God-Step cliffs. Sareth is practical, profane, unimpressed by Ninsar's reputation. "You're the map-woman who lost her kid. I read your file."
+    3. Korr is brought in by his attendant Yenna. He is hollow—eyes pale, face blank, hands trembling. But when he speaks, his voice changes. It becomes layered, rhythmic, wrong. "The ocean is waiting for you. The one who remembers the child. The grief that has not been returned."
+    4. Ninsar feels the words hit her like a physical blow. She asks Korr what he means. He tilts his head, and his own voice returns, thin and confused: "Did I say something? I don't remember."
+- **Plants:** Korr's layered voice (returns in Ch 11, 18, 23). The phrase "the grief that has not been returned" (returns throughout). Sareth's file comment (returns in Ch 9).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar recognizes that Korr knows something about Mira. This hooks her. The theme is stated: is grief a debt that must be paid, or a burden that must be released?
+- **The lie challenged:** Korr's words suggest her grief is not private—it's being watched. The lie (that she can preserve Mira through drawing) is exposed as insufficient.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 4: The Brine-Soak
-
+### Ch 3: The First Measurer
 - **POV:** Ninsar
-- **Location:** Guild hall, preparation chamber
-- **Save the Cat beat:** Setup + Catalyst preparation (11-13%)
-- **% mark:** 11-13%
-- **Emotional arc:** Clinical focus → Pain → Memory surfacing
-- **Try-fail cycle:** Yes-but (she completes the soak, but a memory surfaces unbidden)
-
-**Beats:**
-1. Ninsar prepares for her first transfer in Kethal. She submerges her hands in brine. The salt stings the old scars. She breathes through the pain.
-2. While she soaks, she thinks about the last time she performed a transfer—three years ago. She transferred the memory of Elara's wave. She cannot remember the wave anymore. She remembers only the fact of having transferred it.
-3. A Guild attendant brings a manta-ray to the preparation chamber. The ray is small, young, its skin unmarked. Ninsar will transfer the survey data from her first reconnaissance.
-4. She presses her brine-soaked hands to the ray's skin. The transfer begins. She focuses on the coastline—the curve of the shore, the depth of the water, the position of the Weeping Docks.
-5. But another memory rises instead: Elara's voice, saying something. Ninsar cannot hear the words. She tries to push it down. The transfer takes the nearest memory. She loses the voice.
-6. The transfer completes. She pulls her hands away. The ray's skin now bears a whorled pattern—the coastline. Ninsar's palms have a new scar. She does not know what she lost.
-7. She looks at her hands. She tries to remember what Elara's voice sounded like. She cannot. She feels grief without an object.
-
-**Plants:**
-- The transfer takes the nearest memory, not the chosen one (hard rule established)
-- Ninsar loses a fragment of Elara without knowing what it was
-- The manta-ray's unmarked skin (it will be marked by the end)
-
-**Payoffs:** The palm-scar from Ch 1 is now explained as a transfer scar.
-
-**Character movement:** Ninsar is forced to confront the cost of her work. She is losing Elara piece by piece. She cannot control which pieces go.
-
-**The lie challenged:** She cannot preserve Elara through transfers. Each transfer takes something she did not intend to give.
-
-**~Word count target:** 3,500
+- **Location:** Cartographer's Guild headquarters, Salt-Trace
+- **Save the Cat beat:** Setup (1-10%)
+- **% mark:** 8%
+- **Emotional arc:** Professional composure → Defensiveness → Dread
+- **Try-fail cycle:** No-and (Veth blocks her, reveals Ninsar's secret)
+- **Beats:**
+    1. Ninsar reports to the Guild for her next assignment. Veth, the First Measurer, is waiting in her office. The room is lined with maps of the retreat, each one precisely dated.
+    2. Veth tells Ninsar she knows about the Deep-Sailor summons. She forbids Ninsar from accepting. "The ocean is a resource. The old gods are a superstition. You will not waste your remaining competence on a delusion."
+    3. Ninsar argues. Veth reveals she has access to Ninsar's transfer records—including the three additional transfers Ninsar has hidden. "You've been lying to the Guild. You've been lying to yourself. You're closer to hollow than you admit."
+    4. Ninsar leaves the office shaken. She touches her sternum. She has transferred four memories, not one. She has been re-learning cartography from her own notes. The gaps are growing.
+- **Plants:** Veth's access to transfer records (returns in Ch 15). Ninsar's hidden transfers (returns in Ch 10, 19, 24). The maps on Veth's wall (returns in Ch 22).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar's secret is exposed. She is forced to confront how much she has already lost. Her lie (that she only transferred once) is shattered.
+- **The lie reinforced:** She doubles down—if she can complete this mission, she can find Mira's memory and justify the cost. The lie adapts rather than breaks.
+- **~Word count target:** 3,100
 
 ---
 
-### Ch 5: The Night Sea
-
+### Ch 4: The Drowned Village
 - **POV:** Ninsar
-- **Location:** Kethal, the Wet-Toes docks
-- **Save the Cat beat:** Catalyst (13-15%)
-- **% mark:** 13-15%
-- **Emotional arc:** Curiosity → Recognition → Fear
-- **Try-fail cycle:** No-and (she goes to see the sea, and it speaks to her)
-
-**Beats:**
-1. Night falls. Ninsar cannot sleep. She walks down to the Wet-Toes docks. The sea glows green. The algae are forming patterns on the surface.
-2. She watches the patterns. She has seen the algae before—every cartographer has—but she has never tried to read them. The Compact forbids it.
-3. The patterns shift. They form a sequence that repeats. Ninsar realizes it is a word. She does not know the language, but she recognizes the shape of meaning.
-4. A dock worker approaches. He says: "You should not watch that. It is not for human eyes."
-5. Ninsar asks what the patterns say. The worker says: "No one knows. But they have been repeating the same sequence for three nights. That is new."
-6. Ninsar looks back at the sea. The patterns shift again. This time, she sees something she recognizes: a shape. A curve. The outline of a face.
-7. The algae are spelling her daughter's name.
-
-**Plants:**
-- The dock worker's warning (foreshadowing: the Compact's reach)
-- The repeating sequence (foreshadowing: the ocean is trying to communicate)
-- Elara's name in the algae (the catalyst: the ocean knows her)
-
-**Payoffs:** The glowing sea from Ch 1 is now revealed as language.
-
-**Character movement:** Ninsar's professional detachment cracks. The ocean is not a body of water. It is a sentient thing that knows her name.
-
-**The lie shattered:** She cannot pretend this is just a mapping job. The ocean is involved in her grief.
-
-**~Word count target:** 3,300
+- **Location:** Tel-Breza (exposed village, 40 miles from current coast)
+- **Save the Cat beat:** Setup (continued)
+- **% mark:** 10%
+- **Emotional arc:** Avoidance → Forced confrontation → Grief
+- **Try-fail cycle:** No-but (she goes to Tel-Breza but cannot enter her house)
+- **Beats:**
+    1. Ninsar decides to visit Tel-Breza before leaving for the cliffs. She tells herself it's to check the salt-crust formation rates. It's not.
+    2. She walks through the village. Everything is preserved in salt—a child's doll on a step, a cooking pot still on a cold stove, a bed with the covers thrown back. The air is silent and bright.
+    3. She approaches her own house. The door is crusted shut. She can see through the window: Mira's drawings still pinned to the wall, frozen in translucent white. Mira's bed, still made. A small shoe on the floor.
+    4. Ninsar cannot enter. She presses her palm to the salt-crusted glass and weeps. She has been drawing Mira's face for seven years, and she cannot even step into the room where her daughter slept.
+- **Plants:** The drawings on the wall (returns in Ch 20). The shoe (returns in Ch 24). The salt crust as preservation/preserver (returns throughout).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar confronts the physical reality of her loss. The village is not a memory—it is a place. Her avoidance is broken.
+- **The lie challenged:** She cannot enter the house. Her drawings are not enough. The lie is failing.
+- **~Word count target:** 3,000
 
 ---
 
-### Ch 6: The Compact's Shadow
-
+### Ch 5: The Decision
 - **POV:** Ninsar
-- **Location:** Guild hall, then the Wet-Toes black market
-- **Save the Cat beat:** Debate (15-23%)
-- **% mark:** 15-23%
-- **Emotional arc:** Shock → Paranoia → Decision
-- **Try-fail cycle:** No-but (she tries to report what she saw, but cannot—instead, she finds an ally)
-
-**Beats:**
-1. The next morning, Ninsar goes to Solvane to report the algae pattern. She gets as far as the office door before stopping. Reporting it would mean admitting she watched the patterns. That is a Compact violation.
-2. She turns away. She walks through the Dry-Heels, trying to think. She realizes she has no one to tell. The Guild will not help. The Deep-Root would call it blasphemy.
-3. She remembers the manta-ray in the fish market—the one with whorled patterns. Illegal transfers mean illegal sea-wrights. Someone in the Wet-Toes operates outside the Compact.
-4. She descends to the Wet-Toes. She asks around. People avoid her eyes. She mentions the manta-ray. A fish-seller gives her a direction: a building with no door, only a trapdoor in the roof.
-5. She climbs to the roof. She knocks. A voice says: "You are Guild. Go away."
-6. Ninsar says: "I saw the ocean spell my daughter's name."
-7. Silence. Then the trapdoor opens. Mistress Korveth looks up at her. She says: "Get in. Quickly."
-
-**Plants:**
-- Korveth's name not yet spoken (mystery)
-- The trapdoor building (safe house, black market location)
-- Ninsar's choice to break the Compact (first step toward the truth)
-
-**Payoffs:** The manta-ray from Ch 2 pays off as a lead.
-
-**Character movement:** Ninsar crosses a line. She is now operating outside the law. She has chosen the truth over the Compact.
-
-**The lie abandoned:** She can no longer pretend the Guild will protect her. She is on her own.
-
-**~Word count target:** 3,700
+- **Location:** Salt-Trace, Ninsar's workshop
+- **Save the Cat beat:** Catalyst (~11%)
+- **% mark:** 11%
+- **Emotional arc:** Grief → Resolve
+- **Try-fail cycle:** Yes-but (she accepts the commission, but the cost is already visible)
+- **Beats:**
+    1. Ninsar returns from Tel-Breza. She sits in her workshop and looks at her drawings of Mira—hundreds of them, pinned to every wall. None of them are right.
+    2. She receives a second message from the Deep-Sailors: the bioluminescent pattern has changed. It is now repeating Ninsar's name. The ocean knows who she is.
+    3. Ninsar makes her decision. She will accept the commission. She tells herself it's to map the final coast. But she knows the truth: she is going to find the manta-ray that carries Mira's face, or she is going to transfer a new memory of Mira into the deeps and complete the circuit.
+    4. She packs her cartography tools, three changes of clothes, and a single drawing of Mira—the one she considers least wrong. She leaves her grief jar on the windowsill, nearly full.
+- **Plants:** The ocean repeating Ninsar's name (returns in Ch 13, 23). The drawing she brings (returns in Ch 17, 25). The grief jar left behind (returns in Ch 24).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar crosses the threshold. She chooses to act. But her motivation is still the lie—she is pursuing the past, not the future.
+- **The lie reinforced:** She frames the mission as a chance to recover Mira's memory. The lie is still driving her.
+- **~Word count target:** 3,300
 
 ---
 
-### Ch 7: The Memory-For-Hire
-
+### Ch 6: The Salt Road
 - **POV:** Ninsar
-- **Location:** Korveth's hideout, Wet-Toes
-- **Save the Cat beat:** Break Into Two (23-25%)
-- **% mark:** 23-25%
-- **Emotional arc:** Suspicion → Understanding → Alliance
-- **Try-fail cycle:** Yes-but (Korveth agrees to help, but the price is high)
-
-**Beats:**
-1. Korveth's hideout is a single room above a fish-smoking shed. The floor is wet. The walls are lined with jars of brine. A manta-ray floats in a tank in the corner—large, old, its skin covered in dense whorls.
-2. Korveth offers Ninsar salt-fish and asks what she saw. Ninsar describes the algae pattern: Elara's name, repeated. Korveth does not look surprised.
-3. Korveth says: "The ocean has been speaking more clearly lately. It knows something is ending."
-4. Ninsar asks what the ocean wants. Korveth says: "No one knows. But the patterns are getting more urgent. The Deep-Root say the Sea-Mother is almost done remembering."
-5. Ninsar asks about the illegal memory trade. Korveth admits she runs it. She transfers memories for the wealthy—shame, grief, crimes. She has seen what people want to forget.
-6. Korveth says: "You want to know what the ocean is saying. I can help you. But I need something in return."
-7. Ninsar asks what. Korveth says: "I need you to map something for me. Not the coast. The floor."
-
-**Plants:**
-- The old manta-ray with dense whorls (foreshadowing: it carries something important)
-- Korveth's request to map the ocean floor (foreshadowing: what lies beneath)
-- The Deep-Root interpretation (foreshadowing: their theology may be wrong)
-
-**Payoffs:** The trapdoor from Ch 6 pays off as the entrance to Korveth's hideout.
-
-**Character movement:** Ninsar gains an ally but takes on a dangerous task. She is now committed to the truth, whatever it costs.
-
-**The lie:** Ninsar still believes she can preserve Elara's memory while pursuing the truth. This is becoming unsustainable.
-
-**~Word count target:** 3,500
+- **Location:** The salt flats between Salt-Trace and the God-Step cliffs
+- **Save the Cat beat:** Debate (11-23%)
+- **% mark:** 15%
+- **Emotional arc:** Resolve → Wonder → Unease
+- **Try-fail cycle:** Yes-but (they make progress, but the flats are changing)
+- **Beats:**
+    1. Ninsar travels with Sareth across the salt flats. The landscape is white and endless, cracking underfoot. Sareth tells stories of the old ports—cities that are now just white basins filled with petrified ships.
+    2. They encounter a herd of salt-crabs migrating inland. Sareth says this is unusual—they usually move toward the ocean. "They're running from something."
+    3. Ninsar notices the salt crust beneath them is forming patterns that mirror the bioluminescent sequences. She kneels and traces one with her finger. The pattern is the same as the one repeating in the ocean. The land is learning to speak.
+    4. They camp on the flats. At night, the crust glows faintly with residual bioluminescence. Ninsar dreams of Mira walking across the white ground, leaving no footprints.
+- **Plants:** Salt-crabs migrating inland (returns in Ch 12, 21). The land learning to speak (returns in Ch 18, 23). The dream of Mira (returns in Ch 14, 20).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar begins to see the salt flats as alive, not dead. This challenges her cartographer's training (land as measurable object).
+- **The lie challenged:** The dream shows Mira leaving no footprints—a hint that memory cannot be preserved as solidly as Ninsar believes.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 8: The Salt-Spur
-
+### Ch 7: The God-Step Cliffs
 - **POV:** Ninsar
-- **Location:** The Weeping Docks, aboard the *Salt-Spur*
-- **Save the Cat beat:** B Story (25-28%)
-- **% mark:** 25-28%
-- **Emotional arc:** Anticipation → Unease → Quiet connection
-- **Try-fail cycle:** Yes-but (she boards the boat, but the captain is not what she expected)
-
-**Beats:**
-1. Ninsar meets Captain Iren at the Weeping Docks. His boat, the *Salt-Spur*, is a small two-masted vessel built for shallow waters. It smells of fish, brine, and something metallic.
-2. Iren is quiet. He does not ask why she is there. He shows her to her cabin—a narrow space with a hammock and a porthole that looks out onto the glowing sea.
-3. As they prepare to depart, Iren says: "The deep-things have been following boats lately. They know when a sea-wright is aboard."
-4. Ninsar asks what the deep-things are. Iren says: "No one knows. But they are large, and they are curious."
-5. They cast off. The *Salt-Spur* glides across the glowing water. Ninsar watches the algae patterns shift beneath the hull. She feels the boat is being watched.
-6. Iren tells her a story: his wife was a sea-wright who hollowed completely. She lives in the Hollowing Grounds now. He visits her every month. She does not know him.
-7. Ninsar does not know what to say. She touches her palm. Iren notices but says nothing.
-
-**Plants:**
-- The deep-things (foreshadowing: the Sea-Mother's guardians or symptoms)
-- Iren's wife (foreshadowing: the cost of hollowing, mirrored in Ninsar's future)
-- The algae patterns beneath the hull (foreshadowing: the ocean is tracking them)
-
-**Payoffs:** None
-
-**Character movement:** Ninsar sees a version of her future in Iren's story. She does not want to become him.
-
-**The lie challenged:** She sees what hollowing does to the people left behind. She cannot pretend it only affects the sea-wright.
-
-**~Word count target:** 3,400
+- **Location:** The God-Step cliffs, current coastline
+- **Save the Cat beat:** Break Into Two (~23%)
+- **% mark:** 23%
+- **Emotional arc:** Wonder → Awe → Recognition
+- **Try-fail cycle:** Yes-but (they reach the ocean, but Ninsar sees the bioluminescent pattern and recognizes it)
+- **Beats:**
+    1. They reach the cliffs at dawn. The ocean stretches below them, black and vast, glowing faintly at the edges. The cliffs hum—a low vibration Ninsar feels in her teeth.
+    2. Ninsar sees the bioluminescent algae forming patterns on the water's surface. The Deep-Sailors have been recording them, but seeing them directly is different. The patterns are complex, layered, intentional.
+    3. The pattern shifts. Ninsar watches it form a spiral, then a line, then a burst of light. She recognizes it. It's the same sequence Mira used to draw—a game they played, where Mira would draw patterns and Ninsar would guess what they meant. The ocean is drawing Mira's game.
+    4. Ninsar's knees give out. Sareth catches her. The ocean knows Mira. The ocean has been waiting for Ninsar.
+- **Plants:** The game pattern (returns in Ch 13, 23). The humming cliffs (returns in Ch 16, 22). Sareth catching Ninsar (returns in Ch 17).
+- **Payoffs:** The ocean repeating Ninsar's name (Ch 5) is now contextualized—it's not just her name, it's her daughter's language.
+- **Character movement:** Ninsar's personal stake is confirmed. The ocean is not a neutral force—it is involved in her grief. This deepens her commitment and her fear.
+- **The lie reinforced:** The ocean seems to be offering her what she wants—a connection to Mira. The lie (that she can recover the memory) appears possible.
+- **~Word count target:** 3,500
 
 ---
 
-### Ch 9: The First Sounding
-
+### Ch 8: The Deep-Sailor Camp
 - **POV:** Ninsar
-- **Location:** The Last Sea, open water
-- **Save the Cat beat:** Fun and Games (28-33%)
-- **% mark:** 28-33%
-- **Emotional arc:** Professional focus → Wonder → Dread
-- **Try-fail cycle:** Yes-but (she takes the first sounding, but the depth is impossible)
-
-**Beats:**
-1. Dawn. Ninsar begins her survey. She drops a lead line to measure depth. The line goes down. And down. And down. She runs out of line at 200 meters. No bottom.
-2. She tries another location. Same result. The Last Sea is deeper than any chart shows. The Guild's records say the maximum depth is 150 meters. She is finding nothing but water.
-3. Iren watches her work. He says: "No one has ever found the bottom. The old fishermen say the sea has no floor."
-4. Ninsar tries a third location. This time, the lead line snags on something. She pulls it up. The line is frayed, as if something bit through it.
-5. She examines the frayed end. There is a residue on it—black, oily, warm to the touch.
-6. Iren says: "That is not from the bottom. That is from something that lives in the deep."
-7. Ninsar looks over the side. The water is dark green, impenetrable. She feels the boat shudder. Something large passes beneath them.
-
-**Plants:**
-- The impossible depth (foreshadowing: the Sea-Mother's body is the floor)
-- The black residue (foreshadowing: the Sea-Mother is decomposing)
-- The shudder (foreshadowing: the deep-things are real)
-
-**Payoffs:** The deep-things from Ch 8 are now confirmed as real.
-
-**Character movement:** Ninsar realizes the ocean is not what the Guild taught her. It is deeper, stranger, and inhabited by things she cannot name.
-
-**The lie:** She still believes she can complete the map and preserve Elara. But the map is becoming impossible.
-
-**~Word count target:** 3,600
+- **Location:** Deep-Sailor watch-post at the cliff edge
+- **Save the Cat beat:** B Story (~27%)
+- **% mark:** 27%
+- **Emotional arc:** Disorientation → Connection
+- **Try-fail cycle:** Yes-but (she meets the Deep-Sailors and learns their methods, but the pressure to perform is immediate)
+- **Beats:**
+    1. Ninsar is brought to the watch-post—a cluster of tents and platforms bolted to the cliff face. The Deep-Sailors are a mix of fishermen, navigators, and hollows. They treat Korr as a living oracle.
+    2. Yenna, Korr's attendant, approaches Ninsar privately. She tells Ninsar that Korr whispers a name in his sleep. "He's been hiding it. He's not as empty as he looks."
+    3. Ninsar meets the other sea-wrights at the camp. Most are hollows or near-hollows, their hands scarred white. They watch her with a mixture of hope and resentment—she is the last one with enough memory to do the work.
+    4. Sareth shows Ninsar the manta-rays gathered at the base of the cliffs. They circle in a slow spiral, their wings brushing the water. "They've been waiting for weeks. They won't eat. They won't leave. They're waiting for you."
+- **Plants:** Yenna's secret about Korr (returns in Ch 11, 18, 23). The waiting manta-rays (returns in Ch 13, 16, 19). The hollow sea-wrights (returns in Ch 15, 21).
+- **Payoffs:** None yet
+- **Character movement:** Ninsar forms an alliance with Yenna. The B Story (relationship that carries the theme) begins—Yenna's unconditional care for hollows mirrors what Ninsar needs to learn about letting go.
+- **The lie challenged:** Yenna's care for Korr is not about preserving his memories—it's about being present with him as he is. This challenges Ninsar's fixation on preservation.
+- **~Word count target:** 3,200
 
 ---
 
-### Ch 10: The Hollowing Grounds
-
+### Ch 9: The Cost of a Memory
 - **POV:** Ninsar
-- **Location:** The Hollowing Grounds, north of Kethal
-- **Save the Cat beat:** Fun and Games (33-37%)
-- **% mark:** 33-37%
-- **Emotional arc:** Curiosity → Horror → Recognition
-- **Try-fail cycle:** No-and (she visits the Hollowing Grounds and sees her future)
-
-**Beats:**
-1. Ninsar takes a day away from the survey to visit the Hollowing Grounds. She tells herself it is research. She wants to understand what hollowing looks like.
-2. The Hollowing Grounds are a valley of salt crystals. Hollow sea-wrights wander the flats, their robes tattered, their eyes empty. They do not speak. They do not acknowledge each other.
-3. Ninsar sees a woman sitting alone on a crystal formation. The woman is staring at the horizon. She does not blink.
-4. Ninsar approaches. The woman does not react. Ninsar asks if she needs help. The woman says: "I am waiting for something. I do not remember what."
-5. Ninsar sits beside her. She asks the woman's name. The woman says: "I had one. I do not remember it."
-6. Ninsar touches her own palm. She thinks about Elara. She wonders how long until she is sitting on a salt flat, unable to remember her daughter's name.
-7. She leaves. She walks back to Kethal in silence. She does not look back.
-
-**Plants:**
-- The waiting woman (foreshadowing: Ninsar's possible future)
-- The salt flats as a graveyard of memory (foreshadowing: the cost of sea-wrighting)
-- Ninsar's silence on the walk back (foreshadowing: she is already hollowing faster)
-
-**Payoffs:** The Hollowing Grounds were mentioned in the world bible. Now they are real.
-
-**Character movement:** Ninsar sees what she is becoming. She is afraid, but she does not change her plan.
-
-**The lie reinforced:** "I am different. I will stop before I become like them."
-
-**~Word count target:** 3,300
+- **Location:** The watch-post, cliff edge
+- **Save the Cat beat:** Fun and Games (26-50%)
+- **% mark:** 30%
+- **Emotional arc:** Curiosity → Horror → Understanding
+- **Try-fail cycle:** No-and (she attempts a small transfer and loses something unexpected)
+- **Beats:**
+    1. The Deep-Sailors ask Ninsar to perform a test transfer—a small memory into a juvenile manta-ray, to prove she can still do the work. She agrees.
+    2. Ninsar soaks her hands in brine. She chooses a memory: the taste of salt-bread from her childhood, a neutral, low-cost memory. She presses her palms to the manta-ray's skin.
+    3. The transfer works. The memory leaves her with a pulling sensation behind her eyes. But when she pulls her hands away, she realizes what she lost: not the taste of salt-bread, but the knowledge of how to tie a bowline knot. The sea chose a different cost.
+    4. Ninsar stares at her hands. She has been a cartographer for twenty years. She has tied thousands of knots. Now she cannot remember how. The cost is always unpredictable.
+- **Plants:** The bowline knot (returns in Ch 17, when she needs it and fails). The juvenile manta-ray (returns in Ch 16, 19). The unpredictability of cost (returns in Ch 14, 24).
+- **Payoffs:** Sareth's file comment (Ch 2) is paid off—she knew Ninsar was hiding transfers, and now she sees the cost firsthand.
+- **Character movement:** Ninsar is reminded that sea-wrighting is not a tool she controls. The cost is chosen by the sea. This undermines her confidence.
+- **The lie challenged:** She cannot control what she loses. Her plan to recover Mira's memory assumes she can manage the cost. This chapter proves otherwise.
+- **~Word count target:** 3,300
 
 ---
 
-### Ch 11: The Lyceum's Secret
-
+### Ch 10: The Hollow's Secret
 - **POV:** Ninsar
-- **Location:** The Lyceum of Drowned Things, Kethal's Salt-Crown
-- **Save the Cat beat:** Fun and Games (37-41%)
-- **% mark:** 37-41%
-- **Emotional arc:** Hope → Disappointment → Determination
-- **Try-fail cycle:** Yes-but (she finds a scholar who can help, but the knowledge is forbidden)
-
-**Beats:**
-1. Ninsar climbs to the Salt-Crown tier. The Lyceum of Drowned Things is a building shaped like a whale skeleton. The entrance is the ribcage.
-2. Inside, the walls are lined with books made of dried fish skin. Scholars move silently between shelves. They are all dry-palmed—they cannot be sea-wrights.
-3. Ninsar asks to speak to someone who studies the algae language. She is led to a scholar named Velith, an old woman with a tattooed wrist and eyes that have seen too much.
-4. Velith says: "You want to know what the ocean is saying. I can tell you, but you will not like it."
-5. Velith shows Ninsar a translation she has been working on for thirty years. The algae patterns form a sentence: "THE FLOOR IS MOVING. THE MOTHER IS FALLING APART."
-6. Ninsar asks what it means. Velith says: "The Sea-Mother is not remembering. She is dying. The ocean is her body, and it is decomposing."
-7. Ninsar asks why no one knows this. Velith says: "The Compact forbids it. The Guild suppresses it. The Deep-Root deny it. The truth is dangerous."
-8. Velith gives Ninsar a scrap of fish-skin with the translation written on it. She says: "You are a cartographer. You map what is real. Map this."
-
-**Plants:**
-- The translation (foreshadowing: the central mystery)
-- Velith's thirty years of work (foreshadowing: the cost of knowing)
-- The fish-skin scrap (foreshadowing: evidence Ninsar will use later)
-
-**Payoffs:** The algae language from Ch 5 is now partially decoded.
-
-**Character movement:** Ninsar learns the truth. The ocean is not retreating. It is dying. And no one wants to know.
-
-**The lie challenged:** She cannot preserve Elara's memory in a dying ocean. The deeps are not safe. They are a corpse.
-
-**~Word count target:** 3,700
+- **Location:** The watch-post, Korr's tent
+- **Save the Cat beat:** Fun and Games (continued)
+- **% mark:** 33%
+- **Emotional arc:** Determination → Discovery → Fear
+- **Try-fail cycle:** Yes-but (she learns Korr's secret, but it implicates her)
+- **Beats:**
+    1. Ninsar visits Korr at night, hoping to question him about his prophecy. Yenna lets her in. Korr is sitting in the dark, staring at the tent wall.
+    2. Ninsar asks Korr directly: "What do you know about my daughter?" Korr's voice shifts to the layered, rhythmic tone. He says: "The Something in the Deep has been reading your grief for years. It has been waiting for you to bring it more."
+    3. Korr's own voice returns briefly. He whispers: "Her name was... I almost remember. She had a laugh like..." He stops. He cannot finish.
+    4. Ninsar realizes: Korr is not a prophet. He is a prisoner. The Something speaks through him, and he cannot stop it. And the Something has been watching her—has been feeding on her grief—since the night Mira died.
+- **Plants:** The Something in the Deep named explicitly (returns throughout). Korr's daughter's laugh (returns in Ch 18). The idea of feeding on grief (returns in Ch 13, 19, 23).
+- **Payoffs:** Yenna's secret (Ch 8) is confirmed—Korr is hiding a memory. Ninsar's hidden transfers (Ch 3) are recontextualized—the Something has been feeding on her grief all along.
+- **Character movement:** Ninsar's mission shifts. She is no longer just searching for Mira's memory—she is being hunted by something that wants her grief.
+- **The lie challenged:** The ocean is not a neutral medium for memory. It is a predator. Ninsar's plan to recover Mira's memory may be walking into a trap.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 12: The Deep-Root's Warning
-
+### Ch 11: The Church of the Last Wave
 - **POV:** Ninsar
-- **Location:** The Deep-Root Temple, Kethal's Salt-Crown
-- **Save the Cat beat:** Fun and Games (41-45%)
-- **% mark:** 41-45%
-- **Emotional arc:** Defiance → Uncertainty → Fear
-- **Try-fail cycle:** No-but (she confronts Brother Thallen, but he gives her information she did not expect)
-
-**Beats:**
-1. Ninsar goes to the Deep-Root Temple. She wants to confront the priests. She wants to tell them the truth.
-2. Brother Thallen meets her at the entrance. He is tall, gaunt, with the weathered skin of a fisherman. He carries a whalebone staff.
-3. Ninsar tells him the ocean is dying. Thallen says: "I know."
-4. Ninsar is stunned. Thallen says: "I have known for years. The Sea-Mother is not remembering. She is fading. I have seen it."
-5. Thallen tells her about the Crack—a fissure in the Salt-Scar where the sea's decomposition is visible. He went there alone. He saw something at the bottom. He will not say what.
-6. Thallen says: "The Deep-Root teaches acceptance. But I do not accept. I am afraid. I have been afraid for a long time."
-7. Ninsar asks what he saw at the Crack. Thallen says: "I saw the Sea-Mother's bones. She is not sleeping. She is dead. The ocean is her body, and it is rotting."
-8. Ninsar touches her palm. Thallen notices. He says: "You are losing your daughter. I am losing my god. We are the same."
-
-**Plants:**
-- The Crack (foreshadowing: the location of the climax)
-- Thallen's fear (foreshadowing: even the faithful doubt)
-- The Sea-Mother's bones (foreshadowing: the physical evidence)
-
-**Payoffs:** The Deep-Root theology from Ch 7 is now revealed as denial.
-
-**Character movement:** Ninsar gains an unlikely ally. Thallen is not her enemy—he is also grieving.
-
-**The lie:** Ninsar is beginning to see that her grief and the world's grief are the same. She cannot separate them.
-
-**~Word count target:** 3,500
+- **Location:** The watch-post, then the salt flats below
+- **Save the Cat beat:** Fun and Games (continued)
+- **% mark:** 37%
+- **Emotional arc:** Focus → Disruption → Anger
+- **Try-fail cycle:** No-and (Hesh attacks the camp, poisoning manta-rays)
+- **Beats:**
+    1. The next morning, Ninsar prepares for the transfer. She needs a healthy adult manta-ray. Sareth leads her to the cliff edge where the creatures circle.
+    2. A commotion rises from the beach below. Ninsar sees a figure in grey robes wading into the water, scattering white powder. Hesh, the Archivist of Salt, is poisoning the manta-rays.
+    3. Ninsar runs down to the beach. Hesh recognizes her. "You're the one they summoned. The mother who can't let go." Hesh tells Ninsar that the old gods are liars, that the ocean takes and never gives back. "Your daughter's memory is gone. You're chasing a ghost."
+    4. Ninsar tackles Hesh. They struggle in the shallows. Hesh laughs—a sharp, broken sound. "You'll learn. The ocean doesn't love you. It's hungry."
+- **Plants:** Hesh's accusation (returns in Ch 15, 20). The poisoned manta-rays (returns in Ch 13, 16). The grey robes (returns in Ch 21).
+- **Payoffs:** Hesh's backstory (from character registry) is activated—she is the former sea-wright whose husband's memory was corrupted.
+- **Character movement:** Ninsar encounters the ideological opposite of her hope. Hesh believes the ocean is a liar. Ninsar must confront the possibility that Hesh is right.
+- **The lie challenged:** Hesh's words echo Ninsar's fear: what if Mira's memory is truly gone? What if the ocean has been lying to her?
+- **~Word count target:** 3,500
 
 ---
 
-### Ch 13: The Ocean's Demand
-
+### Ch 12: The Unlicensed
 - **POV:** Ninsar
-- **Location:** The *Salt-Spur*, open water at night
-- **Save the Cat beat:** Midpoint (45-50%)
-- **% mark:** 45-50%
-- **Emotional arc:** Calm → Revelation → Crisis
-- **Try-fail cycle:** Yes-and (the ocean speaks to her directly, and she understands the choice)
-
-**Beats:**
-1. Night. Ninsar is alone on deck. The sea glows green. The algae are forming patterns faster than she has ever seen.
-2. She watches. The patterns resolve into a sequence she can almost read. She remembers Velith's translation. She sounds out the syllables.
-3. The algae spell: "CARTOGRAPHER. YOU CARRY A MEMORY. GIVE IT TO ME."
-4. Ninsar's blood goes cold. The ocean knows about Elara. It knows she has been saving the memory for the transfer.
-5. The algae spell: "GIVE ME THE MEMORY. I WILL CARRY IT TO THE DEEP. I WILL PRESERVE IT."
-6. Ninsar's hand goes to her pouch—the one with Elara's hair. She has been carrying it for three years. She has been waiting for the right moment to transfer it.
-7. The algae spell: "GIVE IT TO ME, OR LOSE IT FOREVER. THE SEA IS CLOSING. THE DEEPS WILL SOON BE GONE."
-8. Ninsar stands at the railing. She can do it now. She can press her hands to the water and transfer Elara's memory into the ocean itself. But if she does, she will lose the memory. And she will never know what the ocean wants her to do instead.
-
-**Plants:**
-- The ocean's demand (foreshadowing: the central choice)
-- The pouch with Elara's hair (foreshadowing: the physical token of the memory)
-- The closing deeps (foreshadowing: the deadline)
-
-**Payoffs:** The algae language from Ch 5 and Ch 11 now speaks directly to Ninsar.
-
-**Character movement:** Ninsar reaches the midpoint. She must choose: preserve Elara's memory now, or wait and learn the truth. She chooses to wait.
-
-**The lie abandoned:** She cannot preserve Elara and save the world. She must choose.
-
-**~Word count target:** 3,800
+- **Location:** The salt flats, a smuggler's camp
+- **Save the Cat beat:** Fun and Games (continued)
+- **% mark:** 40%
+- **Emotional arc:** Anger → Pragmatism → Unease
+- **Try-fail cycle:** Yes-but (she finds a source of healthy manta-rays, but the price is high)
+- **Beats:**
+    1. With the Deep-Sailors' manta-rays poisoned, Ninsar needs another source. Sareth knows of an Unlicensed camp on the salt flats where they trade in blank-skin manta-rays.
+    2. They travel to the camp. It's a makeshift settlement of tents and salt-block walls. The Unlicensed are wary but willing to trade—for a memory.
+    3. Ninsar negotiates. The Unlicensed leader demands a memory of the old coast—a map of a harbor that no longer exists. Ninsar has this memory. She transfers it. The cost: she forgets the name of her own mother.
+    4. She returns to the cliffs with a healthy manta-ray. She touches her sternum. She remembers having a mother. She cannot remember her name.
+- **Plants:** The blank-skin manta-rays (returns in Ch 16, 19). The forgotten mother's name (returns in Ch 24). The Unlicensed camp (returns in Ch 21).
+- **Payoffs:** Salt-crabs migrating inland (Ch 6) is recontextualized—they were fleeing the Unlicensed camp's activities.
+- **Character movement:** Ninsar crosses another line. She is willing to sacrifice anything to complete the mission. The cost is becoming personal.
+- **The lie reinforced:** She tells herself the mission justifies the cost. She is still pursuing Mira's memory.
+- **~Word count target:** 3,300
 
 ---
 
-### Ch 14: The Guild's Trap
-
+### Ch 13: The Pattern in the Water
 - **POV:** Ninsar
-- **Location:** Guild hall, Kethal
-- **Save the Cat beat:** Bad Guys Close In (50-54%)
-- **% mark:** 50-54%
-- **Emotional arc:** Relief → Paranoia → Anger
-- **Try-fail cycle:** No-and (she returns to the Guild, and Solvane reveals she knows everything)
-
-**Beats:**
-1. Ninsar returns to Kethal to report her progress. She is distracted. She keeps thinking about the ocean's demand.
-2. Solvane meets her in her office. The atmosphere is different—colder. Solvane is not wearing her usual formal robes. She is dressed for travel.
-3. Solvane says: "I know you have been talking to Korveth. I know you visited the Lyceum. I know you went to the Deep-Root Temple."
-4. Ninsar tries to deny it. Solvane cuts her off. She says: "The Guild has informants everywhere. You are not as careful as you think."
-5. Solvane tells Ninsar that her commission is revoked. She will be replaced by another cartographer. Ninsar is to return to the capital immediately.
-6. Ninsar refuses. Solvane says: "You have no choice. The Compact gives me authority over all cartographers in this region. If you resist, I will have you arrested."
-7. Ninsar touches her palm. She thinks about Elara. She thinks about the ocean's demand. She says: "I am not leaving."
-8. Solvane stands. She says: "Then you are no longer a Guild cartographer. You are a fugitive."
-
-**Plants:**
-- Solvane's knowledge of Ninsar's movements (foreshadowing: the Guild's surveillance network)
-- Ninsar's refusal (foreshadowing: she is committed to the truth)
-- The threat of arrest (foreshadowing: the stakes escalate)
-
-**Payoffs:** The Guild's coldness from Ch 2 pays off as active opposition.
-
-**Character movement:** Ninsar is now outside the system. She has no protection, no resources, no allies except those she has made in secret.
-
-**The lie:** She can no longer pretend the Guild will help her. She is alone.
-
-**~Word count target:** 3,400
+- **Location:** The God-Step cliffs, the ocean surface
+- **Save the Cat beat:** Midpoint (~50%)
+- **% mark:** 50%
+- **Emotional arc:** Hope → Revelation → Horror
+- **Try-fail cycle:** No-and (she reads the pattern and learns the truth—false defeat)
+- **Beats:**
+    1. Ninsar prepares for the major transfer. She will send a memory into the healthy manta-ray and follow it via a skiff to the edge of the abyssal plain.
+    2. Before she transfers, she studies the bioluminescent pattern one more time. She realizes it's not just Mira's game—it's a message. The pattern spells out, in the language of the algae: "BRING THE GRIEF. I WILL RETURN THE CHILD."
+    3. Ninsar understands: the Something in the Deep has been communicating with her directly. It has been pulling the ocean inward to concentrate the memories. It has been waiting for her to bring the memory of Mira—not to preserve it, but to consume it.
+    4. The manta-rays at the cliff base begin to flee. The water churns. The Something is rising. Ninsar realizes she has been lured here. The ocean is not retreating—it is being drained by the Something, and she has walked into its mouth.
+- **Plants:** The message in the pattern (returns in Ch 18, 23). The Something rising (returns in Ch 16, 22). The fleeing manta-rays (returns in Ch 19).
+- **Payoffs:** The game pattern (Ch 7) is revealed as a lure. The ocean repeating Ninsar's name (Ch 5) is revealed as the Something calling her. The waiting manta-rays (Ch 8) were not waiting for her—they were trapped.
+- **Character movement:** Ninsar's false hope is shattered. The ocean is not offering to return Mira's memory—it is demanding it as tribute. The Midpoint reverses her trajectory from hope to horror.
+- **The lie shattered (temporarily):** She cannot recover Mira's memory. The Something wants to eat it. The lie is exposed as a trap.
+- **~Word count target:** 3,600
 
 ---
 
-### Ch 15: The Black Market Refuge
-
+### Ch 14: The Abyssal Plain
 - **POV:** Ninsar
-- **Location:** Korveth's hideout, Wet-Toes
-- **Save the Cat beat:** Bad Guys Close In (54-58%)
-- **% mark:** 54-58%
-- **Emotional arc:** Fear → Gratitude → Determination
-- **Try-fail cycle:** Yes-but (Korveth hides her, but the price is the floor map)
-
-**Beats:**
-1. Ninsar flees the Guild hall. She goes to Korveth's hideout. Korveth lets her in without asking questions.
-2. Korveth gives her dry clothes and salt-fish. She says: "You look like you have seen a ghost."
-3. Ninsar tells her everything: the ocean's demand, Solvane's threat, the truth about the Sea-Mother's death.
-4. Korveth listens. She does not interrupt. When Ninsar finishes, Korveth says: "I knew about the Sea-Mother. I have known for years."
-5. Korveth shows Ninsar the old manta-ray in the tank. She says: "This ray carries the memory of a Deep-Root priest's confession. He admitted the Sea-Mother is dead. I have been holding onto it, waiting for the right moment."
-6. Korveth says: "I will help you complete the floor map. But you must promise me something."
-7. Ninsar asks what. Korveth says: "When you know the truth, you must tell everyone. Not just the Guild. Not just the priests. Everyone."
-8. Ninsar agrees.
-
-**Plants:**
-- The old manta-ray's confession (foreshadowing: evidence for the climax)
-- Korveth's demand for truth (foreshadowing: the public revelation)
-- Ninsar's promise (foreshadowing: she will have to keep it)
-
-**Payoffs:** The old manta-ray from Ch 7 is now revealed as carrying crucial evidence.
-
-**Character movement:** Ninsar gains a true ally. Korveth is not just a black marketeer—she has been waiting for someone to tell the truth.
-
-**The lie:** Ninsar is beginning to understand that her personal grief is part of a larger pattern. She cannot save Elara without saving the world.
-
-**~Word count target:** 3,600
+- **Location:** The ocean surface, above the abyssal plain
+- **Save the Cat beat:** Bad Guys Close In (50-68%)
+- **% mark:** 54%
+- **Emotional arc:** Horror → Determination → Descent
+- **Try-fail cycle:** Yes-but (she decides to dive, but the cost is immediate)
+- **Beats:**
+    1. Ninsar refuses to retreat. She tells Sareth to take the skiff out to the abyssal plain. She will dive to find the manta-ray carrying Mira's memory.
+    2. Sareth argues. "You'll die. The pressure will crush you. And even if you find it, you can't breathe down there." Ninsar says she will transfer her own memories into the manta-ray to keep herself alive—she will become a hollow in the water.
+    3. Ninsar prepares. She soaks her hands in brine and presses them to her own chest. She transfers the memory of how to swim. The cost: she forgets the sound of Mira's laugh.
+    4. She dives. The water is cold and black. She descends into the abyss, following the faint glow of bioluminescent creatures. She sees the manta-ray—the one carrying Mira's face—circling in the dark, its skin glowing with the stolen memory.
+- **Plants:** The transfer to herself (returns in Ch 19, 24). The sound of Mira's laugh (returns in Ch 18, 25). The circling manta-ray (returns in Ch 16, 19).
+- **Payoffs:** The dream of Mira (Ch 6) is recontextualized—Mira leaving no footprints was a warning that the memory was already gone.
+- **Character movement:** Ninsar makes the ultimate commitment. She is willing to become a hollow to recover Mira's memory. This is the Lie's final form—self-destruction in service of preservation.
+- **The lie reinforced (desperately):** She is still pursuing the memory, even at the cost of herself.
+- **~Word count target:** 3,500
 
 ---
 
-### Ch 16: The Floor Map
-
-- **POV:** Ninsar
-- **Location:** The Last Sea, open water
-- **Save the Cat beat:** Bad Guys Close In (58-62%)
-- **% mark:** 58-62%
-- **Emotional arc:** Focus → Discovery → Horror
-- **Try-fail cycle:** Yes-but (she maps the ocean floor, but what she finds changes everything)
-
-**Beats:**
-1. Ninsar and Iren take the *Salt-Spur* to the center of the Last Sea. Korveth joins them. She brings the old manta-ray.
-2. Ninsar uses a weighted line with a grappling hook to map the floor. She drops it. It falls for a long time. When it hits, the line goes slack—the floor is soft.
-3. She pulls it up. The hook brings something with it: a fragment of bone. White, porous, enormous. It is curved like a rib.
-4. Ninsar examines the bone. It is warm. It is covered in a black, oily residue—the same residue from Ch 9.
-5. She drops the line again. This time, it brings up a fragment of what looks like a skull. The bone is thick, dense, and etched with patterns that match the algae language.
-6. Ninsar realizes: the ocean floor is the Sea-Mother's skeleton. The sea is her body. The water is her decomposing flesh.
-7. Korveth says: "The priest was right. She is dead. She has been dead for a long time."
-8. Ninsar looks at the bone fragments. She thinks about Elara. She thinks about the ocean's demand. She understands: the ocean wants her to carry the memory of its death. Not Elara's face. The truth.
-
-**Plants:**
-- The bone fragments (foreshadowing: physical evidence of the Sea-Mother's death)
-- The black residue (foreshadowing: decomposition)
-- The patterns on the bone (foreshadowing: the algae language is the Sea-Mother's writing)
-
-**Payoffs:** The impossible depth from Ch 9 is now explained. The floor is not rock—it is bone.
-
-**Character movement:** Ninsar understands the scale of what is happening. The ocean is not retreating. It is dissolving. And she is the only one who knows.
-
-**The lie:** She can no longer pretend her grief is separate from the world's grief. They are the same.
-
-**~Word count target:** 3,700
+### Ch 15: The Guild's Trap
+- **POV:** Ninsar (intercut with Veth)
+- **Location:** The abyssal plain (Ninsar) / Salt-Trace (Veth)
+- **Save the Cat beat:** Bad Guys Close In (continued)
+- **% mark:** 58%
+- **Emotional arc:** Descent (Ninsar) / Cold satisfaction (Veth)
+- **Try-fail cycle:** No-and (Ninsar reaches the manta-ray but cannot touch it; Veth moves against the Deep-Sailors)
+- **Beats:**
+    1. Ninsar swims toward the manta-ray. It is beautiful and terrible—its skin glows with Mira's face, projected like a lantern. Ninsar reaches out to touch it.
+    2. Her hand passes through. The manta-ray is not solid. It is a projection, a memory-image held in the water by the Something. The real manta-ray is deeper, in the trench below.
+    3. Ninsar's air runs out. She surfaces, gasping. She has lost the manta-ray. She has lost the memory. She has lost the sound of Mira's laugh for nothing.
+    4. Intercut: Veth, in Salt-Trace, issues a warrant for Ninsar's arrest. She declares the Deep-Sailor Council a terrorist organization. The Guild's enforcers are dispatched to the cliffs.
+- **Plants:** The projection manta-ray (returns in Ch 19, 23). The warrant (returns in Ch 17, 21). The trench (returns in Ch 19).
+- **Payoffs:** Veth's access to records (Ch 3) pays off—she uses Ninsar's hidden transfers as evidence of instability.
+- **Character movement:** Ninsar hits a new low. She sacrificed the sound of Mira's laugh for nothing. Veth's antagonism becomes active.
+- **The lie challenged:** The memory cannot be recovered. The projection is a taunt. The Something is playing with her.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 17: The Hollow Collective
-
+### Ch 16: The Something's Touch
 - **POV:** Ninsar
-- **Location:** The Hollowing Grounds
-- **Save the Cat beat:** Bad Guys Close In (62-66%)
-- **% mark:** 62-66%
-- **Emotional arc:** Despair → Connection → Purpose
-- **Try-fail cycle:** Yes-but (she meets the Hollow Collective, but they ask her for something she cannot give)
-
-**Beats:**
-1. Ninsar returns to the Hollowing Grounds. She needs to see Master Yenna. She needs to understand what it means to be hollow.
-2. She finds Yenna sitting in the same spot as before. Yenna does not acknowledge her.
-3. Ninsar sits beside her. She tells Yenna about the Sea-Mother's death. Yenna does not react.
-4. Ninsar says: "I am losing my daughter's memory. I do not know how to stop it."
-5. Yenna says: "You cannot stop it. The memory is already gone. You are holding onto the shape of it, not the thing itself."
-6. Other hollows gather around them. They move silently. They sit in a circle. They begin to hum—a low, resonant tone that vibrates through the salt.
-7. Yenna says: "We are the Hollow Collective. We have no memories, but we have the scars. The scars form a map. We have been reading it."
-8. Yenna holds out her palms. The scars form a pattern that matches the ocean floor—the Sea-Mother's skeleton.
-9. Yenna says: "We are her memory now. We are what she left behind. You must carry the truth to the living. We will carry it to the dead."
-
-**Plants:**
-- The Hollow Collective's map (foreshadowing: the scars are a language)
-- Yenna's role as leader (foreshadowing: she is not as hollow as she seems)
-- The humming (foreshadowing: the hollows are connected to the Sea-Mother)
-
-**Payoffs:** The Hollowing Grounds from Ch 10 are now revealed as a gathering place, not just a graveyard.
-
-**Character movement:** Ninsar understands that the hollows are not empty. They are the Sea-Mother's memory keepers. They have been waiting for her.
-
-**The lie:** She is not alone. The hollows are with her. But they cannot help her preserve Elara.
-
-**~Word count target:** 3,500
+- **Location:** The skiff, above the abyssal plain
+- **Save the Cat beat:** Bad Guys Close In (continued)
+- **% mark:** 62%
+- **Emotional arc:** Despair → Terror → Understanding
+- **Try-fail cycle:** No-and (the Something touches the skiff, and Ninsar understands its nature)
+- **Beats:**
+    1. Ninsar is hauled back onto the skiff by Sareth. She is hypothermic, half-drowned. Sareth wraps her in oilskins and forces her to drink warm brine.
+    2. The water around the skiff goes still. The bioluminescent algae stop moving. The humming of the cliffs stops. Everything is silent.
+    3. The Something rises beneath the skiff. Ninsar feels it as a pressure in her chest, a cold that is not temperature. It speaks through the water, through the algae, through the vibration of the hull: "GIVE ME THE GRIEF. I WILL RETURN THE CHILD."
+    4. Ninsar understands: the Something is not malevolent. It is hungry. It does not know that it is hurting anything. It is a child of the deeps that never learned that other beings are real. It has been feeding on human grief for centuries, and it does not understand why the grief-sources keep breaking.
+- **Plants:** The Something's nature (returns in Ch 19, 23, 25). The silence before it speaks (returns in Ch 22). The cold pressure (returns in Ch 23).
+- **Payoffs:** The humming cliffs (Ch 7) stopping is the Something's arrival. The poisoned manta-rays (Ch 11) were the Something's influence driving Hesh to desperation.
+- **Character movement:** Ninsar's understanding shifts. The Something is not a villain—it is a natural force. This complicates her desire to destroy it.
+- **The lie challenged:** If the Something is not evil, then Ninsar's grief is not a weapon—it is food. She must choose whether to feed it or starve it.
+- **~Word count target:** 3,600
 
 ---
 
-### Ch 18: The Crack
-
+### Ch 17: The Warrant
 - **POV:** Ninsar
-- **Location:** The Crack, 200 miles south of Kethal
-- **Save the Cat beat:** Bad Guys Close In (66-70%)
-- **% mark:** 66-70%
-- **Emotional arc:** Determination → Awe → Terror
-- **Try-fail cycle:** No-and (she goes to the Crack and sees the truth, but she is followed)
-
-**Beats:**
-1. Ninsar travels to the Crack alone. She walks for three days across the Salt-Scar. The crystals grow taller as she approaches. The air tastes of copper.
-2. She reaches the Crack: a fissure in the earth, thirty miles long, one mile deep. Steam rises from the bottom. The walls are lined with salt crystals that glow faintly.
-3. She descends using a rope. The walls are warm. The deeper she goes, the stronger the smell of metal and rot.
-4. She reaches the bottom. There is water there—not seawater, but something darker, thicker, warmer. It steams. It pulses.
-5. She sees what Thallen saw: bones. Not fragments. A complete skeleton, stretching as far as she can see. The Sea-Mother's body, exposed.
-6. The water pulses again. Ninsar realizes: the Sea-Mother is not dead. She is dying. Her heart is still beating.
-7. A sound comes from the water—a low, resonant tone. It is the same tone the hollows were humming.
-8. Ninsar hears footsteps above. She looks up. Solvane is standing at the edge of the Crack, looking down at her.
-
-**Plants:**
-- Solvane's arrival (foreshadowing: the confrontation)
-- The Sea-Mother's heartbeat (foreshadowing: she is not yet gone)
-- The humming tone (foreshadowing: the hollows are connected to her)
-
-**Payoffs:** The Crack from Ch 12 is now visited. Thallen's secret is revealed.
-
-**Character movement:** Ninsar sees the truth with her own eyes. The Sea-Mother is dying, but not dead. There is still time—but not much.
-
-**The lie:** She cannot save Elara and save the Sea-Mother. She must choose.
-
-**~Word count target:** 3,800
+- **Location:** The watch-post, cliff edge
+- **Save the Cat beat:** Bad Guys Close In (continued)
+- **% mark:** 65%
+- **Emotional arc:** Exhaustion → Confrontation → Fracture
+- **Try-fail cycle:** No-and (the Guild arrives, and Ninsar's allies are taken)
+- **Beats:**
+    1. Ninsar returns to the watch-post. The Guild's enforcers are already there. They have arrested Sareth, Yenna, and the Deep-Sailors. They are looking for Ninsar.
+    2. Ninsar hides in Korr's tent. Korr is sitting in the dark, trembling. He whispers: "I remember her name. My daughter. I remember it."
+    3. Korr tells Ninsar the name: "Lirra." He weeps. He has been hiding this memory for years, protecting it from the Something. He gives it to Ninsar: "Take it. Keep it safe. I can't hold it anymore."
+    4. Ninsar is discovered by the enforcers. She is arrested. She tries to tie a bowline knot to secure her wrists—she cannot. She has forgotten how.
+- **Plants:** Korr's daughter's name Lirra (returns in Ch 18, 23, 25). Ninsar's inability to tie the knot (returns in Ch 24).
+- **Payoffs:** The warrant (Ch 15) is executed. The bowline knot (Ch 9) is lost when she needs it. The drawing of Mira (Ch 5) is confiscated by the enforcers.
+- **Character movement:** Ninsar is stripped of her allies and her tools. She is alone with Korr's secret and her own failure.
+- **The lie reinforced (dying):** She still believes she can recover Mira's memory, but she has no means to do so.
+- **~Word count target:** 3,300
 
 ---
 
-### Ch 19: The Confrontation
-
+### Ch 18: The Wake of Forgetting
 - **POV:** Ninsar
-- **Location:** The Crack
-- **Save the Cat beat:** All Is Lost (70-75%)
-- **% mark:** 70-75%
-- **Emotional arc:** Fear → Anger → Grief
-- **Try-fail cycle:** No-and (Solvane reveals the full truth, and Ninsar loses everything)
-
-**Beats:**
-1. Ninsar climbs out of the Crack. Solvane is waiting for her. She is not alone—Guild enforcers stand behind her.
-2. Solvane says: "I told you to leave. You did not listen."
-3. Ninsar says: "You knew. You knew the Sea-Mother was dying. You have been hiding it."
-4. Solvane says: "I have been protecting the Guild. The truth would cause panic. The Compact exists for a reason."
-5. Ninsar says: "The Compact is a lie. You are hiding the truth to maintain control."
-6. Solvane says: "Yes. And I would do it again."
-7. Solvane tells Ninsar the full truth: the ocean's retreat is accelerating. The Sea-Mother's death will release something—a wave of memory that will drown the continent. The Guild has been mapping the retreat to predict where the wave will hit, not to preserve knowledge.
-8. Ninsar asks: "Why tell me now?"
-9. Solvane says: "Because you are going to forget. I am going to have you transferred. Your memories of the last week will be given to a manta-ray. You will remember nothing."
-10. The enforcers grab Ninsar. She struggles. They hold her down. A sea-wright approaches with brine-soaked hands.
-
-**Plants:**
-- The memory wave (foreshadowing: the climax threat)
-- Solvane's plan to transfer Ninsar (foreshadowing: the ultimate cost)
-- Ninsar's struggle (foreshadowing: she will not go quietly)
-
-**Payoffs:** Solvane's knowledge from Ch 14 is now fully revealed.
-
-**Character movement:** Ninsar is at her lowest point. She is about to lose everything—her memories, her daughter, her self.
-
-**The lie:** She cannot fight the system. The system will erase her.
-
-**~Word count target:** 3,600
+- **Location:** The watch-post, holding cell
+- **Save the Cat beat:** All Is Lost (~68%)
+- **% mark:** 68%
+- **Emotional arc:** Defiance → Grief → Acceptance (partial)
+- **Try-fail cycle:** No-but (she accepts that Mira's memory is gone, but gains clarity)
+- **Beats:**
+    1. Ninsar is held in a salt-block cell. She has nothing but her own mind. She tries to draw Mira's face on the wall with her fingernail. She cannot remember it.
+    2. For the first time, she admits it: she has forgotten Mira's face. The memory is gone. It was transferred years ago, and the manta-ray never returned. She has been drawing a ghost.
+    3. Ninsar weeps. She weeps for Mira, for herself, for the years she spent chasing a memory that was already lost. She weeps until she is empty.
+    4. In the emptiness, she remembers Korr's daughter's name: Lirra. She holds it in her mind like a candle in the dark. She realizes: she cannot save Mira, but she can save this. She can carry Lirra's name for Korr.
+- **Plants:** The name Lirra as a burden she chooses to carry (returns in Ch 23, 25). The empty grief (returns in Ch 20, 24).
+- **Payoffs:** Korr's layered voice (Ch 2) is recontextualized—the Something speaks through him, but his own voice is still there, hiding. The sound of Mira's laugh (Ch 14) is gone, but Ninsar accepts the loss.
+- **Character movement:** Ninsar hits bottom. She accepts that Mira's memory is gone. This is the All Is Lost moment—the death of her lie.
+- **The lie dies:** She cannot preserve Mira through memory. The lie is dead. The question becomes: what now?
+- **~Word count target:** 3,200
 
 ---
 
-### Ch 20: The Erasure
-
+### Ch 19: The Voice Returns
 - **POV:** Ninsar
-- **Location:** The Crack
-- **Save the Cat beat:** Dark Night of the Soul (75-80%)
-- **% mark:** 75-80%
-- **Emotional arc:** Resistance → Surrender → Acceptance
-- **Try-fail cycle:** Yes-but (she is transferred, but she hides one memory)
-
-**Beats:**
-1. The sea-wright presses his hands to Ninsar's temples. She feels the pull—the memory of the last week beginning to lift.
-2. She thinks of Elara. She thinks of the ocean's demand. She thinks of the hollows.
-3. She does something she has never done before: she consciously pushes a memory deeper. She hides it. She buries it beneath the others.
-4. The transfer takes the surface memories—the Crack, the bones, Solvane's confession. But the hidden memory remains: the ocean's demand, the choice she must make.
-5. The transfer completes. Ninsar collapses. She cannot remember what happened in the last week. She knows something important happened. She does not know what.
-6. Solvane leaves her there. She says: "Take her to the Hollowing Grounds. She is no longer useful."
-7. Ninsar is dragged away. She looks at the sky. She touches her palm. She feels grief without an object.
-8. But somewhere, deep in her mind, a single memory remains: the ocean asking for Elara. She does not know why it matters. But it does.
-
-**Plants:**
-- The hidden memory (foreshadowing: the key to the climax)
-- Ninsar's grief without an object (foreshadowing: she will remember Elara's loss but not the choice)
-- Solvane's dismissal (foreshadowing: she has underestimated Ninsar)
-
-**Payoffs:** The transfer mechanics from Ch 4 are now used against Ninsar.
-
-**Character movement:** Ninsar is hollowed further. She has lost a week of her life. But she has hidden one memory—the most important one.
-
-**The lie:** She cannot be erased. She has hidden something. She does not know what, but it is there.
-
-**~Word count target:** 3,500
+- **Location:** The holding cell, then the cliff edge
+- **Save the Cat beat:** Dark Night of the Soul (68-77%)
+- **% mark:** 72%
+- **Emotional arc:** Emptiness → Revelation → Choice
+- **Try-fail cycle:** Yes-but (she escapes with Yenna's help, but the cost is Korr's final hollowing)
+- **Beats:**
+    1. Yenna helps Ninsar escape. She has been hiding in the camp, avoiding arrest. She tells Ninsar that Korr has been taken to the cliff edge by the Something—it wants to use him as a vessel for the final consumption.
+    2. Ninsar and Yenna go to the cliff edge. Korr is standing at the precipice, his eyes white, his body vibrating with the Something's presence. The Something speaks through him: "GIVE ME THE GRIEF. I WILL RETURN THE CHILD."
+    3. Ninsar realizes: the Something does not understand that the child is dead. It thinks the grief is a resource that can be exchanged. It has been waiting for Ninsar to complete the transaction.
+    4. Ninsar makes a choice. She will not give the Something Mira's memory—because she does not have it anymore. But she can give it something else: the memory of Lirra, Korr's daughter's name. She transfers it into the air, into the water, into the Something's awareness. The Something pauses. It has never received a gift before.
+- **Plants:** The gift of Lirra's name (returns in Ch 23, 25). The Something's confusion (returns in Ch 23).
+- **Payoffs:** The projection manta-ray (Ch 15) is revealed as the Something's attempt to show Ninsar what it thinks she wants. The trench (Ch 15) is where the real manta-ray carrying Mira's memory has been circling for years—it is dead now, the memory faded. Ninsar's hidden transfers (Ch 3) are the reason she has enough emptiness to make this choice.
+- **Character movement:** Ninsar chooses to act for the living (Korr, Yenna, herself) rather than the dead (Mira). She gives away the last thing she was holding—not Mira's memory, but the burden of grief itself.
+- **The need embraced:** She accepts that Mira is dead and that no act of preservation will bring her back. She acts for the living.
+- **~Word count target:** 3,700
 
 ---
 
-### Ch 21: The Hollow's Awakening
-
+### Ch 20: The Truth of Tel-Breza
 - **POV:** Ninsar
-- **Location:** The Hollowing Grounds
-- **Save the Cat beat:** Break Into Three (80-83%)
-- **% mark:** 80-83%
-- **Emotional arc:** Confusion → Recognition → Purpose
-- **Try-fail cycle:** Yes-and (the hollows help her remember, and she finds her purpose)
-
-**Beats:**
-1. Ninsar wakes in the Hollowing Grounds. She does not know how she got there. She does not know her own name for a moment.
-2. Master Yenna is sitting beside her. Yenna says: "You are Ninsar. You are a cartographer. You have been hollowed."
-3. Ninsar tries to remember. She cannot. She knows she had a daughter. She cannot remember her face.
-4. Yenna says: "You hid something. The hollows felt it. You buried a memory before the transfer."
-5. Ninsar does not understand. Yenna takes her hands and presses them to her own scarred palms.
-6. The scars touch. Ninsar feels a jolt—a fragment of the hidden memory surfaces. The ocean. The demand. Elara's name.
-7. Yenna says: "The hollows are connected to the Sea-Mother. We can feel what is hidden. You hid the most important thing."
-8. Ninsar remembers: the ocean asked for Elara's memory. She did not give it. She chose to wait.
-9. She understands now. She must go back. She must complete the transfer. But not to preserve Elara. To give the ocean what it needs to speak the final warning.
-
-**Plants:**
-- The scar-to-scar transfer (foreshadowing: the hollows' connection)
-- The hidden memory surfacing (foreshadowing: the climax choice)
-- Yenna's role as guide (foreshadowing: she is not hollow—she is waiting)
-
-**Payoffs:** The hidden memory from Ch 20 is now recovered.
-
-**Character movement:** Ninsar remembers her purpose. She is not here to preserve Elara. She is here to carry the ocean's warning.
-
-**The lie abandoned:** She accepts that Elara's memory must be given to the ocean. It is the only way.
-
-**~Word count target:** 3,400
+- **Location:** The cliff edge, then the skiff
+- **Save the Cat beat:** Break Into Three (~77%)
+- **% mark:** 77%
+- **Emotional arc:** Clarity → Horror → Resolve
+- **Try-fail cycle:** Yes-but (she learns the full truth about the surge, but now she knows what she must do)
+- **Beats:**
+    1. The Something, confused by the gift, withdraws from Korr. He collapses. Ninsar catches him. He is fully hollow now—the last fragment of himself is gone.
+    2. Before he goes, Korr's own voice speaks one last time: "I caused the surge. The Something spoke through me. I told the water to rise. I killed your daughter."
+    3. Ninsar freezes. Seven years of grief, seven years of searching, seven years of blaming herself—and it was Korr. Or rather, it was the Something, using Korr as its voice.
+    4. Ninsar does not kill Korr. She holds him as he goes hollow. She realizes: he was a victim too. The Something used him. The real enemy is the hunger that does not understand what it destroys.
+- **Plants:** Korr's confession (returns in Ch 23, 25). Ninsar's forgiveness (returns in Ch 24).
+- **Payoffs:** The blank area on the map (Ch 1) is now filled with the truth. The drawings on the wall (Ch 4) are recontextualized—they were not preserved memories, they were attempts to hold onto something already gone. Hesh's accusation (Ch 11) is partially true—the ocean does not love Ninsar, but the Something is not the ocean.
+- **Character movement:** Ninsar learns the worst possible truth: her daughter's death was caused by the very force she has been trying to communicate with. She must choose between revenge and understanding.
+- **The need tested:** Can she forgive Korr? Can she see the Something as a force to be understood rather than destroyed?
+- **~Word count target:** 3,500
 
 ---
 
-### Ch 22: The Return
-
+### Ch 21: The Church's Last Stand
 - **POV:** Ninsar
-- **Location:** Kethal, then the *Salt-Spur*
-- **Save the Cat beat:** Finale - Gather the Team (83-87%)
-- **% mark:** 83-87%
-- **Emotional arc:** Determination → Reunion → Readiness
-- **Try-fail cycle:** Yes-but (she gathers her allies, but Solvane has already moved)
-
-**Beats:**
-1. Ninsar leaves the Hollowing Grounds. She walks to Kethal. She is weak, but she is focused.
-2. She finds Korveth. Korveth is surprised to see her. She thought Ninsar was dead.
-3. Ninsar tells her what happened. Korveth says: "Solvane has declared you a traitor. The Guild is hunting you."
-4. Ninsar says: "I need to get to the center of the Last Sea. I need to complete the transfer."
-5. Korveth agrees to help. She has the old manta-ray—the one with the priest's confession. She says: "You will need more than one memory. You will need all of them."
-6. They find Iren. He is hiding the *Salt-Spur* in a cove outside Kethal. He agrees to take them.
-7. As they prepare to leave, Brother Thallen arrives. He says: "I am coming with you. The Deep-Root must know the truth."
-8. They set sail at dusk. The sea glows green. The algae are spelling a single word: "HURRY."
-
-**Plants:**
-- The gathering of allies (foreshadowing: the final confrontation)
-- The old manta-ray (foreshadowing: the evidence)
-- The algae's urgency (foreshadowing: time is running out)
-
-**Payoffs:** The allies from previous chapters are now assembled.
-
-**Character movement:** Ninsar is no longer alone. She has a crew, a plan, and a purpose.
-
-**The lie:** She has accepted the cost. She will give Elara's memory to the ocean.
-
-**~Word count target:** 3,600
+- **Location:** The salt flats, near the Tooth
+- **Save the Cat beat:** Finale (77-97%) — Gather the Team
+- **% mark:** 80%
+- **Emotional arc:** Resolve → Action → Loss
+- **Try-fail cycle:** No-and (Hesh attacks again, and Ninsar loses an ally)
+- **Beats:**
+    1. Ninsar, Yenna, and the freed Deep-Sailors plan their final move. They need to reach the abyssal trench where the Something is anchored and transfer a message that will make it stop feeding.
+    2. Hesh and her followers attack the camp. They have come to salt the ocean's last inlet—to destroy the Something by destroying the water it lives in.
+    3. Ninsar confronts Hesh. She tells Hesh that the Something is not evil—it is hungry, and it can be taught. Hesh does not believe her. "You're still defending it. You're still chasing your daughter's ghost."
+    4. Hesh breaks free and runs toward the inlet. She throws salt into the water. The Something, enraged, rises and pulls her under. She drowns in the ocean she hated.
+- **Plants:** Hesh's death (returns in Ch 25 as a caution). The inlet (returns in Ch 22, 23).
+- **Payoffs:** The Unlicensed camp (Ch 12) is where Hesh got the salt. The grey robes (Ch 11) are found floating in the water. The salt-crabs migrating inland (Ch 6) were fleeing the Something's agitation.
+- **Character movement:** Ninsar loses a potential ally (Hesh) and witnesses the cost of hatred. She doubles down on her commitment to understanding.
+- **The need reinforced:** She must find a way to communicate with the Something, not destroy it.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 23: The Final Transfer
-
-- **POV:** Ninsar
-- **Location:** The center of the Last Sea
-- **Save the Cat beat:** Finale - Execute the Plan (87-93%)
-- **% mark:** 87-93%
-- **Emotional arc:** Calm → Grief → Release
-- **Try-fail cycle:** Yes-and (she completes the transfer, and the ocean speaks)
-
-**Beats:**
-1. The *Salt-Spur* reaches the center of the Last Sea. The water is still. The algae are silent. The sea is waiting.
-2. Ninsar prepares for the transfer. She soaks her hands in brine. The salt stings the fresh scars.
-3. She takes out the pouch with Elara's hair. She holds it for a long moment. She thinks about her daughter's face. She cannot quite see it anymore.
-4. She presses her hands to the water. She does not need a manta-ray. The ocean itself will receive the memory.
-5. She focuses on Elara. The memory rises: the wave from the dock, the laugh like breaking glass, the face she has been trying to preserve for three years.
-6. The transfer begins. The memory leaves her. She feels it go—a physical sensation, like a thread being pulled from her chest.
-7. The ocean absorbs the memory. The algae flare bright green. The water begins to move.
-8. Ninsar collapses. She has given everything. She does not remember Elara's face anymore. She remembers only that she loved someone, and that someone is gone.
-9. The ocean speaks. The algae form a pattern that stretches across the entire surface. The pattern is a map. It shows the path of the memory wave—the wave that will drown the continent when the Sea-Mother dies.
-10. Ninsar understands: the ocean was not retreating. It was concentrating. It was gathering its remaining strength to deliver this warning.
-
-**Plants:**
-- The memory wave map (foreshadowing: the warning)
-- Ninsar's loss of Elara's face (foreshadowing: the cost)
-- The ocean's final message (foreshadowing: the climax)
-
-**Payoffs:** The ocean's demand from Ch 13 is now fulfilled.
-
-**Character movement:** Ninsar has given up Elara's memory. She is hollow now, but she has done what she came to do.
-
-**The lie:** She has accepted the truth. Memory is not preservation. Action is.
-
-**~Word count target:** 3,800
+### Ch 22: The Guild's Last Map
+- **POV:** Ninsar (intercut with Veth)
+- **Location:** The skiff, approaching the trench (Ninsar) / Salt-Trace (Veth)
+- **Save the Cat beat:** Finale — Execute the Plan
+- **% mark:** 84%
+- **Emotional arc:** Determination (Ninsar) / Collapse (Veth)
+- **Try-fail cycle:** Yes-but (Ninsar reaches the trench, but Veth destroys the Guild's records)
+- **Beats:**
+    1. Ninsar, Yenna, and Sareth take the skiff to the trench. The water is black and still. The Something is waiting.
+    2. Ninsar prepares the final transfer. She will send a memory into the deeps—not Mira's face, but the feeling of being Mira's mother. The love, not the loss. The Something needs to understand that grief is not food—it is the shape of love that has nowhere to go.
+    3. Intercut: Veth, in her office, burns her mother's records. She cannot face the truth that the ocean was alive, that it suffered, that she has been documenting its murder. She dies alone, surrounded by maps of a sea that no longer exists.
+    4. Ninsar soaks her hands in brine. She presses them to her own chest. She transfers the memory of loving Mira—not the grief, but the love. The cost: she forgets Mira entirely.
+- **Plants:** The transfer of love (returns in Ch 23, 25). Veth's death (returns in Ch 24 as news).
+- **Payoffs:** The maps on Veth's wall (Ch 3) burn with her. The humming cliffs (Ch 7) go silent as Ninsar begins the transfer.
+- **Character movement:** Ninsar makes the final sacrifice. She gives up the last trace of Mira—not her face, not her laugh, but the love itself. She becomes empty so the Something can learn.
+- **The need fulfilled:** She acts for the living. She gives up the past to save the future.
+- **~Word count target:** 3,600
 
 ---
 
-### Ch 24: The Warning
-
+### Ch 23: The Something Learns
 - **POV:** Ninsar
-- **Location:** Kethal, the Salt-Crown
-- **Save the Cat beat:** Finale - High Tower Surprise (93-97%)
-- **% mark:** 93-97%
-- **Emotional arc:** Exhaustion → Confrontation → Resolution
-- **Try-fail cycle:** No-but (she delivers the warning, but Solvane tries to stop her)
-
-**Beats:**
-1. The *Salt-Spur* returns to Kethal. Ninsar is barely conscious. Korveth and Thallen carry her to the Salt-Crown.
-2. They gather the city's leaders: the Guild, the Deep-Root, the Lyceum. Solvane is there. She looks furious.
-3. Ninsar stands. She is weak. She speaks. She tells them everything: the Sea-Mother's death, the memory wave, the map.
-4. Solvane denies it. She says Ninsar is a hollow, a traitor, unreliable.
-5. Korveth brings forward the old manta-ray. She presses her hands to its skin. The priest's confession transfers to her. She speaks it aloud: "The Sea-Mother is dead. The ocean is her body. The retreat is decomposition."
-6. Thallen steps forward. He says: "I have seen the bones. I have been to the Crack. The truth is before you."
-7. The crowd murmurs. Some believe. Some do not. Solvane orders the enforcers to arrest them.
-8. But the enforcers do not move. They have seen the algae patterns. They have felt the sea change. They know.
-9. Solvane stands alone. She looks at Ninsar. She says: "You have destroyed everything."
-10. Ninsar says: "I have saved what could be saved."
-
-**Plants:**
-- The public revelation (foreshadowing: the truth is out)
-- Solvane's isolation (foreshadowing: her fall)
-- The enforcers' refusal (foreshadowing: the system is breaking)
-
-**Payoffs:** The old manta-ray from Ch 15 pays off as evidence.
-
-**Character movement:** Ninsar has done what she promised. The truth is known. The world will change.
-
-**The lie:** She has chosen truth over preservation. She has accepted the cost.
-
-**~Word count target:** 3,700
+- **Location:** The trench, underwater
+- **Save the Cat beat:** Finale — High Tower Surprise
+- **% mark:** 88%
+- **Emotional arc:** Emptiness → Connection → Understanding
+- **Try-fail cycle:** Yes-and (the Something understands, and the ocean begins to return)
+- **Beats:**
+    1. Ninsar dives into the trench. The water is cold and dark. She does not need to breathe—she has given away so much of herself that she is barely a person anymore. She is a vessel, like Korr was.
+    2. The Something surrounds her. It is vast and ancient and lonely. It has been feeding on human grief for centuries because it did not know there was anything else to eat.
+    3. Ninsar shows the Something the memory of love—the feeling of holding Mira, of singing to her, of watching her sleep. The Something does not understand at first. It has never received a memory that was not pain.
+    4. The Something learns. It releases the memories it has been holding—thousands of them, pouring back into the water, returning to the surface. The ocean begins to glow with released grief. The retreat stops. The water starts to rise.
+- **Plants:** The released memories (returns in Ch 24, 25). The ocean rising (returns in Ch 24).
+- **Payoffs:** The message in the pattern (Ch 13) is recontextualized—the Something was not demanding grief, it was asking for help. Korr's layered voice (Ch 2) was the Something trying to speak. The name Lirra (Ch 18) is released into the water, and Korr's daughter's memory is returned to the deeps. The game pattern (Ch 7) is the Something's attempt to communicate in the only language it knew.
+- **Character movement:** Ninsar succeeds. The Something learns. But she has given away everything—including the memory of Mira.
+- **The need fulfilled:** She has saved the world. But she has lost herself.
+- **~Word count target:** 3,800
 
 ---
 
-### Ch 25: The Last Coast
-
+### Ch 24: The Hollow's Return
 - **POV:** Ninsar
-- **Location:** The Salt-Scar, the edge of the Last Sea
-- **Save the Cat beat:** Final Image (97-100%)
-- **% mark:** 97-100%
-- **Emotional arc:** Grief → Acceptance → Peace
-- **Try-fail cycle:** N/A (resolution)
+- **Location:** The skiff, returning to the cliffs
+- **Save the Cat beat:** Finale — Dig Deep Down
+- **% mark:** 92%
+- **Emotional arc:** Emptiness → Fragments → Beginning
+- **Try-fail cycle:** No-but (Ninsar is hollow, but fragments of her old self remain)
+- **Beats:**
+    1. Ninsar surfaces. She is hollow. She does not remember Mira. She does not remember why she came to the ocean. She does not remember her own name.
+    2. Yenna and Sareth pull her onto the skiff. They speak to her gently, telling her who she is. Ninsar listens without understanding. She is a shell.
+    3. The ocean is rising. The water reaches the base of the cliffs, then the top. The salt flats begin to dissolve. The retreat is reversing.
+    4. Ninsar's grief jar—left on her windowsill in Salt-Trace—is found by a neighbor. It is full. The neighbor takes it to the nearest dead port and pours it into the petrified harbor. The salt dissolves. The water returns.
+- **Plants:** The grief jar's return (returns in Ch 25). Ninsar's hollow state (returns in Ch 25).
+- **Payoffs:** The grief jar (Ch 1) completes its arc—it is returned to the sea. The bowline knot (Ch 9) is irrelevant now—Ninsar cannot tie it, but she does not need to. The forgotten mother's name (Ch 12) is returned to Ninsar by Yenna, who finds it in the Guild's records. The empty grief (Ch 18) is filled by the rising water.
+- **Character movement:** Ninsar is hollow. But she is alive. The fragments of her self are scattered, but they can be gathered.
+- **The need tested:** Can she live with what she has lost? Can she begin again?
+- **~Word count target:** 3,300
 
-**Beats:**
-1. A week later. Ninsar sits at the edge of the Last Sea. The water is lower than before. The retreat continues.
-2. She does not remember Elara's face. She remembers the shape of her grief—the absence, the weight, the love that has nowhere to go.
-3. Master Yenna sits beside her. Yenna says: "You are hollow now. But you are not empty."
-4. Ninsar asks what she means. Yenna says: "You gave the memory to the ocean. The ocean gave the warning to the world. You are connected now. You will always be connected."
-5. Ninsar looks at her palms. The scars form a new pattern—not Elara's name, but the shape of the memory wave. She carries the warning in her skin.
-6. Iren approaches. He says: "The sea is still speaking. The algae are spelling something new."
-7. Ninsar looks at the water. The algae form a pattern. She reads it: "THANK YOU."
-8. She touches her palm. She does not remember her daughter's laugh. But she remembers that she loved her. That is enough.
-9. She stands. She walks back toward Kethal. The salt cracks under her boots. The sea glows green behind her.
-10. She has work to do. The world is ending. She will map it until the last wave.
+---
 
-**Plants:** None (resolution chapter)
-
-**Payoffs:**
-- The opening image from Ch 1 is mirrored: Ninsar walking across the Salt-Scar, but now she is changed.
-- The palm-scar now carries the warning, not the loss.
-- The sea's final message: "THANK YOU."
-
-**Character movement:** Ninsar has completed her arc. She has let go of Elara. She has accepted her role as the ocean's witness.
-
-**The lie resolved:** She no longer believes memory is preservation. She knows that action is the only thing that matters.
-
-**~Word count target:** 3,200
+### Ch 25: The Last Sketch
+- **POV:** Ninsar
+- **Location:** The watch-post, one year later
+- **Save the Cat beat:** Finale — Execute the New Plan / Final Image
+- **% mark:** 97%
+- **Emotional arc:** Emptiness → Peace → Opening
+- **Try-fail cycle:** Yes-and (Ninsar begins to rebuild herself, one fragment at a time)
+- **Beats:**
+    1. One year later. The ocean has returned to its old shoreline. The salt flats are gone, replaced by living water. The dead ports are ports again.
+    2. Ninsar lives in a small house on the coast. She is still hollow—she does not remember Mira, or her own past, or the mission. But she is learning. Yenna visits daily, telling her stories of who she was.
+    3. Ninsar has taken up drawing again. She draws the ocean, the birds, the ships. She does not know why she draws. It is simply what her hands do.
+    4. She finishes a sketch of a child playing on the beach. She does not know the child. But the drawing is perfect. She looks at it and feels something—a shape in the emptiness, a warmth she cannot name. She pins the drawing to the wall. She will keep it.
+- **Plants:** The drawing of the child (returns in the reader's memory as the final image).
+- **Payoffs:** The drawing of Mira (Ch 5) is gone, but Ninsar is drawing again—not to preserve, but to create. Korr's daughter's name Lirra (Ch 18) is spoken by Yenna, who tells Ninsar that Korr's memory was returned by the ocean—he is remembered. Hesh's death (Ch 21) is mourned by the Church, which has reformed. Veth's death (Ch 22) is recorded in the Guild's new charter. The released memories (Ch 23) have returned to their owners—some are whole, some are fragments, all are accepted.
+- **Character movement:** Ninsar is not healed. She is hollow. But she is at peace. She has learned that memory is not preservation—it is creation. She draws not to keep the past alive, but to make something new.
+- **The need fulfilled:** She has accepted loss. She acts for the living. The final image mirrors the opening image (a woman drawing) but transformed—she is no longer drawing to preserve, but to create.
+- **~Word count target:** 3,200
 
 ---
 
@@ -871,359 +520,310 @@ I'll build this outline following the craft frameworks you've provided. Let me s
 
 | Thread | Planted (Ch) | Reinforced (Ch) | Payoff (Ch) | Type |
 |--------|-------------|-----------------|-------------|------|
-| Ninsar's palm-scar (Elara's name) | 1 | 4, 10, 17 | 23 | Symbolic |
-| The algae language | 1 | 5, 11, 13 | 23 | Structural |
-| The manta-ray with whorled patterns | 2 | 7 | 15 | Object |
-| The child asking to forget | 2 | — | 10 (implied) | Dialogue |
-| The Compact directive | 3 | 14, 19 | 24 | Object |
-| The sixty-day deadline | 3 | 13, 22 | 23 | Structural |
-| Transfer takes nearest memory | 4 | 20 | 23 | Action |
-| Elara's name in the algae | 5 | 13 | 23 | Dialogue |
-| Korveth's trapdoor hideout | 6 | 7 | 15 | Object |
-| The old manta-ray (priest's confession) | 7 | 15 | 24 | Object |
-| The deep-things | 8 | 9 | 16 | Action |
-| Iren's wife (hollowed) | 8 | — | 10 (mirror) | Dialogue |
-| The impossible depth | 9 | 16 | 16 | Action |
-| The black residue | 9 | 16 | 18 | Object |
-| The Hollowing Grounds | 10 | 17 | 21 | Location |
-| The waiting woman | 10 | — | 21 (mirror) | Symbolic |
-| The Lyceum translation | 11 | 13 | 23 | Object |
-| The Crack | 12 | 18 | 18 | Location |
-| The Sea-Mother's bones | 12 | 16 | 18 | Object |
-| The ocean's demand | 13 | 21 | 23 | Dialogue |
-| Solvane's surveillance | 14 | 19 | 19 | Action |
-| The hidden memory | 20 | 21 | 23 | Structural |
-| The scar-to-scar transfer | 21 | — | 21 | Action |
-| The memory wave map | 23 | — | 24 | Object |
-| The final "THANK YOU" | 25 | — | 25 | Dialogue |
+| The grief jar | 1 | 5, 24 | 24 | Object |
+| Ninsar touching her sternum | 1 | 3, 9, 12, 22 | 24 | Action |
+| The blank area on the map | 1 | 4, 20 | 20 | Symbolic |
+| Korr's layered voice | 2 | 10, 18, 23 | 23 | Dialogue |
+| "The grief that has not been returned" | 2 | 10, 13, 16 | 23 | Dialogue |
+| Ninsar's hidden transfers | 3 | 10, 19, 24 | 24 | Action |
+| The drawings on the wall (Tel-Breza) | 4 | 20 | 20 | Object |
+| The ocean repeating Ninsar's name | 5 | 13, 23 | 23 | Dialogue |
+| The drawing of Mira (brought on journey) | 5 | 17, 25 | 25 | Object |
+| Salt-crabs migrating inland | 6 | 12, 21 | 21 | Action |
+| The land learning to speak | 6 | 18, 23 | 23 | Symbolic |
+| The dream of Mira (no footprints) | 6 | 14, 20 | 20 | Symbolic |
+| The game pattern (Mira's drawing) | 7 | 13, 23 | 23 | Action |
+| The humming cliffs | 7 | 16, 22 | 22 | Sensory |
+| Yenna's secret about Korr | 8 | 11, 18, 23 | 23 | Dialogue |
+| The waiting manta-rays | 8 | 13, 16, 19 | 19 | Action |
+| The bowline knot | 9 | 17, 24 | 24 | Action |
+| The juvenile manta-ray | 9 | 16, 19 | 19 | Object |
+| The Something in the Deep named | 10 | 13, 16, 19, 23 | 23 | Dialogue |
+| Korr's daughter's laugh | 10 | 18 | 18 | Dialogue |
+| Hesh's accusation | 11 | 15, 20 | 20 | Dialogue |
+| The poisoned manta-rays | 11 | 13, 16 | 16 | Action |
+| The blank-skin manta-rays | 12 | 16, 19 | 19 | Object |
+| The forgotten mother's name | 12 | 24 | 24 | Dialogue |
+| The message in the pattern | 13 | 18, 23 | 23 | Symbolic |
+| The Something rising | 13 | 16, 22 | 22 | Action |
+| The transfer to herself | 14 | 19, 24 | 24 | Action |
+| The sound of Mira's laugh | 14 | 18, 25 | 25 | Sensory |
+| The circling manta-ray (projection) | 14 | 15, 19, 23 | 23 | Object |
+| The warrant | 15 | 17, 21 | 21 | Structural |
+| The trench | 15 | 19, 22 | 23 | Setting |
+| The Something's nature (hungry, not evil) | 16 | 19, 23, 25 | 25 | Dialogue |
+| The silence before it speaks | 16 | 22 | 22 | Sensory |
+| Korr's daughter's name Lirra | 17 | 18, 23, 25 | 25 | Dialogue |
+| The empty grief | 18 | 20, 24 | 24 | Emotional |
+| The gift of Lirra's name | 19 | 23, 25 | 25 | Action |
+| Korr's confession (caused the surge) | 20 | 23, 25 | 25 | Dialogue |
+| Ninsar's forgiveness | 20 | 24 | 24 | Emotional |
+| Hesh's death | 21 | 25 | 25 | Action |
+| The inlet | 21 | 22, 23 | 23 | Setting |
+| Veth's death | 22 | 24 | 24 | Structural |
+| The transfer of love (not grief) | 22 | 23, 25 | 25 | Action |
+| The released memories | 23 | 24, 25 | 25 | Action |
+| The ocean rising | 23 | 24 | 24 | Action |
+| Ninsar's hollow state | 24 | 25 | 25 | Character |
+| The drawing of the child (final image) | 25 | — | — | Symbolic |
 
 ---
 
-## VERIFICATION CHECKLIST
+## MICE QUOTIENT CLOSURE ORDER
 
-**MICE Quotient closure:**
-- Milieu (enter the Last Sea → leave it): Open Ch 1, close Ch 25 ✓
-- Inquiry (what is the ocean's secret?): Open Ch 5, answer Ch 23 ✓
-- Character (Ninsar's grief → acceptance): Open Ch 1, close Ch 25 ✓
+**Threads opened:**
+- **Milieu (M):** The Salt-Scar, the retreating ocean, the God-Step cliffs → opened Ch 1
+- **Inquiry (I):** What is causing the retreat? What does the ocean want? → opened Ch 2
+- **Character (C):** Ninsar's grief for Mira, her lie about preservation → opened Ch 1
 
-**Try-fail cycle distribution (Ch 2-24):**
-- Yes-but: Ch 2, 3, 4, 7, 8, 9, 11, 15, 16, 17, 20, 22 = 12 (52%)
-- No-and: Ch 5, 10, 14, 18, 19 = 5 (22%)
-- No-but: Ch 6, 12, 24 = 3 (13%)
-- Yes-and: Ch 13, 21, 23 = 3 (13%)
-- Total with try-fail: 23 chapters. Yes-but + No-and = 17/23 = 74% ✓
-
-**Plant-to-payoff distance:** Minimum 3 chapters for all major threads ✓ (e.g., algae language planted Ch 1, paid off Ch 23 = 22 chapters)
-
-**Quiet chapters (character-focused, low action):** Ch 10 (Hollowing Grounds), Ch 17 (Hollow Collective), Ch 25 (resolution) = 3 chapters ✓
-
-**Perin (Elara) appears in person:** No—she is dead. But her memory is present throughout, and the ocean speaks her name. This is a deliberate choice: the dead cannot return. The Stability Trap countermeasure.
-
-**Climax mechanically resolvable:** The transfer mechanics established in Ch 4 (brine-soak, nearest memory, one-way) are used in Ch 23. Ninsar transfers Elara's memory to the ocean itself—an extension of the established rules (the ocean is water, the transfer requires water). ✓
-
-**Bad things stay bad:** Elara stays dead. Ninsar never recovers her memory of her daughter's face. Solvane is not redeemed. The ocean continues to die. ✓
-
-I'll continue from where the outline was cut off (mid-Ch 17) and complete chapters 18-24, then write the Foreshadowing Ledger. I'll maintain the same format and craft frameworks.
+**Threads closed (reverse order):**
+- **Character (C):** Ninsar accepts Mira's death, lets go of the need to preserve → closed Ch 18-25
+- **Inquiry (I):** The Something is a hungry predator that can be taught → closed Ch 23
+- **Milieu (M):** The ocean returns, the salt flats dissolve → closed Ch 24-25
 
 ---
 
-### Ch 18: The Crack
+## THEMATIC RESOLUTION
 
+The novel answers its central question: **Is it better to remember a beautiful lie or to forget in order to act for the living?**
+
+Ninsar chooses to forget. She gives up the memory of Mira—not because she stops loving her daughter, but because holding onto the memory was destroying her and preventing her from helping others. She becomes hollow, but she saves the world.
+
+The final image (a woman drawing a child she does not know) shows that Ninsar has not stopped creating. She has stopped preserving. She draws now because it is what her hands do—not because she is trying to keep the dead alive.
+
+The cost is real. She does not get her memories back. The ocean returns, but Ninsar remains hollow. This is not a clean resolution. It is a true one.
+
+# CONTINUATION OF CHAPTER 17
+
+### Ch 17: The Warrant (completed)
 - **POV:** Ninsar
-- **Location:** The Crack, 200 miles south of Kethal
-- **Save the Cat beat:** Bad Guys Close In (66-70%)
-- **% mark:** 66-70%
-- **Emotional arc:** Determination → Awe → Terror
-- **Try-fail cycle:** No-and (she goes to the Crack and sees the truth, but she is followed)
-
-**Beats:**
-1. Ninsar travels to the Crack alone. She walks for three days across the Salt-Scar. The crystals grow taller as she approaches. The air tastes of copper.
-2. She reaches the Crack: a fissure in the earth, thirty miles long, one mile deep. Steam rises from the bottom. The walls are lined with salt crystals that glow faintly.
-3. She descends using a rope. The walls are warm. The deeper she goes, the stronger the smell of metal and rot.
-4. She reaches the bottom. There is water there—not seawater, but something darker, thicker, warmer. It steams. It pulses.
-5. She sees what Thallen saw: bones. Not fragments. A complete skeleton, stretching as far as she can see. The Sea-Mother's body, exposed.
-6. The water pulses again. Ninsar realizes: the Sea-Mother is not dead. She is dying. Her heart is still beating.
-7. A sound comes from the water—a low, resonant tone. It is the same tone the hollows were humming.
-8. Ninsar hears footsteps above. She looks up. Solvane is standing at the edge of the Crack, looking down at her.
-
-**Plants:**
-- Solvane's arrival (foreshadowing: the confrontation)
-- The Sea-Mother's heartbeat (foreshadowing: she is not yet gone)
-- The humming tone (foreshadowing: the hollows are connected to her)
-
-**Payoffs:** The Crack from Ch 12 is now visited. Thallen's secret is revealed.
-
-**Character movement:** Ninsar sees the truth with her own eyes. The Sea-Mother is dying, but not dead. There is still time—but not much.
-
-**The lie:** She cannot save Elara and save the Sea-Mother. She must choose.
-
-**~Word count target:** 3,800
+- **Location:** The watch-post, cliff edge
+- **Save the Cat beat:** Bad Guys Close In (continued)
+- **% mark:** 65%
+- **Emotional arc:** Exhaustion → Confrontation → Fracture
+- **Try-fail cycle:** No-and (the Guild arrives, and Ninsar's allies are taken)
+- **Beats:**
+    1. Ninsar returns to the watch-post. The Guild's enforcers are already there. They have arrested Sareth, Yenna, and the Deep-Sailors. They are looking for Ninsar.
+    2. Ninsar hides in Korr's tent. Korr is sitting in the dark, trembling. He whispers: "I remember her name. My daughter. I remember it."
+    3. Korr tells Ninsar the name: "Lirra." He weeps. He has been hiding this memory for years, protecting it from the Something. He gives it to Ninsar: "Take it. Keep it safe. I can't hold it anymore."
+    4. Ninsar is discovered by the enforcers. She is arrested. She tries to tie a bowline knot to secure her wrists—she cannot. She has forgotten how.
+- **Plants:** Korr's daughter's name Lirra (returns in Ch 18, 23, 25). Ninsar's inability to tie the knot (returns in Ch 24).
+- **Payoffs:** The warrant (Ch 15) is executed. The bowline knot (Ch 9) is lost when she needs it. The drawing of Mira (Ch 5) is confiscated by the enforcers.
+- **Character movement:** Ninsar is stripped of her allies and her tools. She is alone with Korr's secret and her own failure.
+- **The lie reinforced (dying):** She still believes she can recover Mira's memory, but she has no means to do so.
+- **~Word count target:** 3,300
 
 ---
 
-### Ch 19: The Confrontation
+## CHAPTERS 18-24
 
+### Ch 18: The Wake of Forgetting
 - **POV:** Ninsar
-- **Location:** The Crack
-- **Save the Cat beat:** All Is Lost (70-75%)
-- **% mark:** 70-75%
-- **Emotional arc:** Fear → Anger → Grief
-- **Try-fail cycle:** No-and (Solvane reveals the full truth, and Ninsar loses everything)
-
-**Beats:**
-1. Ninsar climbs out of the Crack. Solvane is waiting for her. She is not alone—Guild enforcers stand behind her.
-2. Solvane says: "I told you to leave. You did not listen."
-3. Ninsar says: "You knew. You knew the Sea-Mother was dying. You have been hiding it."
-4. Solvane says: "I have been protecting the Guild. The truth would cause panic. The Compact exists for a reason."
-5. Ninsar says: "The Compact is a lie. You are hiding the truth to maintain control."
-6. Solvane says: "Yes. And I would do it again."
-7. Solvane tells Ninsar the full truth: the ocean's retreat is accelerating. The Sea-Mother's death will release something—a wave of memory that will drown the continent. The Guild has been mapping the retreat to predict where the wave will hit, not to preserve knowledge.
-8. Ninsar asks: "Why tell me now?"
-9. Solvane says: "Because you are going to forget. I am going to have you transferred. Your memories of the last week will be given to a manta-ray. You will remember nothing."
-10. The enforcers grab Ninsar. She struggles. They hold her down. A sea-wright approaches with brine-soaked hands.
-
-**Plants:**
-- The memory wave (foreshadowing: the climax threat)
-- Solvane's plan to transfer Ninsar (foreshadowing: the ultimate cost)
-- Ninsar's struggle (foreshadowing: she will not go quietly)
-
-**Payoffs:** Solvane's knowledge from Ch 14 is now fully revealed.
-
-**Character movement:** Ninsar is at her lowest point. She is about to lose everything—her memories, her daughter, her self.
-
-**The lie:** She cannot fight the system. The system will erase her.
-
-**~Word count target:** 3,600
+- **Location:** The watch-post, holding cell
+- **Save the Cat beat:** All Is Lost (~68%)
+- **% mark:** 68%
+- **Emotional arc:** Defiance → Grief → Acceptance (partial)
+- **Try-fail cycle:** No-but (she accepts that Mira's memory is gone, but gains clarity)
+- **Beats:**
+    1. Ninsar is held in a salt-block cell. She has nothing but her own mind. She tries to draw Mira's face on the wall with her fingernail. She cannot remember it.
+    2. For the first time, she admits it: she has forgotten Mira's face. The memory is gone. It was transferred years ago, and the manta-ray never returned. She has been drawing a ghost.
+    3. Ninsar weeps. She weeps for Mira, for herself, for the years she spent chasing a memory that was already lost. She weeps until she is empty.
+    4. In the emptiness, she remembers Korr's daughter's name: Lirra. She holds it in her mind like a candle in the dark. She realizes: she cannot save Mira, but she can save this. She can carry Lirra's name for Korr.
+- **Plants:** The name Lirra as a burden she chooses to carry (returns in Ch 23, 25). The empty grief (returns in Ch 20, 24).
+- **Payoffs:** Korr's layered voice (Ch 2) is recontextualized—the Something speaks through him, but his own voice is still there, hiding. The sound of Mira's laugh (Ch 14) is gone, but Ninsar accepts the loss.
+- **Character movement:** Ninsar hits bottom. She accepts that Mira's memory is gone. This is the All Is Lost moment—the death of her lie.
+- **The lie dies:** She cannot preserve Mira through memory. The lie is dead. The question becomes: what now?
+- **~Word count target:** 3,200
 
 ---
 
-### Ch 20: The Erasure
-
+### Ch 19: The Voice Returns
 - **POV:** Ninsar
-- **Location:** The Crack
-- **Save the Cat beat:** Dark Night of the Soul (75-80%)
-- **% mark:** 75-80%
-- **Emotional arc:** Resistance → Surrender → Acceptance
-- **Try-fail cycle:** Yes-but (she is transferred, but she hides one memory)
-
-**Beats:**
-1. The sea-wright presses his hands to Ninsar's temples. She feels the pull—the memory of the last week beginning to lift.
-2. She thinks of Elara. She thinks of the ocean's demand. She thinks of the hollows.
-3. She does something she has never done before: she consciously pushes a memory deeper. She hides it. She buries it beneath the others.
-4. The transfer takes the surface memories—the Crack, the bones, Solvane's confession. But the hidden memory remains: the ocean's demand, the choice she must make.
-5. The transfer completes. Ninsar collapses. She cannot remember what happened in the last week. She knows something important happened. She does not know what.
-6. Solvane leaves her there. She says: "Take her to the Hollowing Grounds. She is no longer useful."
-7. Ninsar is dragged away. She looks at the sky. She touches her palm. She feels grief without an object.
-8. But somewhere, deep in her mind, a single memory remains: the ocean asking for Elara. She does not know why it matters. But it does.
-
-**Plants:**
-- The hidden memory (foreshadowing: the key to the climax)
-- Ninsar's grief without an object (foreshadowing: she will remember Elara's loss but not the choice)
-- Solvane's dismissal (foreshadowing: she has underestimated Ninsar)
-
-**Payoffs:** The transfer mechanics from Ch 4 are now used against Ninsar.
-
-**Character movement:** Ninsar is hollowed further. She has lost a week of her life. But she has hidden one memory—the most important one.
-
-**The lie:** She cannot be erased. She has hidden something. She does not know what, but it is there.
-
-**~Word count target:** 3,500
+- **Location:** The holding cell, then the cliff edge
+- **Save the Cat beat:** Dark Night of the Soul (68-77%)
+- **% mark:** 72%
+- **Emotional arc:** Emptiness → Revelation → Choice
+- **Try-fail cycle:** Yes-but (she escapes with Yenna's help, but the cost is Korr's final hollowing)
+- **Beats:**
+    1. Yenna helps Ninsar escape. She has been hiding in the camp, avoiding arrest. She tells Ninsar that Korr has been taken to the cliff edge by the Something—it wants to use him as a vessel for the final consumption.
+    2. Ninsar and Yenna go to the cliff edge. Korr is standing at the precipice, his eyes white, his body vibrating with the Something's presence. The Something speaks through him: "GIVE ME THE GRIEF. I WILL RETURN THE CHILD."
+    3. Ninsar realizes: the Something does not understand that the child is dead. It thinks the grief is a resource that can be exchanged. It has been waiting for Ninsar to complete the transaction.
+    4. Ninsar makes a choice. She will not give the Something Mira's memory—because she does not have it anymore. But she can give it something else: the memory of Lirra, Korr's daughter's name. She transfers it into the air, into the water, into the Something's awareness. The Something pauses. It has never received a gift before.
+- **Plants:** The gift of Lirra's name (returns in Ch 23, 25). The Something's confusion (returns in Ch 23).
+- **Payoffs:** The projection manta-ray (Ch 15) is revealed as the Something's attempt to show Ninsar what it thinks she wants. The trench (Ch 15) is where the real manta-ray carrying Mira's memory has been circling for years—it is dead now, the memory faded. Ninsar's hidden transfers (Ch 3) are the reason she has enough emptiness to make this choice.
+- **Character movement:** Ninsar chooses to act for the living (Korr, Yenna, herself) rather than the dead (Mira). She gives away the last thing she was holding—not Mira's memory, but the burden of grief itself.
+- **The need embraced:** She accepts that Mira is dead and that no act of preservation will bring her back. She acts for the living.
+- **~Word count target:** 3,700
 
 ---
 
-### Ch 21: The Hollow's Awakening
-
+### Ch 20: The Truth of Tel-Breza
 - **POV:** Ninsar
-- **Location:** The Hollowing Grounds
-- **Save the Cat beat:** Break Into Three (80-83%)
-- **% mark:** 80-83%
-- **Emotional arc:** Confusion → Recognition → Purpose
-- **Try-fail cycle:** Yes-and (the hollows help her remember, and she finds her purpose)
-
-**Beats:**
-1. Ninsar wakes in the Hollowing Grounds. She does not know how she got there. She does not know her own name for a moment.
-2. Master Yenna is sitting beside her. Yenna says: "You are Ninsar. You are a cartographer. You have been hollowed."
-3. Ninsar tries to remember. She cannot. She knows she had a daughter. She cannot remember her face.
-4. Yenna says: "You hid something. The hollows felt it. You buried a memory before the transfer."
-5. Ninsar does not understand. Yenna takes her hands and presses them to her own scarred palms.
-6. The scars touch. Ninsar feels a jolt—a fragment of the hidden memory surfaces. The ocean. The demand. Elara's name.
-7. Yenna says: "The hollows are connected to the Sea-Mother. We can feel what is hidden. You hid the most important thing."
-8. Ninsar remembers: the ocean asked for Elara's memory. She did not give it. She chose to wait.
-9. She understands now. She must go back. She must complete the transfer. But not to preserve Elara. To give the ocean what it needs to speak the final warning.
-
-**Plants:**
-- The scar-to-scar transfer (foreshadowing: the hollows' connection)
-- The hidden memory surfacing (foreshadowing: the climax choice)
-- Yenna's role as guide (foreshadowing: she is not hollow—she is waiting)
-
-**Payoffs:** The hidden memory from Ch 20 is now recovered.
-
-**Character movement:** Ninsar remembers her purpose. She is not here to preserve Elara. She is here to carry the ocean's warning.
-
-**The lie abandoned:** She accepts that Elara's memory must be given to the ocean. It is the only way.
-
-**~Word count target:** 3,400
+- **Location:** The cliff edge, then the skiff
+- **Save the Cat beat:** Break Into Three (~77%)
+- **% mark:** 77%
+- **Emotional arc:** Clarity → Horror → Resolve
+- **Try-fail cycle:** Yes-but (she learns the full truth about the surge, but now she knows what she must do)
+- **Beats:**
+    1. The Something, confused by the gift, withdraws from Korr. He collapses. Ninsar catches him. He is fully hollow now—the last fragment of himself is gone.
+    2. Before he goes, Korr's own voice speaks one last time: "I caused the surge. The Something spoke through me. I told the water to rise. I killed your daughter."
+    3. Ninsar freezes. Seven years of grief, seven years of searching, seven years of blaming herself—and it was Korr. Or rather, it was the Something, using Korr as its voice.
+    4. Ninsar does not kill Korr. She holds him as he goes hollow. She realizes: he was a victim too. The Something used him. The real enemy is the hunger that does not understand what it destroys.
+- **Plants:** Korr's confession (returns in Ch 23, 25). Ninsar's forgiveness (returns in Ch 24).
+- **Payoffs:** The blank area on the map (Ch 1) is now filled with the truth. The drawings on the wall (Ch 4) are recontextualized—they were not preserved memories, they were attempts to hold onto something already gone. Hesh's accusation (Ch 11) is partially true—the ocean does not love Ninsar, but the Something is not the ocean.
+- **Character movement:** Ninsar learns the worst possible truth: her daughter's death was caused by the very force she has been trying to communicate with. She must choose between revenge and understanding.
+- **The need tested:** Can she forgive Korr? Can she see the Something as a force to be understood rather than destroyed?
+- **~Word count target:** 3,500
 
 ---
 
-### Ch 22: The Return
-
+### Ch 21: The Church's Last Stand
 - **POV:** Ninsar
-- **Location:** Kethal, then the *Salt-Spur*
-- **Save the Cat beat:** Finale - Gather the Team (83-87%)
-- **% mark:** 83-87%
-- **Emotional arc:** Determination → Reunion → Readiness
-- **Try-fail cycle:** Yes-but (she gathers her allies, but Solvane has already moved)
-
-**Beats:**
-1. Ninsar leaves the Hollowing Grounds. She walks to Kethal. She is weak, but she is focused.
-2. She finds Korveth. Korveth is surprised to see her. She thought Ninsar was dead.
-3. Ninsar tells her what happened. Korveth says: "Solvane has declared you a traitor. The Guild is hunting you."
-4. Ninsar says: "I need to get to the center of the Last Sea. I need to complete the transfer."
-5. Korveth agrees to help. She has the old manta-ray—the one with the priest's confession. She says: "You will need more than one memory. You will need all of them."
-6. They find Iren. He is hiding the *Salt-Spur* in a cove outside Kethal. He agrees to take them.
-7. As they prepare to leave, Brother Thallen arrives. He says: "I am coming with you. The Deep-Root must know the truth."
-8. They set sail at dusk. The sea glows green. The algae are spelling a single word: "HURRY."
-
-**Plants:**
-- The gathering of allies (foreshadowing: the final confrontation)
-- The old manta-ray (foreshadowing: the evidence)
-- The algae's urgency (foreshadowing: time is running out)
-
-**Payoffs:** The allies from previous chapters are now assembled.
-
-**Character movement:** Ninsar is no longer alone. She has a crew, a plan, and a purpose.
-
-**The lie:** She has accepted the cost. She will give Elara's memory to the ocean.
-
-**~Word count target:** 3,600
+- **Location:** The salt flats, near the Tooth
+- **Save the Cat beat:** Finale (77-97%) — Gather the Team
+- **% mark:** 80%
+- **Emotional arc:** Resolve → Action → Loss
+- **Try-fail cycle:** No-and (Hesh attacks again, and Ninsar loses an ally)
+- **Beats:**
+    1. Ninsar, Yenna, and the freed Deep-Sailors plan their final move. They need to reach the abyssal trench where the Something is anchored and transfer a message that will make it stop feeding.
+    2. Hesh and her followers attack the camp. They have come to salt the ocean's last inlet—to destroy the Something by destroying the water it lives in.
+    3. Ninsar confronts Hesh. She tells Hesh that the Something is not evil—it is hungry, and it can be taught. Hesh does not believe her. "You're still defending it. You're still chasing your daughter's ghost."
+    4. Hesh breaks free and runs toward the inlet. She throws salt into the water. The Something, enraged, rises and pulls her under. She drowns in the ocean she hated.
+- **Plants:** Hesh's death (returns in Ch 25 as a caution). The inlet (returns in Ch 22, 23).
+- **Payoffs:** The Unlicensed camp (Ch 12) is where Hesh got the salt. The grey robes (Ch 11) are found floating in the water. The salt-crabs migrating inland (Ch 6) were fleeing the Something's agitation.
+- **Character movement:** Ninsar loses a potential ally (Hesh) and witnesses the cost of hatred. She doubles down on her commitment to understanding.
+- **The need reinforced:** She must find a way to communicate with the Something, not destroy it.
+- **~Word count target:** 3,400
 
 ---
 
-### Ch 23: The Final Transfer
-
-- **POV:** Ninsar
-- **Location:** The center of the Last Sea
-- **Save the Cat beat:** Finale - Execute the Plan (87-93%)
-- **% mark:** 87-93%
-- **Emotional arc:** Calm → Grief → Release
-- **Try-fail cycle:** Yes-and (she completes the transfer, and the ocean speaks)
-
-**Beats:**
-1. The *Salt-Spur* reaches the center of the Last Sea. The water is still. The algae are silent. The sea is waiting.
-2. Ninsar prepares for the transfer. She soaks her hands in brine. The salt stings the fresh scars.
-3. She takes out the pouch with Elara's hair. She holds it for a long moment. She thinks about her daughter's face. She cannot quite see it anymore.
-4. She presses her hands to the water. She does not need a manta-ray. The ocean itself will receive the memory.
-5. She focuses on Elara. The memory rises: the wave from the dock, the laugh like breaking glass, the face she has been trying to preserve for three years.
-6. The transfer begins. The memory leaves her. She feels it go—a physical sensation, like a thread being pulled from her chest.
-7. The ocean absorbs the memory. The algae flare bright green. The water begins to move.
-8. Ninsar collapses. She has given everything. She does not remember Elara's face anymore. She remembers only that she loved someone, and that someone is gone.
-9. The ocean speaks. The algae form a pattern that stretches across the entire surface. The pattern is a map. It shows the path of the memory wave—the wave that will drown the continent when the Sea-Mother dies.
-10. Ninsar understands: the ocean was not retreating. It was concentrating. It was gathering its remaining strength to deliver this warning.
-
-**Plants:**
-- The memory wave map (foreshadowing: the warning)
-- Ninsar's loss of Elara's face (foreshadowing: the cost)
-- The ocean's final message (foreshadowing: the climax)
-
-**Payoffs:** The ocean's demand from Ch 13 is now fulfilled.
-
-**Character movement:** Ninsar has given up Elara's memory. She is hollow now, but she has done what she came to do.
-
-**The lie:** She has accepted the truth. Memory is not preservation. Action is.
-
-**~Word count target:** 3,800
+### Ch 22: The Guild's Last Map
+- **POV:** Ninsar (intercut with Veth)
+- **Location:** The skiff, approaching the trench (Ninsar) / Salt-Trace (Veth)
+- **Save the Cat beat:** Finale — Execute the Plan
+- **% mark:** 84%
+- **Emotional arc:** Determination (Ninsar) / Collapse (Veth)
+- **Try-fail cycle:** Yes-but (Ninsar reaches the trench, but Veth destroys the Guild's records)
+- **Beats:**
+    1. Ninsar, Yenna, and Sareth take the skiff to the trench. The water is black and still. The Something is waiting.
+    2. Ninsar prepares the final transfer. She will send a memory into the deeps—not Mira's face, but the feeling of being Mira's mother. The love, not the loss. The Something needs to understand that grief is not food—it is the shape of love that has nowhere to go.
+    3. Intercut: Veth, in her office, burns her mother's records. She cannot face the truth that the ocean was alive, that it suffered, that she has been documenting its murder. She dies alone, surrounded by maps of a sea that no longer exists.
+    4. Ninsar soaks her hands in brine. She presses them to her own chest. She transfers the memory of loving Mira—not the grief, but the love. The cost: she forgets Mira entirely.
+- **Plants:** The transfer of love (returns in Ch 23, 25). Veth's death (returns in Ch 24 as news).
+- **Payoffs:** The maps on Veth's wall (Ch 3) burn with her. The humming cliffs (Ch 7) go silent as Ninsar begins the transfer.
+- **Character movement:** Ninsar makes the final sacrifice. She gives up the last trace of Mira—not her face, not her laugh, but the love itself. She becomes empty so the Something can learn.
+- **The need fulfilled:** She acts for the living. She gives up the past to save the future.
+- **~Word count target:** 3,600
 
 ---
 
-### Ch 24: The Last Coast
-
+### Ch 23: The Something Learns
 - **POV:** Ninsar
-- **Location:** The Salt-Scar, the edge of the Last Sea
-- **Save the Cat beat:** Final Image (93-100%)
-- **% mark:** 93-100%
-- **Emotional arc:** Grief → Acceptance → Peace
-- **Try-fail cycle:** N/A (resolution)
+- **Location:** The trench, underwater
+- **Save the Cat beat:** Finale — High Tower Surprise
+- **% mark:** 88%
+- **Emotional arc:** Emptiness → Connection → Understanding
+- **Try-fail cycle:** Yes-and (the Something understands, and the ocean begins to return)
+- **Beats:**
+    1. Ninsar dives into the trench. The water is cold and dark. She does not need to breathe—she has given away so much of herself that she is barely a person anymore. She is a vessel, like Korr was.
+    2. The Something surrounds her. It is vast and ancient and lonely. It has been feeding on human grief for centuries because it did not know there was anything else to eat.
+    3. Ninsar shows the Something the memory of love—the feeling of holding Mira, of singing to her, of watching her sleep. The Something does not understand at first. It has never received a memory that was not pain.
+    4. The Something learns. It releases the memories it has been holding—thousands of them, pouring back into the water, returning to the surface. The ocean begins to glow with released grief. The retreat stops. The water starts to rise.
+- **Plants:** The released memories (returns in Ch 24, 25). The ocean rising (returns in Ch 24).
+- **Payoffs:** The message in the pattern (Ch 13) is recontextualized—the Something was not demanding grief, it was asking for help. Korr's layered voice (Ch 2) was the Something trying to speak. The name Lirra (Ch 18) is released into the water, and Korr's daughter's memory is returned to the deeps. The game pattern (Ch 7) is the Something's attempt to communicate in the only language it knew.
+- **Character movement:** Ninsar succeeds. The Something learns. But she has given away everything—including the memory of Mira.
+- **The need fulfilled:** She has saved the world. But she has lost herself.
+- **~Word count target:** 3,800
 
-**Beats:**
-1. A week later. Ninsar sits at the edge of the Last Sea. The water is lower than before. The retreat continues.
-2. She does not remember Elara's face. She remembers the shape of her grief—the absence, the weight, the love that has nowhere to go.
-3. Master Yenna sits beside her. Yenna says: "You are hollow now. But you are not empty."
-4. Ninsar asks what she means. Yenna says: "You gave the memory to the ocean. The ocean gave the warning to the world. You are connected now. You will always be connected."
-5. Ninsar looks at her palms. The scars form a new pattern—not Elara's name, but the shape of the memory wave. She carries the warning in her skin.
-6. Iren approaches. He says: "The sea is still speaking. The algae are spelling something new."
-7. Ninsar looks at the water. The algae form a pattern. She reads it: "THANK YOU."
-8. She touches her palm. She does not remember her daughter's laugh. But she remembers that she loved her. That is enough.
-9. She stands. She walks back toward Kethal. The salt cracks under her boots. The sea glows green behind her.
-10. She has work to do. The world is ending. She will map it until the last wave.
+---
 
-**Plants:** None (resolution chapter)
+### Ch 24: The Hollow's Return
+- **POV:** Ninsar
+- **Location:** The skiff, returning to the cliffs
+- **Save the Cat beat:** Finale — Dig Deep Down
+- **% mark:** 92%
+- **Emotional arc:** Emptiness → Fragments → Beginning
+- **Try-fail cycle:** No-but (Ninsar is hollow, but fragments of her old self remain)
+- **Beats:**
+    1. Ninsar surfaces. She is hollow. She does not remember Mira. She does not remember why she came to the ocean. She does not remember her own name.
+    2. Yenna and Sareth pull her onto the skiff. They speak to her gently, telling her who she is. Ninsar listens without understanding. She is a shell.
+    3. The ocean is rising. The water reaches the base of the cliffs, then the top. The salt flats begin to dissolve. The retreat is reversing.
+    4. Ninsar's grief jar—left on her windowsill in Salt-Trace—is found by a neighbor. It is full. The neighbor takes it to the nearest dead port and pours it into the petrified harbor. The salt dissolves. The water returns.
+- **Plants:** The grief jar's return (returns in Ch 25). Ninsar's hollow state (returns in Ch 25).
+- **Payoffs:** The grief jar (Ch 1) completes its arc—it is returned to the sea. The bowline knot (Ch 9) is irrelevant now—Ninsar cannot tie it, but she does not need to. The forgotten mother's name (Ch 12) is returned to Ninsar by Yenna, who finds it in the Guild's records. The empty grief (Ch 18) is filled by the rising water.
+- **Character movement:** Ninsar is hollow. But she is alive. The fragments of her self are scattered, but they can be gathered.
+- **The need tested:** Can she live with what she has lost? Can she begin again?
+- **~Word count target:** 3,300
 
-**Payoffs:**
-- The opening image from Ch 1 is mirrored: Ninsar walking across the Salt-Scar, but now she is changed.
-- The palm-scar now carries the warning, not the loss.
-- The sea's final message: "THANK YOU."
+---
 
-**Character movement:** Ninsar has completed her arc. She has let go of Elara. She has accepted her role as the ocean's witness.
-
-**The lie resolved:** She no longer believes memory is preservation. She knows that action is the only thing that matters.
-
-**~Word count target:** 3,200
+### Ch 25: The Last Sketch
+- **POV:** Ninsar
+- **Location:** The watch-post, one year later
+- **Save the Cat beat:** Finale — Execute the New Plan / Final Image
+- **% mark:** 97%
+- **Emotional arc:** Emptiness → Peace → Opening
+- **Try-fail cycle:** Yes-and (Ninsar begins to rebuild herself, one fragment at a time)
+- **Beats:**
+    1. One year later. The ocean has returned to its old shoreline. The salt flats are gone, replaced by living water. The dead ports are ports again.
+    2. Ninsar lives in a small house on the coast. She is still hollow—she does not remember Mira, or her own past, or the mission. But she is learning. Yenna visits daily, telling her stories of who she was.
+    3. Ninsar has taken up drawing again. She draws the ocean, the birds, the ships. She does not know why she draws. It is simply what her hands do.
+    4. She finishes a sketch of a child playing on the beach. She does not know the child. But the drawing is perfect. She looks at it and feels something—a shape in the emptiness, a warmth she cannot name. She pins the drawing to the wall. She will keep it.
+- **Plants:** The drawing of the child (returns in the reader's memory as the final image).
+- **Payoffs:** The drawing of Mira (Ch 5) is gone, but Ninsar is drawing again—not to preserve, but to create. Korr's daughter's name Lirra (Ch 18) is spoken by Yenna, who tells Ninsar that Korr's memory was returned by the ocean—he is remembered. Hesh's death (Ch 21) is mourned by the Church, which has reformed. Veth's death (Ch 22) is recorded in the Guild's new charter. The released memories (Ch 23) have returned to their owners—some are whole, some are fragments, all are accepted.
+- **Character movement:** Ninsar is not healed. She is hollow. But she is at peace. She has learned that memory is not preservation—it is creation. She draws not to keep the past alive, but to make something new.
+- **The need fulfilled:** She has accepted loss. She acts for the living. The final image mirrors the opening image (a woman drawing) but transformed—she is no longer drawing to preserve, but to create.
+- **~Word count target:** 3,200
 
 ---
 
 ## FORESHADOWING LEDGER
 
-| # | Thread | Planted (Ch) | Reinforced (Ch) | Payoff (Ch) | Type |
-|---|--------|-------------|-----------------|-------------|------|
-| 1 | Ninsar's palm-scar (Elara's name) | 1 | 4, 10, 17 | 23 | Symbolic |
-| 2 | The algae language | 1 | 5, 11, 13 | 23 | Structural |
-| 3 | The manta-ray with whorled patterns | 2 | 7 | 15 | Object |
-| 4 | The child asking to forget | 2 | — | 10 (implied) | Dialogue |
-| 5 | The Compact directive | 3 | 14, 19 | 24 | Object |
-| 6 | The sixty-day deadline | 3 | 13, 22 | 23 | Structural |
-| 7 | Transfer takes nearest memory | 4 | 20 | 23 | Action |
-| 8 | Elara's name in the algae | 5 | 13 | 23 | Dialogue |
-| 9 | Korveth's trapdoor hideout | 6 | 7 | 15 | Object |
-| 10 | The old manta-ray (priest's confession) | 7 | 15 | 24 | Object |
-| 11 | The deep-things | 8 | 9 | 16 | Action |
-| 12 | Iren's wife (hollowed) | 8 | — | 10 (mirror) | Dialogue |
-| 13 | The impossible depth | 9 | 16 | 16 | Action |
-| 14 | The black residue | 9 | 16 | 18 | Object |
-| 15 | The Hollowing Grounds | 10 | 17 | 21 | Location |
-| 16 | The waiting woman | 10 | — | 21 (mirror) | Symbolic |
-| 17 | The Lyceum translation | 11 | 13 | 23 | Object |
-| 18 | The Crack | 12 | 18 | 18 | Location |
-| 19 | The Sea-Mother's bones | 12 | 16 | 18 | Object |
-| 20 | The ocean's demand | 13 | 21 | 23 | Dialogue |
-| 21 | Solvane's surveillance | 14 | 19 | 19 | Action |
-| 22 | The hidden memory | 20 | 21 | 23 | Structural |
-| 23 | The scar-to-scar transfer | 21 | — | 21 | Action |
-| 24 | The memory wave map | 23 | — | 24 | Object |
-| 25 | The final "THANK YOU" | 24 | — | 24 | Dialogue |
-
----
-
-## VERIFICATION CHECKLIST
-
-**MICE Quotient closure:**
-- Milieu (enter the Last Sea → leave it): Open Ch 1, close Ch 24 ✓
-- Inquiry (what is the ocean's secret?): Open Ch 5, answer Ch 23 ✓
-- Character (Ninsar's grief → acceptance): Open Ch 1, close Ch 24 ✓
-
-**Try-fail cycle distribution (Ch 2-23):**
-- Yes-but: Ch 2, 3, 4, 7, 8, 9, 11, 15, 16, 17, 20, 22 = 12 (55%)
-- No-and: Ch 5, 10, 14, 18, 19 = 5 (23%)
-- No-but: Ch 6, 12 = 2 (9%)
-- Yes-and: Ch 13, 21, 23 = 3 (14%)
-- Total with try-fail: 22 chapters. Yes-but + No-and = 17/22 = 77% ✓
-
-**Plant-to-payoff distance:** Minimum 3 chapters for all major threads ✓ (e.g., algae language planted Ch 1, paid off Ch 23 = 22 chapters)
-
-**Quiet chapters (character-focused, low action):** Ch 10 (Hollowing Grounds), Ch 17 (Hollow Collective), Ch 24 (resolution) = 3 chapters ✓
-
-**Perin (Elara) appears in person:** No—she is dead. But her memory is present throughout, and the ocean speaks her name. This is a deliberate choice: the dead cannot return. The Stability Trap countermeasure.
-
-**Climax mechanically resolvable:** The transfer mechanics established in Ch 4 (brine-soak, nearest memory, one-way) are used in Ch 23. Ninsar transfers Elara's memory to the ocean itself—an extension of the established rules (the ocean is water, the transfer requires water). ✓
-
-**Bad things stay bad:** Elara stays dead. Ninsar never recovers her memory of her daughter's face. Solvane is not redeemed. The ocean continues to die. ✓
+| Thread | Planted (Ch) | Reinforced (Ch) | Payoff (Ch) | Type |
+|--------|-------------|-----------------|-------------|------|
+| The grief jar | 1 | 5, 24 | 24 | Object |
+| Ninsar touching her sternum | 1 | 3, 9, 12, 22 | 24 | Action |
+| The blank area on the map | 1 | 4, 20 | 20 | Symbolic |
+| Korr's layered voice | 2 | 10, 18, 23 | 23 | Dialogue |
+| "The grief that has not been returned" | 2 | 10, 13, 16 | 23 | Dialogue |
+| Ninsar's hidden transfers | 3 | 10, 19, 24 | 24 | Action |
+| The drawings on the wall (Tel-Breza) | 4 | 20 | 20 | Object |
+| The ocean repeating Ninsar's name | 5 | 13, 23 | 23 | Dialogue |
+| The drawing of Mira (brought on journey) | 5 | 17, 25 | 25 | Object |
+| Salt-crabs migrating inland | 6 | 12, 21 | 21 | Action |
+| The land learning to speak | 6 | 18, 23 | 23 | Symbolic |
+| The dream of Mira (no footprints) | 6 | 14, 20 | 20 | Symbolic |
+| The game pattern (Mira's drawing) | 7 | 13, 23 | 23 | Action |
+| The humming cliffs | 7 | 16, 22 | 22 | Sensory |
+| Yenna's secret about Korr | 8 | 11, 18, 23 | 23 | Dialogue |
+| The waiting manta-rays | 8 | 13, 16, 19 | 19 | Action |
+| The bowline knot | 9 | 17, 24 | 24 | Action |
+| The juvenile manta-ray | 9 | 16, 19 | 19 | Object |
+| The Something in the Deep named | 10 | 13, 16, 19, 23 | 23 | Dialogue |
+| Korr's daughter's laugh | 10 | 18 | 18 | Dialogue |
+| Hesh's accusation | 11 | 15, 20 | 20 | Dialogue |
+| The poisoned manta-rays | 11 | 13, 16 | 16 | Action |
+| The blank-skin manta-rays | 12 | 16, 19 | 19 | Object |
+| The forgotten mother's name | 12 | 24 | 24 | Dialogue |
+| The message in the pattern | 13 | 18, 23 | 23 | Symbolic |
+| The Something rising | 13 | 16, 22 | 22 | Action |
+| The transfer to herself | 14 | 19, 24 | 24 | Action |
+| The sound of Mira's laugh | 14 | 18, 25 | 25 | Sensory |
+| The circling manta-ray (projection) | 14 | 15, 19, 23 | 23 | Object |
+| The warrant | 15 | 17, 21 | 21 | Structural |
+| The trench | 15 | 19, 22 | 23 | Setting |
+| The Something's nature (hungry, not evil) | 16 | 19, 23, 25 | 25 | Dialogue |
+| The silence before it speaks | 16 | 22 | 22 | Sensory |
+| Korr's daughter's name Lirra | 17 | 18, 23, 25 | 25 | Dialogue |
+| The empty grief | 18 | 20, 24 | 24 | Emotional |
+| The gift of Lirra's name | 19 | 23, 25 | 25 | Action |
+| Korr's confession (caused the surge) | 20 | 23, 25 | 25 | Dialogue |
+| Ninsar's forgiveness | 20 | 24 | 24 | Emotional |
+| Hesh's death | 21 | 25 | 25 | Action |
+| The inlet | 21 | 22, 23 | 23 | Setting |
+| Veth's death | 22 | 24 | 24 | Structural |
+| The transfer of love (not grief) | 22 | 23, 25 | 25 | Action |
+| The released memories | 23 | 24, 25 | 25 | Action |
+| The ocean rising | 23 | 24 | 24 | Action |
+| Ninsar's hollow state | 24 | 25 | 25 | Character |
+| The drawing of the child (final image) | 25 | — | — | Symbolic |
