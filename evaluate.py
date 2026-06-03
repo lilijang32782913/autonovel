@@ -244,7 +244,7 @@ def slop_score(text):
 def load_file(path):
     """Load a text file, return empty string if missing."""
     try:
-        return Path(path).read_text()
+        return Path(path).read_text(encoding="utf-8")
     except FileNotFoundError:
         return ""
 
@@ -270,24 +270,24 @@ def load_all_chapters():
     chapters = {}
     for f in sorted(glob.glob(str(CHAPTERS_DIR / "ch_*.md"))):
         num = int(re.search(r'ch_(\d+)', f).group(1))
-        chapters[num] = Path(f).read_text()
+    chapters[num] = Path(f).read_text(encoding="utf-8")
     return chapters
 
 
 def call_judge(prompt, max_tokens=2000):
     """Call the Anthropic judge LLM and return its response text."""
-  return chat_completion(
-    model=JUDGE_MODEL,
-    prompt=prompt,
-    system=(
-      "You are a literary critic and novel editor. "
-      "You evaluate fiction with precision. Always respond with valid JSON. "
-      "No markdown fences, no preamble -- just the JSON object."
-    ),
-    max_tokens=max_tokens,
-    temperature=0.3,
-    timeout=180,
-  )
+    return chat_completion(
+        model=JUDGE_MODEL,
+        prompt=prompt,
+        system=(
+            "You are a literary critic and novel editor. "
+            "You evaluate fiction with precision. Always respond with valid JSON. "
+            "No markdown fences, no preamble -- just the JSON object."
+        ),
+        max_tokens=max_tokens,
+        temperature=0.3,
+        timeout=180,
+    )
 
 
 def parse_json_response(text):
