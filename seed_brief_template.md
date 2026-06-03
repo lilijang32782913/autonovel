@@ -1,33 +1,33 @@
-# Seed Brief Template
+# Seed 设定简报模板
 
-## Core Concept
-- Protagonist:
-- Core wound:
-- Core desire:
-- Core dilemma:
+## 核心概念
+- 主角：
+- 核心创伤：
+- 核心欲望：
+- 核心困境：
 
-## World
-- Distinct setting feature:
-- Social/political pressure:
-- Sensory anchors:
+## 世界设定
+- 独特设定特征：
+- 社会/政治压力：
+- 感官锚点：
 
-## Magic and Cost
-- Core mechanism:
-- Explicit cost:
-- Failure mode:
+## 魔法与代价
+- 核心机制：
+- 明确代价：
+- 失控/失败机制：
 
-## Conflict
-- Personal conflict:
-- Cosmic/world-level conflict:
-- Why they are in tension:
+## 冲突
+- 个人冲突：
+- 宏观/世界级冲突：
+- 两者为何互相拉扯：
 
-## Theme Question
-- What hard question should the novel explore?
+## 主题问题
+- 这部小说要探索的“难问题”是什么？
 
-## Hard Constraints
-- Must include:
-- Must avoid:
+## 硬性约束
+- 必须包含：
+- 必须避免：
 
-## Tone and Structure
-- Tone keywords:
-- Narrative structure preference:
+## 语气与结构
+- 语气关键词：
+- 叙事结构偏好：

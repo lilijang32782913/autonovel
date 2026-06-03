@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-06-03T11:22:37.692569",
+  "source": "D:\\dev\\myAotoNovel\\autonovel",
+  "archive": "D:\\dev\\myAotoNovel\\autonovel\\archives\\20260603_112237_novel-1e14c33f",
+  "copied_items": [
+    "seed.txt",
+    "world.md",
+    "characters.md",
+    "outline.md",
+    "outline_part1.md",
+    "outline_output.md",
+    "canon.md",
+    "voice.md",
+    "MYSTERY.md",
+    "state.json",
+    "arc_summary.md",
+    "chapters/",
+    "briefs/",
+    "edit_logs/",
+    "eval_logs/"
+  ]
+}
