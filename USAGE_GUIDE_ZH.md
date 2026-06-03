@@ -86,13 +86,24 @@ uv run python run_pipeline.py --phase export
 git checkout -b autonovel/my-new-book
 ```
 
-### 2.2 生成或编写 seed
+### 2.2 准备 seed（两种方式，二选一）
+
+方式 A：先手写你的设定（更推荐给有明确想法时）
+
+```bash
+# 直接编辑 seed.txt，写你的核心设定
+```
+
+方式 B：先让程序生成灵感，再挑选/改写到 `seed.txt`
 
 ```bash
 uv run python seed.py --count=1
 ```
 
-把你要用的设定写入 `seed.txt`。
+说明：
+- `seed.py` 的作用是“给你候选 seed 灵感”，不是必须先执行。
+- 流水线真正读取的是 `seed.txt`，所以最终只要 `seed.txt` 是你想要的版本即可。
+- 如果你已经有成熟设定，直接写 `seed.txt` 再跑 foundation 是最直观路径。
 
 ### 2.3 运行完整流水线
 
@@ -144,8 +155,10 @@ uv run python run_pipeline.py --phase export
 # B. 生成新书
 git checkout master
 git checkout -b autonovel/new-project-2026
-uv run python seed.py --count=1
-# 手动编辑 seed.txt
+# 二选一：
+# A. 直接手写 seed.txt
+# B. 先用 seed.py 生成灵感，再改写进 seed.txt
+# uv run python seed.py --count=1
 uv run python run_pipeline.py --phase foundation --from-scratch
 uv run python run_pipeline.py --phase drafting
 uv run python run_pipeline.py --phase revision --max-cycles 5
