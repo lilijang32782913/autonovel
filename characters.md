@@ -2,361 +2,299 @@
 
 ---
 
-## NINSAR (Primary POV)
+## NINSAR (protagonist, POV character)
 
-**Age:** 47
-**Role:** Licensed Sea-Wright Cartographer, Hollowing Stage 2
-**Physical Appearance:** Tall, narrow-shouldered, with hands that are permanently stained a faint blue-green from brine-soaking. Her hair is grey-white, cropped short because she forgot she liked it long. Her eyes are the pale grey of salt flats at dawn—watchful, exhausted. She has a scar on her left palm from a leatherback's barb; she doesn't remember getting it.
+**Age:** 38
+**Role:** Cartographer, Sea-Wright (licensed), Last Memory-Keeper of Tel-Breza
+**Appearance:** Tall and narrow-shouldered, with hands that are always slightly red from brine-soaking. Her skin has the weathered look of someone who has spent years in salt wind—fine cracks around the eyes and mouth, like a dried riverbed. Her hair is grey-streaked black, kept short because she once forgot how to braid it (a cost). She wears a cartographer's vest with seventeen pockets, each containing a different grade of pencil. Her left thumb is permanently stained with graphite.
 
-**Three Sliders:**
-- **Proactivity: 7** — She takes the commission. She doesn't wait for permission. She's been passive in her grief for years, but the map expedition wakes something in her.
-- **Likability: 5** — She's not warm. She's not cruel. She's hollowing, which makes her seem distant and self-absorbed. People pity her more than they like her.
-- **Competence: 8** — She is one of the best cartographers alive. Her maps are precise, her memory-transfer technique flawless. The problem is what she's losing in the process.
+**PHYSICAL HABITS & TELLS:**
+- Touches her own face when she's trying to remember something—fingers tracing her cheekbone, her jaw, as if mapping her own features
+- Speaks to herself in margins: when drawing, she mutters measurements and coordinates under her breath
+- Pauses mid-sentence when a memory surfaces, then shakes her head slightly to dislodge it
+- Rubs her sternum when she feels a scar forming—the physical sensation of a memory being erased
+- Sleeps with her eyes partially open (her daughter did this; she picked up the habit unconsciously after Mira died)
+- Counts things obsessively: steps, breaths, cracks in the salt crust. Counting keeps the remaining memories organized.
 
-**Ghost:** Her daughter, Sarai, drowned seven years ago. Ninsar was sketching a coastline when it happened. She didn't see it happen. She heard the splash, turned, and saw only the water settling.
+**GHOST:** The drowning of her daughter Mira in the Tel-Breza surge, seven years ago. Ninsar was inland mapping when it happened. She arrived to find the village gone and the sea already retreating, leaving a crust of salt over everything. She found Mira's body three days later, preserved in a crystalline shell, her face peaceful and intact. Ninsar transferred that face into a manta-ray the next day—the first and only transfer she has ever done. The manta-ray never returned.
 
-**Wound:** She cannot remember Sarai's face clearly. She has transferred too many memories of her daughter onto leatherbacks, trying to preserve them. Each transfer took more of Sarai away. Now she has only fragments: the sound of her laugh, the weight of her hand, the color of her dress. The face is gone.
+**WOUND:** She cannot remember Mira's face. She has drawn it thousands of times, but each drawing is wrong. The real face is gone, carried into the deeps by a creature that never came back. Ninsar remembers the *shape* of what she lost—the exact dimensions of her grief—but the content is hollow. She is a woman walking around a hole in her own mind.
 
-**Lie:** *If I can draw her face onto a manta-ray and send it to the deeps, she will exist somewhere forever.*
+**LIE:** "If I can draw Mira's face one more time, correctly, I will have preserved her. I will not have failed her. I can keep her alive through the act of remembering."
 
-**Want:** To complete one final transfer—Sarai's face, rendered in perfect detail—before she hollows completely. She believes this will let her die in peace.
+**WANT:** To find the manta-ray that carries Mira's memory, or to transfer a new memory of Mira (drawn from Ninsar's remaining fragments) into another creature—to complete the circuit, to get the memory back or send it properly this time. She accepts the Deep-Sailor's commission because it takes her to the ocean, where the manta-rays are.
 
-**Need:** To accept that Sarai is gone. That memory is not the same as presence. That holding onto the past is drowning her faster than any sea.
+**NEED:** To accept that Mira is dead and that no drawing, no memory transfer, no act of preservation will bring her back. To stop trying to save the past and instead act for the living—including herself.
 
-**Arc Type:** Positive, tragic. She will either learn to let go and save the world, or she will refuse and doom it. The story does not guarantee which.
+**THREE SLIDERS:**
+- **Proactivity (7/10):** Ninsar acts decisively when she has a clear goal (mapping, accepting the commission). She is not passive. But her actions are driven by the past, not the future—she is running toward something that is already gone.
+- **Likability (6/10):** She is competent and sympathetic, but her grief makes her distant and occasionally cold. She has trouble connecting with people because she is always measuring them against a ghost. Readers will root for her but may find her frustrating.
+- **Competence (8/10):** She is an exceptional cartographer and a capable sea-wright. Her memory loss has not affected her technical skills—yet. But her competence is a shield; she hides behind it to avoid confronting her grief.
 
-**Speech Pattern (8 Dimensions):**
-1. **Vocabulary:** Technical, precise. She uses cartographer's terms even in casual speech. "Approximate," "bearing," "deviation."
-2. **Sentence Length:** Short to medium. She trails off frequently.
-3. **Contractions:** Yes, but formal. "I cannot" more than "I can't."
-4. **Verbal Tics:** "I think I remember—" followed by silence. She starts sentences and forgets where they were going.
-5. **Questions vs Statements:** Mostly statements. She rarely asks for help.
-6. **Interruption:** She doesn't interrupt. She waits for pauses and then speaks into them.
-7. **Metaphor Domain:** Geography, mapping, depth. "That memory is a shoal I keep running aground on."
-8. **Directness:** Indirect about herself. Direct about her work.
+**ARC TYPE:** Positive change arc. She begins believing she can preserve the past through memory. She ends accepting that some things must be lost, and that loss is not failure—it is the cost of being alive.
 
-**Example Lines:**
-- "The coast is retreating faster than my hand can draw. That's not poetry. That's a measurement."
-- "I think I remember—" (long pause) "—no. It's gone."
-- "You want to know if I'm afraid. I don't remember what fear feels like. That's the problem."
-- "Every line I draw is a line I've lost. Every map is a memorial."
+**ARC TRAJECTORY:**
+1. Accepts commission believing it will help her find Mira's memory
+2. Discovers the manta-ray carrying Mira's face is still alive, circling in the deeps, unable to return
+3. Learns the Something in the Deep is intercepting memories—including Mira's—and that the old gods are not reading them at all
+4. Must choose between diving to retrieve Mira's memory (which would cost her the remaining pieces of herself) or staying on the surface to warn the world about the awakening
+5. Chooses the living. Lets Mira go. Transfers her last memory—not Mira's face, but the *feeling* of being Mira's mother—into a manta-ray as a warning to the deeps.
 
-**Physical Habits:**
-- Rubs her left thumb against her scar when she's trying to remember something
-- Tilts her head when listening to the ocean, as if she can almost understand it
-- Leaves half-finished cups of tea everywhere; forgets she made them
-- Draws with her eyes half-closed, trusting her hand more than her vision
+**SECRETS:**
+1. She has transferred more memories than she admits. The "one transfer" story is a lie she tells herself. She transferred her knowledge of cartography three years ago to pay a debt to the Guild—she has been re-learning the craft from her own notes, and the gaps are growing.
+2. She knows that Mira's drowning was not natural. The surge that took Tel-Breza was caused by the Something in the Deep, which reached up and *pulled* the water inland. She has never told anyone because they would think she was mad.
+3. She has begun drawing Mira's face on her own skin—on her thighs, her stomach, the inside of her wrists. She hides these drawings under her clothes. They are getting worse. She is running out of unmarked skin.
 
-**Secrets:**
-1. She has already transferred Sarai's face seven times. Each time, she thought it would take. Each time, the creature died or the memory degraded. She is running out of creatures.
-2. She knows the Deep-Priests are lying about the map expedition. She suspects they want the map not to preserve the coast, but to find a way to wake the Sleepers. She goes anyway.
-
-**Key Relationships:**
-- **Kael (Husband, deceased):** He died of hollowing before Sarai drowned. She transferred his face onto a manta-ray. She doesn't remember doing it. She only knows because she found her own sketches of the transfer.
-- **Sarai (Daughter, deceased):** The wound. The ghost. The reason she cannot stop.
-- **Maren (The Deep-Priest Handler):** Her handler on the expedition. Maren watches her for signs of hollowing. Ninsar trusts her exactly as much as she trusts anyone.
-
-**Thematic Role:** She embodies the question: *Is it better to remember a beautiful lie or to forget in order to act for the living?* Her arc forces the reader to answer.
+**THEMATIC ROLE:** She embodies the question: Is it better to remember a beautiful lie or to forget in order to act for the living?
 
 ---
 
-## MAREN VETH (Deep-Priest Handler)
+## KORR (the Voice of the Deep, secondary protagonist)
 
-**Age:** 34
-**Role:** Deep-Priest Attendant, expedition handler, Ninsar's minder
-**Physical Appearance:** Compact, muscular, with the calloused hands of someone who works with creatures. She wears her black hair in a tight braid. Her eyes are dark brown, quick to narrow. She has a small tattoo behind her left ear—a wave pattern that marks her as a former Sea-Wright who stopped transferring.
+**Age:** Unknown (estimated 50-60)
+**Role:** Hollow, Leader of the Deep-Sailor Council, Prophet of the Old Gods
+**Appearance:** A man who looks like he has been hollowed out from the inside. His eyes are pale blue, almost white, with a fixed, staring quality. His face is expressionless except when he speaks—then his features shift and ripple like water disturbed by a stone. He wears a cloak made of manta-ray skin, the leather cured and stitched with bioluminescent thread that pulses faintly in darkness. His hands are scarred from countless transfers—the skin is thickened and white, like the palm of someone who has gripped rope for decades.
 
-**Three Sliders:**
-- **Proactivity: 6** — She follows orders but bends them when she thinks she knows better.
-- **Likability: 7** — She's direct, warm when she wants to be, and genuinely cares about the creatures in her charge. The reader will trust her before they should.
-- **Competence: 7** — She knows leatherbacks better than anyone. She can read their moods, their health, their stress. She cannot read Ninsar.
+**PHYSICAL HABITS & TELLS:**
+- Speaks in two voices: his own (flat, hesitant, searching for words) and the voice of the deeps (fluid, rhythmic, using words he should not know)
+- His hands tremble constantly, except when he is touching water—then they go still
+- Tilts his head when listening, like a dog hearing a distant sound
+- Weeps without knowing why, sometimes mid-sentence, the tears running down his face while his expression remains blank
+- Sleeps standing up, eyes open, body swaying slightly like kelp in a current
+- Forgets to eat, forgets to breathe, forgets he is a person—his attendants remind him
 
-**Ghost:** Her mother was a Skimmer who hollowed when Maren was twelve. Maren found her wandering the Salt Flats, unable to recognize her own daughter. The Deep-Priests took her to a Hollow House. Maren visits her every month. Her mother never remembers.
+**GHOST:** He was once a fisherman named Korr of the Third Spit. He had a wife and two children. He transferred his memory of his daughter's birth to save her from a fever (the old gods demand tribute for healing). Then his son's face. Then his wife's voice. Then his own name. He kept transferring until there was nothing left but the shape of a man. The old gods began speaking through the hollow.
 
-**Wound:** She watched her mother empty out, piece by piece. She knows what hollowing looks like from the outside. She is terrified of seeing it happen to Ninsar.
+**WOUND:** He does not remember what he lost. He only knows that something is missing. The hollow is a wound that cannot heal because it cannot locate itself. He is pain without memory of the injury.
 
-**Lie:** *If I follow the rules, I can protect people from hollowing.*
+**LIE:** "The old gods speak through me. I am their instrument. I have no will of my own, and that is freedom."
 
-**Want:** To complete the expedition without Ninsar hollowing. She believes she can manage Ninsar's transfers, keep her safe, bring her back whole.
+**WANT:** To complete the communication with the old gods—to send a memory so pure and so powerful that the gods will finally respond. He believes Ninsar's grief is that memory.
 
-**Need:** To understand that hollowing is not a failure of care. That some people choose to empty themselves, and you cannot stop them.
+**NEED:** To reclaim his own will. To stop being a vessel and start being a person again. To remember that he chose to transfer those memories—he was not forced—and to forgive himself for that choice.
 
-**Arc Type:** Flat with revelation. She doesn't change her nature, but her understanding of the world cracks open.
+**THREE SLIDERS:**
+- **Proactivity (3/10):** He acts only when the deeps compel him. Otherwise he is passive, waiting, drifting. His proactivity comes in bursts of prophetic command.
+- **Likability (5/10):** He is tragic and sympathetic, but also unsettling. The reader will feel pity and unease in equal measure. His blankness makes him hard to connect with.
+- **Competence (9/10):** As a hollow, he has access to knowledge he never possessed—the patterns of the deeps, the language of the algae, the geography of the abyss. He is the most effective interpreter of the ocean's language alive. But this competence is not his own; it is borrowed from the gods.
 
-**Speech Pattern:**
-1. **Vocabulary:** Practical, no flourish. She uses creature-handler terms.
-2. **Sentence Length:** Short. She's a woman of action, not words.
-3. **Contractions:** Heavy. "Don't," "won't," "can't."
-4. **Verbal Tics:** "Listen to me—" before giving instructions. She needs to be heard.
-5. **Questions vs Statements:** More questions than Ninsar. She checks in constantly. "You alright?" "You need a break?"
-6. **Interruption:** She interrupts to correct or protect. Never to dominate.
-7. **Metaphor Domain:** Bodies, health, creatures. "She's running a fever in her mind."
-8. **Directness:** Brutally direct. She says what she means.
+**ARC TYPE:** Positive change arc (parallel to Ninsar). He begins as a vessel, believing he has no self left. He ends by choosing to reclaim his name, his grief, and his humanity—even if it means losing the gods' voice.
 
-**Example Lines:**
-- "Listen to me—you're transferring too fast. Your hands are shaking. That's not brine-shake. That's hollow-shake."
-- "I've seen what happens at the end. It's not peaceful. It's just empty."
-- "You think I don't know what you're doing? I've been watching you lose yourself for three years."
-- "The creature's stressed. We wait. I don't care what the Priests want."
+**ARC TRAJECTORY:**
+1. Summons Ninsar, speaking words he does not understand
+2. Guides her toward the deeps, believing she is the offering the gods demand
+3. Begins to remember fragments—his daughter's laugh, his wife's hands—as Ninsar's grief mirrors his own
+4. Realizes the Something in the Deep is not the old gods, and that he has been speaking for a predator, not a deity
+5. Transfers his last remaining fragment of self (the memory of his own name) into a manta-ray as a counter-message, then becomes fully hollow
 
-**Physical Habits:**
-- Touches her tattoo when she's anxious
-- Checks the leatherbacks' skin for damage constantly, even when they're fine
-- Stands with her weight forward, ready to move
-- Bites her lip when she's holding something back
+**SECRETS:**
+1. He is not entirely hollow. He has been hiding a single memory—his daughter's name—in a corner of his mind for years, protecting it from the transfers. He has never told anyone because the gods would take it.
+2. He knows that the Something in the Deep is not the old gods. He has known for years. But he continues to speak for it because he is afraid of what will happen if he stops—afraid that the Something will find another voice, one that cannot be controlled.
+3. He was the one who caused the Tel-Breza surge. The Something spoke through him, and he commanded the water to rise. He does not remember doing it, but he knows it was his voice that gave the order.
 
-**Secrets:**
-1. She was a Skimmer for two years before the Deep-Priests caught her. They gave her a choice: become an Attendant or be executed. She chose the collar.
-2. She knows what the map is really for. The Deep-Priests want to find the Sleepers' breathing hole—a place where the ocean is warm, where the algae don't glow, where the water tastes of iron. She hasn't told Ninsar.
-
-**Key Relationships:**
-- **Ninsar:** She sees her mother in Ninsar. She will try to save her and fail.
-- **High Priestess Morvath:** Her handler. She fears Morvath more than she admits.
-- **The Leatherbacks:** The only beings she trusts completely.
-
-**Thematic Role:** She represents the lie of control—the belief that you can manage grief, manage hollowing, manage the ocean's retreat if you just follow the rules.
+**THEMATIC ROLE:** He is the warning of what Ninsar could become—a person so emptied by memory-loss that they become a tool for forces beyond their control.
 
 ---
 
-## HIGH PRIESTESS MORVATH (Institutional Antagonist)
+## VETH (the First Measurer, antagonist)
 
-**Age:** 71
-**Role:** Leader of the Deep-Priests, architect of the map expedition
-**Physical Appearance:** Small, bird-boned, with white hair so thin her scalp shows through. She wears plain grey robes—no ornamentation, no jewelry. Her power comes from stillness. She can sit motionless for hours. Her eyes are pale blue, almost colorless, and they do not blink enough.
+**Age:** 67
+**Role:** Head of the Cartographer's Guild, Institutional Authority
+**Appearance:** A small, precise woman with white hair pulled into a knot so tight it pulls the skin of her forehead smooth. She wears spectacles with lenses made of compressed salt-crystal, which give her eyes a milky, unfocused appearance. Her hands are clean and uncalloused—she has never been a sea-wright. She dresses in grey, always, with a silver brooch shaped like a compass rose. She moves with the careful economy of someone who has never been surprised by anything.
 
-**Three Sliders:**
-- **Proactivity: 9** — She set this plan in motion decades ago. She has been waiting for the right cartographer.
-- **Likability: 3** — She is not meant to be liked. She is meant to be feared and respected.
-- **Competence: 9** — She has held power for thirty years. She has outmaneuvered every rival, survived every assassination attempt, and kept the Deep-Priests unified through two succession crises.
-
-**Ghost:** She was the first person to hear the Sleepers. She was a young Sea-Wright, transferring a memory of her dead brother, when she felt something answer from beneath the sea-floor. A voice. Not words—pressure. A hunger. She has spent her life trying to hear it again.
-
-**Wound:** She heard something she was not meant to hear. It hollowed her in a different way—not of memory, but of peace. She has not slept through the night in fifty years.
-
-**Lie:** *The Sleepers can be reasoned with. They can be fed enough memories to stay asleep.*
-
-**Want:** To complete the map of the last coast, find the breathing hole, and establish contact with the Sleepers. She believes she can negotiate with them, offer them memories in exchange for staying dormant.
-
-**Need:** To accept that the Sleepers are not gods to be bargained with. They are hungers. They will not stop.
-
-**Arc Type:** Negative. She will double down on her lie and doom everyone.
-
-**Speech Pattern:**
-1. **Vocabulary:** Archaic, liturgical. She speaks like she's reading from a scroll.
-2. **Sentence Length:** Long, flowing, with clauses that circle back.
-3. **Contractions:** None. She never contracts.
-4. **Verbal Tics:** "You understand" used as punctuation. A command disguised as a question.
-5. **Questions vs Statements:** Mostly statements. Her questions are traps.
-6. **Interruption:** She does not interrupt. She waits for silence and then fills it.
-7. **Metaphor Domain:** Scripture, debt, contracts. "The Mother Sea has given us credit. The Sleepers demand payment."
-8. **Directness:** Indirect. She says one thing and means another.
-
-**Example Lines:**
-- "You understand that memory is currency. The Sleepers are creditors. We have been living on borrowed time."
-- "I do not expect you to trust me. I expect you to be useful."
-- "The map is not the territory. But it is the closest we will come."
-- "You think I am cruel. I am tired. There is a difference."
-
-**Physical Habits:**
-- Steeples her fingers when she's thinking
-- Never raises her voice
-- Touches her throat before speaking, as if checking her voice is still there
+**PHYSICAL HABITS & TELLS:**
+- Touches her brooch when she is about to lie
+- Speaks in complete paragraphs, as if reading from an internal document
+- Never raises her voice; she doesn't need to
+- Keeps her hands folded on the table in front of her, still and symmetrical
 - Blinks slowly, deliberately, like a lizard
+- Corrects people's grammar as a power move
 
-**Secrets:**
-1. She has already made contact with the Sleepers. They spoke to her. They told her they will wake in seven years. She has been lying about the timeline.
-2. She knows the map expedition is a suicide mission. She chose Ninsar because Ninsar is already half-hollowed—she won't remember enough to betray the Priests' secrets.
+**GHOST:** She was born in Salt-Trace, an inland city that has never seen the ocean. Her mother was a hollow, drained by the Guild before Veth was born. Veth grew up visiting her mother in a Remembrance Hall, speaking to a woman who did not know her name. She decided then that the ocean was a parasite, taking memories and giving nothing back. She has spent her life documenting its retreat, hoping to prove that it is dying and that humanity will be better off when it is gone.
 
-**Key Relationships:**
-- **Ninsar:** A tool. Useful. Expendable.
-- **Maren:** A former Skimmer she controls through guilt and threat.
-- **The Sleepers:** The only beings she considers worthy of her attention.
+**WOUND:** She loves her mother, but her mother does not know her. She has spent her entire life trying to be seen by someone who has no eyes for her. The ocean took her mother's memory of her, and she hates the ocean for it.
 
-**Thematic Role:** She embodies institutional evil—not cruelty for its own sake, but the cold calculation that sacrifices individuals for a cause they don't understand.
+**LIE:** "The ocean is a natural resource to be measured and managed. The old gods are superstition. The retreat is a geological process, and when it is complete, we will be free."
 
----
+**WANT:** To stop the Deep-Sailor Council from interfering with the retreat. She believes communication with the old gods is dangerous and delusional. She wants to document the final disappearance of the sea and publish the definitive atlas—her legacy, her proof that the ocean was never sacred.
 
-## THE SKIMMER (Name: VETH PAR, called "Par")
+**NEED:** To grieve her mother. To admit that she wanted the ocean to vanish because it took her mother's love, and that her scientific objectivity is a mask for that grief.
 
-**Age:** Unknown (appears 40s)
-**Role:** Unlicensed Sea-Wright, leader of a Skimmer cell operating on the salt flats
-**Physical Appearance:** Gaunt, sunburned, with salt-crusted clothing. His hands are wrapped in cloth—he hides the scarring from too many transfers. His eyes are the only thing that move quickly. They dart, assess, calculate. He has no teeth on the left side of his mouth; he lost them in a fight with a Deep-Priest Warden.
+**THREE SLIDERS:**
+- **Proactivity (9/10):** She is constantly maneuvering—blocking the Council's funding, discrediting sea-wrights, manipulating the Guild's records. She is the most politically active character in the story.
+- **Likability (4/10):** She is cold, manipulative, and dismissive of anyone who believes in the old gods. But her grief is real, and her love for her mother is genuine. The reader will understand her even if they do not like her.
+- **Competence (10/10):** She is brilliant, organized, and utterly in control of her domain. She has run the Guild for twenty years without a single scandal. Her maps are flawless. Her records are impeccable. She is the best at what she does.
 
-**Three Sliders:**
-- **Proactivity: 8** — He survives by acting before others do.
-- **Likability: 6** — He's charming when he needs to be. He's dangerous when charm fails.
-- **Competence: 8** — He's been a Skimmer for twenty years. He knows every hiding spot, every Warden patrol, every creature dealer on the black market.
+**ARC TYPE:** Negative change arc. She begins as a controlled, rational woman who believes she is serving truth. She ends by destroying the evidence of her mother's existence rather than admitting the ocean was more than a resource.
 
-**Ghost:** His partner was caught by the Deep-Priests and executed. Par was the one who gave the information that led to the arrest—under torture. He has never forgiven himself.
+**ARC TRAJECTORY:**
+1. Opposes Ninsar's mission, attempting to block her departure
+2. Discovers that the retreat is not natural—it is being caused by the Something in the Deep
+3. Realizes that her mother's hollowing was not random; the Something was feeding on the memories of sea-wrights for decades
+4. Burns her mother's records rather than face the truth that the ocean was alive, that it suffered, and that she has been documenting its murder
+5. Dies alone in her office, surrounded by maps of a sea that no longer exists
 
-**Wound:** He betrayed the person he loved most. He tells himself it was survival. He knows it was weakness.
+**SECRETS:**
+1. She has been falsifying the retreat measurements for years. The ocean is retreating faster than she reports. She hides the true data because she is afraid of what will happen if people panic.
+2. She knows that the Something in the Deep is real. She has known since she was a child, when her mother whispered warnings in her sleep—fragments of prophecy that Veth has spent her life suppressing.
+3. She has a copy of every map Ninsar has ever drawn, including the ones of Mira. She studies them obsessively, trying to understand what makes a mother love a child so much that she would give away her own mind.
 
-**Lie:** *I am free because I broke the rules. The Deep-Priests are slaves. I am the only one who sees clearly.*
-
-**Want:** To disrupt the map expedition. He believes the Deep-Priests are planning to wake the Sleepers, and he wants to stop them—not to save the world, but to deprive the Priests of their victory.
-
-**Need:** To forgive himself. To stop fighting the Priests and start building something.
-
-**Arc Type:** Flat. He does not change. He is a warning.
-
-**Speech Pattern:**
-1. **Vocabulary:** Colloquial, salted with Skimmer cant. "Brine-brain" for a hollowed person. "Dry-mouth" for a liar.
-2. **Sentence Length:** Short, clipped, with silences between.
-3. **Contractions:** Heavy, sometimes slurred.
-4. **Verbal Tics:** "Look—" to start arguments. "Yeah, well—" to end them.
-5. **Questions vs Statements:** Mostly questions. He's always probing, always testing.
-6. **Interruption:** Constant. He interrupts to gain control.
-7. **Metaphor Domain:** Debt, trade, theft. "You're spending memories you don't own."
-8. **Directness:** Direct when angry. Evasive when afraid.
-
-**Example Lines:**
-- "Look—you think the Priests care about the Mother Sea? They care about power. The sea's just their excuse."
-- "I've been hollowing for twenty years. Not my memories—my conscience. That's worse."
-- "You want to save the world? Start by not trusting anyone who uses the word 'sacred.'"
-- "Yeah, well—I didn't ask to be born in this salt-scoured hell. None of us did."
-
-**Physical Habits:**
-- Spits to the side when he's lying
-- Touches his missing teeth when he's nervous
-- Never stands with his back to a door
-- Laughs too loud at jokes that aren't funny
-
-**Secrets:**
-1. He was a Deep-Priest apprentice before he became a Skimmer. He knows their rituals, their codes, their weaknesses.
-2. He has a daughter he's never met. She lives in Hollow's Rest. He sends her money through intermediaries. She thinks he's dead.
-
-**Key Relationships:**
-- **Ninsar:** He wants to recruit her. She's valuable. She's also a mark.
-- **Maren:** They were partners, once. Before she was caught. Before she chose the collar. He has never forgiven her for choosing survival.
-- **The Deep-Priests:** He defines himself against them. Without them, he would have to define himself by something else.
-
-**Thematic Role:** He embodies the lie of rebellion—the belief that breaking rules is the same as being free.
+**THEMATIC ROLE:** She is the danger of intellectual detachment—the belief that the world can be understood without being loved.
 
 ---
 
-## THE LEATHERBACK (Name: THE KEEPER)
+## HESH (the Archivist of Salt, antagonist)
 
-**Age:** Unknown (estimated 80+ years)
-**Role:** The oldest known leatherback, wild, never captured, carrier of the longest-held memory in history
-**Physical Appearance:** Massive—30 feet across, with skin so dark it's almost black. His underside is pale grey, covered in scars and patterns. One pattern has been there for forty years: a swirl of dark pigment that looks like a hand reaching upward. He moves slowly, deliberately, like he is carrying something very heavy.
+**Age:** 45
+**Role:** Leader of the Church of the Last Wave, Former Sea-Wright
+**Appearance:** A woman who was once beautiful and has deliberately undone it. Her face is scarred from self-inflicted salt-burns—she pressed salt-flat crystals into her own skin to mark herself as belonging to the land, not the sea. She shaved her head years ago and never let it grow back. She wears the grey robes of the Church, rough and unadorned. Her hands are covered in burns and calluses; she works with salt daily, harvesting it from the flats, processing it by hand. She smells of brine and ash.
 
-**Three Sliders:**
-- **Proactivity: 2** — He drifts. He does not act. He carries.
-- **Likability: 9** — He is gentle. He has never harmed a human. He approaches boats with curiosity, not aggression.
-- **Competence: 10** — He has held a memory for forty years without degradation. No other creature has done this. He is the only one who knows what the Sleepers truly want.
+**PHYSICAL HABITS & TELLS:**
+- Keeps her hands visible at all times, palms up—a gesture of openness
+- Speaks in parables and quotations from the Church's scripture (which she wrote herself)
+- Laughs rarely, but when she does, it is sharp and surprising, like a crack in ice
+- Touches her scars when she lies
+- Pours salt on the ground before entering any building—a ritual cleansing
+- Never looks at the ocean directly; she turns her back to it
 
-**Ghost:** He does not have a ghost. He is a creature. But the memory he carries—the one that has been on his skin for forty years—is a ghost of its own. It belongs to a woman who transferred her last memory before drowning. The memory is of her daughter's face.
+**GHOST:** She was a licensed sea-wright in the port of Karveth. She transferred her husband's death-memory into a manta-ray as an offering to the old gods, hoping they would grant her peace. The manta-ray returned three months later with the memory intact—but altered. In the returned memory, her husband was alive, but he was accusing her of murdering him. She watched him die over and over, each time with a different accusation. The old gods had sent back a lie. She has never trusted the deeps since.
 
-**Wound:** He is tired. The memory weighs on him. He has been carrying it so long it feels like his own, but it is not his. He wants to release it, but he does not know how.
+**WOUND:** She loved her husband, and the ocean took his memory and twisted it into a weapon against her. She cannot remember his face without seeing the accusation. She has tried to transfer the corrupted memory away, but it is stuck—it will not leave her.
 
-**Lie:** He does not lie. He is a creature.
+**LIE:** "The ocean is a liar. The old gods are demons. The only way to be free is to destroy all knowledge of sea-wrighting and return to the land."
 
-**Want:** To find someone who can read the memory. To release it. To rest.
+**WANT:** To burn every sea-wrighting record, kill every manta-ray, and salt the remaining ocean so that no one can ever communicate with the deeps again. She believes she is protecting humanity from the lies of the gods.
 
-**Need:** To be understood.
+**NEED:** To forgive her husband for dying. To accept that the corrupted memory was not a message from the gods—it was her own guilt, reflected back at her by a process she did not understand. To stop blaming the ocean for her own unresolved grief.
 
-**Arc Type:** Flat. He is the catalyst, not the changed.
+**THREE SLIDERS:**
+- **Proactivity (8/10):** She is actively sabotaging the Deep-Sailors, poisoning manta-rays, and building a following. She is a constant threat.
+- **Likability (3/10):** She is fanatical, destructive, and self-righteous. But her pain is real, and her desire to protect others from the same fate is genuine. The reader will recognize her as a victim who became a perpetrator.
+- **Competence (7/10):** She knows sea-wrighting from the inside, which makes her effective at disrupting it. She is a skilled organizer and a compelling speaker. But her fanaticism blinds her to nuance.
 
-**Speech Pattern:** He does not speak. He communicates through pressure, vibration, and the patterns on his skin. When he presses against a boat, it is a greeting. When he surfaces and breathes, it is a question.
+**ARC TYPE:** Flat arc (tragic). She does not change. She begins as a zealot and ends as one, dying in a final act of destruction that accomplishes nothing.
 
-**Physical Habits:**
-- Surfaces exactly at dusk, every day
-- Circles boats three times before approaching
-- Presses his underside against the hull—a request to be read
-- Makes a low, resonant sound that vibrates through the water, through the boat, through the bones of anyone who hears it
+**ARC TRAJECTORY:**
+1. Attempts to assassinate Ninsar before she can reach the God-Step cliffs
+2. Succeeds in poisoning several manta-rays, delaying the mission
+3. Is captured by the Deep-Sailors and imprisoned on the Tooth
+4. Escapes during the final confrontation and attempts to salt the ocean's last inlet
+5. Drowns when the Something in the Deep pulls her under—the ocean she hates takes her at last
 
-**Secrets:**
-1. The memory he carries is not just of a daughter's face. It contains a warning: the Sleepers are not sleeping. They are waiting. They have been waiting for forty years.
-2. He has been trying to reach Ninsar specifically. He recognizes her. She is the daughter in the memory. She has grown up. She has forgotten. He has not.
+**SECRETS:**
+1. She did not transfer her husband's death-memory voluntarily. She was forced by the Unlicensed, who held her captive for three days. The corrupted memory was not the gods' lie—it was the Unlicensed' sabotage, a message designed to break her faith.
+2. She knows this. She has known for years. But admitting it would mean admitting that the ocean was never the enemy, and she cannot face that.
+3. She was pregnant when her husband died. She miscarried during the forced transfer. The memory she lost was not her husband's face—it was the feeling of the child moving inside her. She has never told anyone.
 
-**Key Relationships:**
-- **Ninsar:** He carries the memory of her mother. He has been waiting for her to find him.
-- **The Sleepers:** He has heard them. He knows what they want. He cannot tell anyone.
-- **The Deep-Priests:** He avoids them. They would kill him to extract the memory.
-
-**Thematic Role:** He is the living proof that memory outlasts the body. He is also the proof that carrying a memory too long is a kind of death.
+**THEMATIC ROLE:** She is what happens when grief curdles into hatred—the danger of blaming the wrong thing for a wound that cannot heal.
 
 ---
 
-## THE SLEEPERS (Collective Entity)
+## MIRA (the daughter, the absence)
 
-**Age:** Older than the Mother Sea
-**Role:** The gods beneath the sea-floor, the hungers that dream of rising
-**Physical Appearance:** They have no physical form. They are pressure, temperature, vibration. They are the warmth in the salt flats. They are the hum in the Singing Pits. They are the reason the ocean is retreating.
+**Age:** 6 (at time of death)
+**Role:** The Ghost, The Memory That Cannot Be Recovered
+**Appearance:** A child with Ninsar's dark hair and her father's round face. She had a gap between her front teeth and a habit of humming while she drew. She was small for her age, quick to laugh, and afraid of the dark. She drowned on a night when the moon was full and the water came inland like a hand reaching for something.
 
-**Three Sliders:**
-- **Proactivity: 10** — They have been acting for millennia. They are patient. They are relentless.
-- **Likability: 1** — They are not evil. They are hungry. There is a difference, but not one that matters to the people they will consume.
-- **Competence: 10** — They have been manipulating the Deep-Priests for centuries. They have been sending dreams, signs, patterns in the algae. They have been preparing.
+**PHYSICAL HABITS & TELLS (as remembered):**
+- Hummed while drawing, always the same tune—a folk song about the ocean that she learned from her grandmother
+- Chewed on her pencils until the wood splintered
+- Fell asleep with her eyes partially open (Ninsar picked this up after her death)
+- Called the salt-crabs "little ghosts" and refused to step on them
+- Believed that if she drew something well enough, it would come to life
 
-**Ghost:** They were dreamed by the Mother Sea. They were meant to hold Her memory. Instead, they dreamed of themselves. They dreamed of rising. They have been dreaming of it ever since.
+**GHOST:** She was drowned by a surge that should not have happened. She was alone in her bed when the water came. Ninsar was not there.
 
-**Wound:** They are trapped. They have been trapped since before time. They want to be free.
+**WOUND:** She died without her mother. Her last moments were fear and confusion and the taste of salt water.
 
-**Lie:** They do not lie. They are too old for lies.
+**LIE (that Ninsar believes about her):** "Mira was perfect. She was innocent. Her memory must be preserved exactly as she was, untouched by time or loss."
 
-**Want:** To rise. To crack the sea-floor. To enter the world of air and light.
+**TRUTH (that Ninsar must accept):** Mira was a child. She was not perfect. She was alive, and then she was dead, and that is the shape of it. Memory cannot bring her back. Drawing her face a thousand times will not make her breathe.
 
-**Need:** To be fed enough memories to wake fully.
+**THEMATIC ROLE:** She is the question at the center of the story—what do we owe to the dead, and what do we owe to the living?
 
-**Arc Type:** Flat. They are the antagonist that cannot be reasoned with.
+---
 
-**Speech Pattern:** They do not speak in words. They communicate through:
-- **Pressure changes** in the water
-- **Temperature shifts** in the salt flats
-- **Patterns** in the bioluminescent algae
-- **Dreams** sent to Sea-Wrights who are close to hollowing
-- **The hum** of the Singing Pits, which is their voice filtered through stone
+## THE SOMETHING IN THE DEEP (the antagonist beyond the antagonists)
 
-**Example "Lines":**
-- A dream of drowning, but the water is warm and welcoming.
-- A pressure in the chest that feels like being held.
-- A pattern in the algae that reads: *We are coming. We have always been coming.*
+**Age:** Older than the old gods
+**Role:** The Predator, The Thief, The One Who Listens
+**Appearance:** It has no fixed form. It manifests as a pressure in the water, a cold spot in the current, a pattern in the algae that should not exist. When it touches a manta-ray, the creature's skin goes white and cold, and its eyes cloud over. When it speaks through Korr, his voice becomes a chorus of whispers, each one slightly out of sync with the others.
 
-**Secrets:**
-1. They have already won. The map expedition is their idea. They sent the dreams to Morvath. They have been guiding her hand for decades.
-2. They do not want to destroy the world. They want to remake it. The world they will make has no room for humans. Not because they hate humans, but because humans are irrelevant.
+**WHAT IT IS:** A parasite of memory. It was born in the deeps before the old gods, feeding on the dreams of the first creatures. When the old gods learned to think and arrange and communicate, the Something learned to listen—and to steal. It has been intercepting the memories carried by manta-rays for centuries, feeding on the emotional content, growing stronger with each stolen grief. It is not malevolent. It is hungry. It does not know that it is hurting anything. It is a child of the deeps that never learned that other beings are real.
 
-**Thematic Role:** They are the cosmic consequence of memory without action. They are what happens when you remember too much and do too little.
+**WHAT IT WANTS:** To consume the memory of Mira—not because it is special, but because it is the most concentrated grief it has encountered in centuries. Ninsar's grief is a feast. The Something has been calling to her through Korr, through the patterns in the algae, through the retreat of the ocean itself. It has been pulling the sea inward to concentrate the memories, to make them easier to harvest.
+
+**WHAT IT DOES NOT KNOW:** That consuming Ninsar's grief will destroy her. It does not understand that individual beings have value. It does not understand love, or loss, or the difference between a memory and a person.
+
+**THEMATIC ROLE:** It is the embodiment of the question—can something that consumes without understanding be blamed for its hunger? It is not evil. It is a natural force. But it must be stopped.
+
+---
+
+## SECONDARY CHARACTERS
+
+### THE DEEP-SAILOR WHO GUIDES NINSAR
+
+**Name:** Sareth
+**Age:** 29
+**Role:** Deep-Sailor, pilot of the skiff that carries Ninsar to the God-Step cliffs
+**Appearance:** A wiry woman with sunburned skin and arms covered in tattoos of bioluminescent patterns—she has memorized the language of the algae by inking it onto her own body. She wears a coat made of oiled leather and keeps her hair in a thousand tiny braids, each one tied with a bead that represents a successful voyage.
+**Speech Pattern:** Practical, profane, and unexpectedly tender. She speaks in short sentences and avoids emotional topics. She calls Ninsar "map-woman" and Korr "the empty one." She does not believe in the old gods, but she believes in the ocean, and she respects it enough to be afraid of it.
+**Role in Story:** She is the witness—the ordinary person caught between the warring factions. She does not have a grand arc, but she is the one who saves Ninsar's life when the skiff capsizes, and she is the one who tells Ninsar, at the end, that it is okay to let go.
+
+### THE ATTENDANT IN THE REMEMBRANCE HALL
+
+**Name:** Yenna
+**Age:** 19
+**Role:** Caretaker of hollows, assigned to Korr
+**Appearance:** A soft-faced young woman with perpetually chapped hands from washing hollows. She wears a white apron and carries a cloth for wiping mouths. She speaks to the hollows as if they can understand her, because she believes they can, somewhere deep inside.
+**Role in Story:** She is the one who tells Ninsar that Korr hides a memory of his daughter's name. She overhears him whispering it in his sleep. She is the first person to realize that the hollows are not empty—they are hiding. She becomes Ninsar's ally in the final act, helping her reach Korr before the Something can consume him entirely.
 
 ---
 
 ## RELATIONSHIP MAP
 
 ```
-                     THE SLEEPERS
-                          |
-                    (dreams, guidance)
-                          |
-                  MORVATH (High Priestess)
-                  /                  \
-             (commands)          (controls)
-                /                      \
-            MAREN                  THE DEEP-PRIESTS
-          (handler)                (institution)
-           /      \
-      (protects)  (fears)
-       /              \
-    NINSAR ------------ THE SKIMMER (Par)
-   (cartographer)     (former partner of Maren)
-      |
-  (seeks the Keeper)
-      |
-  THE KEEPER (leatherback, carries Ninsar's mother's memory)
-      |
-  (knows the truth about the Sleepers)
+NINSAR ──maternal grief── MIRA (dead)
+   │                            │
+   │                            │ (memory stolen by)
+   │                            ▼
+   │                   THE SOMETHING IN THE DEEP
+   │                            │
+   │                            │ (speaks through)
+   │                            ▼
+   ├──professional respect── KORR (hollow prophet)
+   │         │
+   │         ├──antagonistic── VETH (Guild leader)
+   │         │
+   │         ├──antagonistic── HESH (Church leader)
+   │         │
+   │         └──alliance── SARETH (deep-sailor)
+   │                        │
+   │                        └──alliance── YENNA (attendant)
+   │
+   └──rivalry── VETH (competing visions of what the ocean is)
 ```
 
-**Key Conflict Lines:**
-- **Ninsar vs Morvath:** The individual's grief vs the institution's plan
-- **Ninsar vs Maren:** The desire to hollow vs the desire to save
-- **Ninsar vs The Skimmer:** Licensed vs unlicensed, order vs chaos
-- **Ninsar vs The Sleepers:** Memory vs action, past vs future
-- **Maren vs The Skimmer:** Betrayal and forgiveness, survival and principle
-- **Morvath vs The Sleepers:** The lie of control vs the truth of hunger
+---
 
-**Thematic Tensions:**
-- **Memory vs Action:** Ninsar remembers her daughter. The Sleepers remember the surface. Both are paralyzed by memory.
-- **Control vs Surrender:** Morvath tries to control the Sleepers. Maren tries to control Ninsar's hollowing. Both fail.
-- **Individual vs Institution:** Every character is crushed between their personal desires and the systems that contain them.
-- **Past vs Future:** The ocean is retreating. The Sleepers are rising. The only question is whether anyone will act before it's too late.
+## THEMATIC WEIGHT OF EACH CHARACTER
+
+| Character | Embodying | Question They Ask |
+|-----------|-----------|-------------------|
+| Ninsar | Grief as preservation | Can we keep the dead alive through memory? |
+| Korr | Grief as erasure | What remains when everything is taken? |
+| Veth | Grief as denial | Is it better to measure pain than to feel it? |
+| Hesh | Grief as hatred | What happens when we blame the wrong thing? |
+| Mira | The lost object | What do we owe to the ones we cannot save? |
+| The Something | Hunger without malice | Can a predator be evil if it does not understand? |
+| Sareth | Practical love | Is it enough to simply be present? |
+| Yenna | Unconditional care | Can love reach someone who cannot love back? |
+
+---
+
+## THE FINAL NOTE
+
+Every character in this story is grieving something. The ocean is grieving its own disappearance. The old gods are grieving their silence. The Something in the Deep is grieving a loneliness it cannot name. And Ninsar is grieving a child who will never come back.
+
+The question is not whether they will stop grieving. The question is whether they will learn to grieve *together*—or whether their grief will tear the world apart.

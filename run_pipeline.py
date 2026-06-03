@@ -548,7 +548,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
                     f"Focus: address the {question.replace('_', ' ')} issue.\n"
                     f"Preserve existing voice, character work, and essential beats.\n"
                 )
-                brief_file.write_text(brief_content)
+                brief_file.write_text(brief_content, encoding="utf-8")
 
             if not brief_file.exists():
                 step(f"No brief file found for Ch {ch_num}, skipping")
@@ -563,7 +563,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             post_score = parse_score(post_eval.stdout, "overall_score")
 
             ch_file = CHAPTERS_DIR / f"ch_{ch_num:02d}.md"
-            word_count = len(ch_file.read_text().split()) if ch_file.exists() else 0
+            word_count = len(ch_file.read_text(encoding="utf-8").split()) if ch_file.exists() else 0
 
             step(f"Ch {ch_num}: {pre_score} -> {post_score}")
 
@@ -639,7 +639,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
                 (EDIT_LOGS_DIR).glob("*_review.json"), reverse=True)
             if review_logs:
 
-                review_data = json.loads(review_logs[0].read_text())
+                review_data = json.loads(review_logs[0].read_text(encoding="utf-8"))
                 stars = review_data.get("stars", 0) or 0
                 total_items = review_data.get("total_items", 0)
                 major_items = review_data.get("major_items", 0)
@@ -730,12 +730,12 @@ def run_export(state: dict) -> dict:
 
     parts = []
     for ch_file in chapter_files:
-        text = ch_file.read_text().strip()
+        text = ch_file.read_text(encoding="utf-8").strip()
         if text:
             parts.append(text)
 
     if parts:
-        manuscript.write_text("\n\n---\n\n".join(parts) + "\n")
+        manuscript.write_text("\n\n---\n\n".join(parts) + "\n", encoding="utf-8")
         word_count = sum(len(p.split()) for p in parts)
         step(f"Manuscript: {len(parts)} chapters, {word_count} words")
     else:

@@ -2,301 +2,217 @@
 
 ## COSMOLOGY & HISTORY
 
-### The Founding Myth (as told by Deep-Root priests)
+### The First Grief (date unknown, before memory)
+The old gods beneath the sea-floor were not always old. They were the first children of the deep ocean, born when the world was all water and dark. They learned to dream in patterns, and their dreams became the bioluminescent language that still pulses through the deep currents. They do not speak. They *arrange*. Every migration of fish, every shift of tide, every phosphorescent bloom is a sentence they are writing.
 
-Before the world was dry, the Sea-Mother swam through the dark. She carried all memory within her—every name, every face, every grief. She sang the continents into being as resting places, then curled beneath the waves to sleep. Her breathing creates the tides. Her dreams become the deep currents. Her forgetting is the salt.
+The land came later. The gods did not make it. It rose without their permission, and they have been reading about it ever since—through the memories carried down by sea-creatures who brush against its shores.
 
-The Deep-Root priests say the ocean is not water. It is memory made liquid. When the sea retreats, it is not evaporation. It is the Sea-Mother pulling her memories back into herself, preparing to wake.
+### The First Sea-Wright (~800 years ago)
+A woman named Sanna discovered she could press her memories into the flank of a dying jellyfish. She was grieving her brother, who had been taken by a rip current. She wanted the sea to know his name. The jellyfish carried her grief into the abyss. When it returned (jellyfish do not die; they revert to polyp form and begin again), it carried nothing back—but Sanna had forgotten her brother's face entirely. She became the first hollow. The practice spread along every coast.
 
-### The Timeline of Retreat (recorded by the Cartographer's Guild, Salt-Scar Standard)
+### The Retreat Begins (200 years ago)
+No one agrees on why the ocean started shrinking. The Church of the Last Wave says the gods are pulling the sea back to punish human pride. The Deep-Sailors say the ocean is simply dying of loneliness—too many memories taken, too few returned. The Cartographer's Guild records the retreat in precise measurements: three inches per year at first, then a foot, then a yard. The old port of Karveth now sits forty miles from the water. Its harbor is a white basin filled with the petrified hulls of ships, their wood turned to crystalline salt.
 
-**Year 0: The First Recession.** Coastal villages wake to find the tide line one hundred paces lower than memory. No storm. No explanation. The sea simply chose a new shore.
+### The Drowning of Ninsar's Daughter (7 years ago)
+Ninsar's daughter, Mira, was caught in a tidal surge that should not have been possible—the ocean was supposed to be retreating, not advancing. But the surge came inland three miles in a single night, swallowing the coastal village of Tel-Breza. Mira was six years old. Ninsar was inland, mapping a salt-flat formation for the Guild. She arrived to find the village gone and the sea already pulling back again, leaving behind a crust of white that crunched under her boots like broken teeth.
 
-**Year 47: The Salt-Fall.** The first port cities are abandoned as harbors become mudflats. The Great Crystalline begins—a salt flat that grows at the rate of roughly one mile per decade, swallowing farmland, forests, and three smaller kingdoms whose names are now considered unlucky to speak.
+She has not stopped drawing Mira's face since. She draws it on paper, on cloth, on her own skin. She draws it in the margins of official maps. She is running out of surfaces.
 
-**Year 112: The Language of Algae.** Deep-sea fishermen report that the remaining ocean glows at night. Patterns emerge. Scholars at the Lyceum of Drowned Things decode the first phrase: "THE FLOOR IS MOVING."
+### The Summons (present day)
+The Deep-Sailor Council has sent word to every sea-wright on the Salt-Scar: the ocean has stopped retreating. It is holding its position at the base of the God-Step cliffs. But it is *waiting* for something. The bioluminescent patterns have changed—they are no longer random or lyrical. They are repeating the same sequence, over and over, like a word being shouted into a room that will not answer.
 
-**Year 189: The First Sea-Wright.** A woman named Yenna of the Broken Coast discovers she can press memory onto living skin. She transfers her husband's face onto a manta-ray. The ray dives. Her husband's face vanishes from her memory within a week. She cannot recall his name by winter.
+They need a cartographer who can draw memories onto the skin of a leatherback manta-ray. They need someone to carry a message to the old gods beneath the sea-floor.
 
-**Year 201: The Compact of Silence.** The five remaining coastal nations sign a treaty forbidding sea-wrights from transferring memories of the ocean's behavior. Anyone who sees the ocean speaking is required by law to forget. The Salt-Scar's governments begin funding "memory-hollows"—sea-wrights who exist only to absorb and discard dangerous knowledge.
-
-**Year 237: The Present.** The ocean is now a single inland sea, roughly the size of what was once called Lake Veth. The Salt-Scar stretches from the old coast to the new, a white plain that crackles underfoot and sings in the wind. The remaining ocean glows every night with patterns that grow more urgent. The Deep-Root priests say the Sea-Mother is almost done remembering. When she finishes, she will open her eyes.
-
-### Present-Day Tensions
-
-- **The Starving Coast:** The inland sea is too small to support the fishing fleets that once fed the continent. Famine is a seasonal reality. The price of salt fish has risen 400% in a generation.
-- **The Memory Trade:** A black market exists for sea-wright services. Wealthy families pay hollow sea-wrights to forget their shameful acts. Criminals pay to have witnesses' memories transferred onto fish that are then released into the deeps—where the old gods read them like evidence.
-- **The Cartographer's Paradox:** Every map of the Salt-Scar is obsolete within a decade because the ocean keeps shrinking. The Cartographer's Guild has become a political force—whoever controls the maps controls the claims to newly exposed land.
-- **The Awakening:** Deep-Root extremists have begun sabotaging sea-wrights. They believe the ocean's retreat is the Sea-Mother's will. If she is not allowed to finish remembering, she will wake in anger. The world will crack.
-
-### Unexplained Facts (Iceberg Depth)
-
-- The Salt-Scar's crystals grow in patterns that resemble writing, but no living scholar can read it.
-- Three times in recorded history, the ocean has *expanded* for a single night, then retreated further than before. These events are called "The Gasping."
-- No one has ever found the bones of a sea-creature that died of old age. They simply vanish.
+Ninsar is the last sea-wright with enough memory left to do the work.
 
 ---
 
-## MAGIC SYSTEM: SEA-WRIGHTING
+## MAGIC SYSTEM
 
-### Hard Rules (Tonal Law)
+### Sea-Wrighting: The Transfer of Memory
 
-**The Mechanism:**
+**HARD RULES**
 
-A sea-wright transfers memory by submerging both hands in brine (salt concentration must match seawater at 3.5% minimum) for at least one hour until the skin becomes permeable. The sea-wright then presses their palms against the living flesh of a deep-sea creature—typically a leatherback manta-ray, but any creature that breathes water will accept a memory. The transfer takes roughly one minute per year of memory.
+1. **The Medium Requirement**: Memories can only be transferred onto the living skin of deep-sea creatures—specifically those that migrate to abyssal depths. Leatherback manta-rays are preferred because their skin holds the memory longest (up to three months). Jellyfish hold memories for days. Scale-fish for hours. The creature must be alive during the transfer and remain alive for the memory to reach the deeps.
 
-**The Limitations:**
+2. **The Transfer Gesture**: The sea-wright soaks both hands in brine (ocean water, not salt-flat brine—the water must be living water that has touched the deeps within the past tide cycle). They press their palms flat against the creature's skin and *will* the memory outward. The memory leaves the sea-wright's mind as a physical sensation: a pulling behind the eyes, a taste of copper, a sound like paper tearing.
 
-1. **One-way only.** Memories move from human to creature. Never the reverse. A sea-wright cannot read what they have transferred.
-2. **No selective extraction.** The sea-wright cannot choose which memory goes. They must hold the memory in conscious focus during the transfer, but the process takes the *nearest* memory to the surface. The memory that arrives is the one that leaves.
-3. **Permanent loss.** The memory is gone from the sea-wright's mind. Not buried. Not repressed. Erased. The sea-wright will not remember having forgotten. The scar is emotional, not cognitive—they will feel grief without object, loss without name.
-4. **Creature capacity.** A manta-ray can carry roughly ten human years of memory before the weight of it slows its swimming. Overloaded creatures beach themselves.
-5. **Depth requirement.** The creature must return to deep water (below the thermocline, roughly 200 meters) within three days, or the memory decays and becomes a haunting—a fragment that attaches to the nearest living thing.
+3. **The Limitation of Surface Area**: A single manta-ray can hold approximately three distinct memories before its skin is saturated. Overloading causes the creature to go into shock and die, at which point the memories are lost entirely. A sea-wright can work with multiple creatures, but each transfer costs the same.
 
-**The Costs:**
+4. **The Cost (Permanent)**: Each memory transferred leaves a scar on the sea-wright's mind. The scar is not a hole—it is an *erasure*. The sea-wright does not forget that they forgot. They remember having known something, but the content is gone. This creates a distinctive psychological wound: the hollow knows the shape of what they lost without being able to fill it.
 
-- Each transfer leaves a physical scar on the sea-wright's palms: a whorl pattern unique to the memory transferred. Experienced sea-wrights have palms that look like tree rings.
-- The sea-wright loses the *emotional context* of the memory even if they retain the factual knowledge. A sea-wright who transfers the memory of their child's birth will still know they had a child, but will feel nothing when saying the child's name.
-- Repeated use causes "hollowing"—a state where the sea-wright's personality erodes. Hollow sea-wrights can still function, but they have no preferences, no attachments, no sense of self. They are useful tools and terrible company.
+5. **The Cost (Variable)**: The more emotionally charged the memory, the larger the scar. A memory of what you ate for breakfast costs a minor fact (the capital of a neighboring country, the name of a childhood friend). A memory of your child's face costs a major life-skill (how to read, how to tie knots, the ability to distinguish colors). The sea-wright does not choose what is taken. The sea chooses.
 
-**The Forbidden (Compact Violations):**
+6. **The Return**: When a creature carrying a memory reaches the abyssal plains, the old gods "read" the memory. The creature then begins a slow migration back to shallower waters. If it returns to the surface within the memory's duration (three months for manta-rays), the sea-wright can *receive* the memory back by pressing their palms to the creature again. But the cost is not refunded. The scar remains. The memory, if returned, is thinner—like a copy of a copy.
 
-- Transferring a memory of the ocean's behavior (its patterns, its speech, its retreat) is punishable by death in all five coastal nations.
-- Transferring a memory onto a creature that will be eaten by humans is considered a form of poisoning. The eater absorbs the memory. This is how secrets are stolen.
+7. **The Limitation of Purpose**: The old gods do not answer. They only read. No sea-wright has ever received a direct response from the deeps. The Church of the Last Wave claims this is because the gods are waiting for the right question. The Deep-Sailors say the gods do not know how to speak in human terms—they only arrange, and we are not smart enough to read the arrangement.
 
-### Soft Magic: The Ocean's Language
+**SOCIETAL IMPLICATIONS**
 
-The bioluminescent algae that form patterns on the water's surface are not random. They are the Sea-Mother's dreaming speech. No human has fully decoded the language, but scholars have identified:
+**The Hollow Class**: Sea-wrights who have transferred too many memories become "hollows"—amnesiac shells who cannot remember their own names, let alone the memories they sacrificed. Hollows are treated with a mixture of reverence and horror. They are housed in special compounds called "Remembrance Halls" where attendants feed them, bathe them, and speak to them of the memories they gave away. The hollows cannot respond. They sit and stare at walls. Some weep without knowing why.
 
-- **Wave-syllables:** Each wave pattern corresponds to a concept. "Retreat" has been identified. "Hunger" has been identified. "Anger" is debated.
-- **The Urgency Gradient:** The patterns have grown more complex and faster-paced over the last fifty years. The algae are brighter. The sequences are longer.
-- **The Response Phenomenon:** If a sea-wright transfers a memory near the ocean's surface, the algae patterns sometimes change in response—as if the ocean is reading the memory and answering. What the answers mean is unknown.
+**The Memory Economy**: Memories are a commodity. Rich families pay sea-wrights to transfer specific memories into manta-rays as a form of tribute to the old gods—hoping for favorable tides, good fishing, or simply to be remembered by powers beyond human reach. This has created a black market where memories are stolen (by forcing sea-wrights to transfer against their will) and sold. The Guild regulates legal transfers with a strict licensing system. Unlicensed sea-wrights are executed.
 
-### Societal Implications
+**The Scar Tax**: Every port city on the Salt-Scar levies a "scar tax" on sea-wrights—a fee paid in memories rather than coin. The tax funds the Remembrance Halls and the Deep-Sailor Council. Sea-wrights who cannot pay the tax (because they have no memories left to give) are indentured to the state and forced to transfer memories on command until they become hollows. This is called "being drained."
 
-**Governance by Amnesia:**
+**The Forgetting Plague**: A recent phenomenon. Some hollows are developing a contagious form of memory loss that spreads through physical contact. The Church calls it divine punishment. The Guild calls it a side effect of over-transfer. No one knows how to stop it. Infected hollows are being quarantined on an island called the Tooth, where they are left to forget everything, including how to breathe.
 
-The five coastal nations are ruled by councils whose members serve twenty-year terms. At the end of their term, each councilor must submit to a "cleansing"—a sea-wright transfers all memories of their time in office onto a creature that is released into the deeps. This is meant to prevent corruption, but it also prevents accountability. No one remembers what they voted for. Laws can be passed and forgotten. The same crisis can be mismanaged twice.
+**UNEXPLAINED FACT**: Some memories transferred into manta-rays do not reach the deeps. They vanish en route. The creatures return to the surface with blank skin, as if the memory was intercepted. No one knows what is taking them.
 
-**Economic Class and Memory:**
-
-The wealthy can afford to forget. A "memory tax" is common—the rich pay sea-wrights to transfer their shame, their grief, their inconvenient debts. The poor cannot afford the brine-soak, let alone the sea-wright's fee. As a result, the poor remember everything. They carry their ancestors' grudges, their own failures, the names of everyone who wronged them. This makes them dangerous. This makes them revolutionary.
-
-**The Hollowed Workforce:**
-
-Hollow sea-wrights are used as living records. They are paid to absorb state secrets, then they forget them. They are employed as witnesses to treaties—they see the signing, then the memory is transferred, and no one can be compelled to testify. Hollows are also used as executioners: they transfer the condemned person's final memories, ensuring the dead cannot haunt the living.
-
-**Childhood and the First Transfer:**
-
-Children are tested for sea-wright aptitude at age twelve. Those who can hold brine-soak without pain are trained. Those who cannot are marked as "dry-palmed" and barred from certain professions. The test is traumatic. Many children lie about their pain to avoid the stigma.
-
-**Disability and Memory:**
-
-Those who lose their memory through injury or age are treated with suspicion. They may have been sea-wrights. They may be hiding something. The Salt-Scar has no concept of dementia as a medical condition—only as a sign that the person has been hollowed. Elderly people with memory loss are often shunned.
+**UNEXPLAINED FACT**: The old gods beneath the sea-floor are not the only things down there. Something else is reading the memories too. Something that should not be awake.
 
 ---
 
 ## GEOGRAPHY
 
-### The Salt-Scar (the Continent)
+### The Salt-Scar (continent)
 
-A vast crystalline plain that stretches from the old coast to the new. The salt is not soft—it forms hexagonal columns that rise to knee height, cracking underfoot with a sound like breaking glass. The air tastes of brine and something metallic. The wind carries salt crystals that abrade skin over time. Travelers wear veils and goggles. Permanent settlements on the Salt-Scar are rare; the crystals grow through foundations.
+The Salt-Scar is a crescent-shaped landmass approximately 2,000 miles long, running northwest to southeast. Its western coast was once lined with thriving port cities; now those cities sit miles inland, their harbors filled with petrified ships and their streets coated in a fine white dust that tastes of salt and rust.
 
-**Sensory Signature:** The crunch of salt under boots. The low hum of wind across crystal edges. The smell of dried brine and dead fish. The taste of salt on lips at all times.
+**SENSORY SIGNATURE**: The air tastes of salt. Not sea-salt—something sharper, with a chemical bite. The ground underfoot is a crust of crystallized minerals that cracks like thin ice. When wind blows across the flats, it produces a high-pitched whistle as it passes over the crystal formations. At night, the flats glow faintly with residual bioluminescence, like a memory of the sea that used to cover them.
 
-### The Last Sea (the Inland Ocean)
+### The God-Step Cliffs (current coastline)
 
-Roughly 200 miles across at its widest. The water is deep—soundings have never found the bottom. It glows faintly green at night. The surface is calm, but currents run strange. Fishermen report that the water temperature varies wildly within the same mile. Some patches are warm as blood. Others cold enough to crack hulls.
+The ocean has stopped retreating at the base of these cliffs, which rise 800 feet sheer from the water. The cliffs are made of black basalt layered with white salt deposits, creating a striped appearance like a wound that keeps reopening. The bioluminescent algae at the cliff base form patterns that change hourly. The Deep-Sailors maintain watch-posts along the cliff edge, recording the patterns and trying to read them.
 
-**The Shoreline:** Not sand. The sea meets the Salt-Scar at a jagged edge of crystal shards that cut anything that touches them. The only safe access points are the "Weeping Docks"—natural salt bridges that weep brine continuously. There are seven Weeping Docks on the Last Sea.
+**SENSORY SIGNATURE**: The cliffs hum. The wind hitting the basalt face creates a low vibration that can be felt in the teeth. The water below is black during the day and glowing at night, and the smell is not fishy but metallic—like copper and ozone.
 
-### The Weeping Docks (Port Cities)
+### Karveth (the dead port, 40 miles inland)
 
-**Ninsar's destination: Dock Seven, the city of Kethal.**
+Once the largest city on the Salt-Scar, now a ghost town. The harbor is a white basin filled with petrified ships—their hulls turned to crystalline salt, their masts still standing but brittle as glass. The streets are empty. The buildings are coated in salt crust that has grown over doors and windows like a second skin. The Cartographer's Guild maintains a research station here, studying the rate of crystallization and trying to date the retreat.
 
-Kethal was once a fishing village. Now it is a city of forty thousand, built on a salt bridge that extends half a mile into the Last Sea. The buildings are made of compressed salt blocks, reinforced with whalebone. The streets are slick with brine. Everything is wet. Moss grows on every roof.
+**SENSORY SIGNATURE**: Silent except for the occasional crack of a ship's hull collapsing under its own weight. The light is painfully bright—the salt flats reflect the sun with an intensity that burns eyes and skin. Everything is white. The only colors are the blue of the sky and the rust-brown of exposed metal.
 
-The city is divided into three tiers:
+### Tel-Breza (the drowned village, now exposed)
 
-- **The Wet-Toes (lower tier):** Docks, fish markets, sea-wright guild halls. Smells of fish, brine, and the acrid smoke of burning salt (used to preserve fish). The poor live here, in buildings that dissolve slowly in the constant damp.
-- **The Dry-Heels (middle tier):** Residences for merchants, guild masters, and the Cartographer's Guild. Buildings are raised on stilts to avoid the brine. The air is less wet. The streets are paved with compressed salt that has been sealed with fish oil.
-- **The Salt-Crown (upper tier):** The Deep-Root temple, the Lyceum of Drowned Things, and the governor's palace. Built on the highest point of the salt bridge. The air is dry here. The wind carries no fish smell. The view is of the glowing sea and the white plain.
+Ninsar's village was drowned in the surge seven years ago, but the retreat has since exposed it again. The buildings are still standing, coated in salt, their contents preserved in a crystalline shell. Ninsar's house is there, with her daughter's toys still on the floor, her daughter's bed still made, her daughter's drawings still pinned to the wall—all frozen in salt. She has not been back.
 
-**Sensory Signature of Kethal:** Constant damp. The sound of dripping water. The creak of salt blocks settling. The smell of fish, brine, and the sweet rot of algae. At night, the sea glows green through every window.
+**SENSORY SIGNATURE**: The village looks like a photograph preserved in amber. Everything is exactly as it was the night of the surge, but covered in a translucent white crust. The air is still. Nothing grows here. The only sound is the creak of salt expanding and contracting with temperature changes.
 
-### Neighboring Locations
+### The Tooth (quarantine island)
 
-**The Hollowing Grounds (50 miles north of Kethal):** A valley where hollow sea-wrights are sent to live out their remaining years. They wander the salt flats, unable to remember why they came. They feed themselves by instinct. They die alone. Their bodies dissolve into the salt within days.
+A small island off the northern coast, shaped like a fang. It houses the hollows infected with the Forgetting Plague. No one visits except supply ships, which leave provisions on the beach and leave immediately. The hollows do not attempt to leave. They have forgotten that there is anywhere else to go.
 
-**The Lyceum of Drowned Things (Kethal's Salt-Crown):** A library that preserves everything known about the ocean before the retreat. The building is shaped like a whale skeleton. The books are written on dried fish skin. The scholars are all dry-palmed—they cannot be sea-wrights, so they cannot be tempted to transfer their knowledge. They are the only people who remember the ocean's secrets.
-
-**The Crack (200 miles south):** A fissure in the Salt-Scar that extends for thirty miles. It is roughly one mile deep. At the bottom, there is water—not seawater, but something darker, warmer, that steams. The Deep-Root priests say this is where the Sea-Mother's shoulder pressed against the world. No one has reached the bottom.
+**SENSORY SIGNATURE**: The island is silent except for the wind and the waves. The hollows do not speak. They sit on the beach and stare at the water. Some of them hum—a tuneless, repetitive sound that the Deep-Sailors say is the hollows trying to remember what music was.
 
 ---
 
 ## FACTIONS & POLITICS
 
-### The Cartographer's Guild (Power: Mapping the New)
+### The Cartographer's Guild (official power)
 
-Control all official maps of the Salt-Scar. Since the coast changes every decade, whoever controls the maps controls the claims to newly exposed land. The Guild is based in Kethal's Dry-Heels. They employ sea-wrights to transfer the memories of surveyors onto manta-rays, ensuring that the most accurate maps are never written down—they exist only in the deeps.
+Controls all mapping of the retreat and all licensing of sea-wrights. They claim authority over the salt flats by right of measurement—they have been recording the retreat for two centuries, and their records are the only complete account of what has been lost. The Guild is headquartered in the inland city of Salt-Trace, which has never been a port and therefore has not suffered from the retreat.
 
-**Goal:** Maintain control of mapping. Prevent anyone from mapping the ocean floor, which would reveal the Sea-Mother's shape.
+**LEADERSHIP**: The First Measurer, an elderly woman named Veth who has never seen the ocean. She believes the retreat is a natural geological process and that the old gods are a superstition. She wants to continue mapping and recording, not interfering.
 
-**Conflict with:** Deep-Root priests, who want the maps destroyed.
+**GOAL**: To document the complete retreat and create a definitive atlas of what was lost. They oppose any attempt to communicate with the old gods, fearing that interference could accelerate the retreat.
 
-### The Deep-Root Temple (Power: Theology of Forgetting)
+### The Deep-Sailor Council (religious power)
 
-Believe the ocean's retreat is sacred. The Sea-Mother is remembering. To interfere is blasphemy. They have been agitating for the destruction of all sea-wright guilds and the execution of any cartographer who maps the ocean's behavior.
+A loose coalition of fishermen, navigators, and sea-wrights who believe the old gods are real and must be appeased. They maintain the watch-posts along the God-Step cliffs and interpret the bioluminescent patterns. They summoned Ninsar.
 
-**Goal:** Ensure the Sea-Mother wakes. If the world cracks, that is the natural order.
+**LEADERSHIP**: The Voice of the Deep, a hollow named Korr who transferred so many memories that he forgot his own name, his own face, and the faces of everyone he loved. He is now a vessel for what he claims are the old gods speaking through him. His followers believe his rambling, disconnected speeches are divine prophecy.
 
-**Conflict with:** The Cartographer's Guild, the Lyceum, and anyone who wants to preserve the current world.
+**GOAL**: To re-establish contact with the old gods before the ocean disappears entirely. They believe the retreat is a punishment for human neglect and that the only way to stop it is to send a worthy memory—the most precious memory anyone possesses—into the deeps as an offering.
 
-### The Lyceum of Drowned Things (Power: Knowledge of the Before)
+### The Church of the Last Wave (reactionary power)
 
-A scholarly order dedicated to preserving everything known about the ocean before the retreat. They believe the ocean can be saved—that the Sea-Mother can be persuaded to stop remembering. They fund research into the algae language and sponsor expeditions to the Crack.
+A fundamentalist sect that believes the retreat is a test of faith. They worship the *absence* of the ocean, not its presence. Their holy sites are the dead ports and the petrified ships. They preach that the ocean will return only when humanity has proven itself worthy by abandoning all sea-wrighting and all attempts to communicate with the old gods.
 
-**Goal:** Decode the ocean's language. Find a way to communicate with the Sea-Mother.
+**LEADERSHIP**: The Archivist of Salt, a woman named Hesh who was once a sea-wright herself. She transferred a memory of her husband's death into a manta-ray and received it back three months later—but it was wrong. The memory had been altered. She claims the old gods sent back a lie, and that they cannot be trusted.
 
-**Conflict with:** The Deep-Root Temple, who see them as heretics. The Cartographer's Guild, who see their research as a threat to the map monopoly.
+**GOAL**: To destroy all sea-wrighting knowledge and prevent any further contact with the deeps. They are actively sabotaging the Deep-Sailors' efforts and have been implicated in the poisoning of several manta-rays.
 
-### The Memory-For-Hire Guild (Power: The Black Market)
+### The Unlicensed (criminal power)
 
-An illegal network of sea-wrights who sell their services to the wealthy. They operate out of the Wet-Toes, in buildings that have no doors—only trapdoors in the roof. They accept payment in salt, fish, or land claims.
+Sea-wrights who operate outside the Guild's licensing system. They trade in stolen memories, forced transfers, and "blank skins"—manta-rays that have been wiped clean of their cargo, sold to the highest bidder. The Unlicensed are believed to be responsible for the Forgetting Plague, though they deny it.
 
-**Goal:** Profit. Expand the memory trade.
+**LEADERSHIP**: Unknown. The Unlicensed have no central leader. They operate in cells, each cell independent and competitive with the others.
 
-**Conflict with:** The Compact enforcers (hired by the five nations), who hunt them.
-
-### The Hollow Collective (Power: The Erased)
-
-A loose network of hollow sea-wrights who have begun to organize. They have no memories, but they have discovered that their emotional scars form a pattern—a map of something. They believe the hollows are being called by the Sea-Mother. They are learning to read the scars on each other's palms.
-
-**Goal:** Understand what the scars mean. Find the other hollows.
-
-**Conflict with:** Everyone, because they are unpredictable and cannot be reasoned with.
+**GOAL**: Profit. They have no interest in the retreat or the old gods. They want the chaos to continue so their business thrives.
 
 ---
 
 ## BESTIARY / FLORA / NATURAL WORLD
 
-### Leatherback Manta-Rays (The Memory Carriers)
+### Leatherback Manta-Ray (*Memoria maxima*)
 
-The primary creatures used for sea-wrighting. They are large (wingspan up to thirty feet), docile, and long-lived (estimated lifespan: 200 years). They feed on the bioluminescent algae. They are sacred to the Deep-Root—killing one is punishable by exile.
+The largest of the deep-sea creatures, with a wingspan of up to 30 feet. Their skin is thick and leathery, capable of holding three memories for up to three months. They are gentle, slow-moving creatures that feed on plankton and migrate in predictable patterns along the continental shelf. They are not intelligent in any human sense, but they *respond* to sea-wrights—pressing their bodies against the hands of a sea-wright who approaches them with brine-soaked palms.
 
-**Behavior:** Manta-rays that carry memories swim deeper than those that do not. They migrate toward the center of the Last Sea, where the water is deepest. No one knows what happens to them when they reach the center.
+**BEHAVIORAL NOTE**: In recent years, the manta-rays have stopped migrating. They gather at the base of the God-Step cliffs and circle in a slow, endless spiral. The Deep-Sailors believe they are waiting for something.
 
-### The Bioluminescent Algae (The Ocean's Tongue)
+### Bioluminescent Algae (*Lingua maris*)
 
-A single-celled organism that thrives in the Last Sea's waters. It glows green when disturbed. The patterns it forms are complex and grammatical—scholars have identified nouns, verbs, and what appears to be tense (past vs. present vs. future).
+A species of dinoflagellate that produces light through chemical reaction. The algae form patterns that change with water temperature, salinity, and current direction. The old gods are believed to communicate through these patterns—not by creating them, but by *arranging* them. The algae are the ink; the gods are the hand that writes.
 
-**Behavior:** The algae are responsive to human presence. They glow brighter near sea-wrights. They dim near dry-palmed people. They have been observed to pulse in rhythm with a sea-wright's heartbeat.
+**RECENT CHANGE**: The patterns have become repetitive. The same sequence repeats every three days: a spiral, a line, a burst of light, then darkness. The Deep-Sailors have recorded this sequence 47 times. They do not know what it means.
 
-### Salt-Crabs (The Scavengers)
+### Salt-Crabs (*Crystallis cursor*)
 
-Crustaceans that live in the Salt-Scar's crystal formations. They are translucent, roughly the size of a hand, and feed on the salt itself. Their shells are used in jewelry and as currency in some communities.
+Small crustaceans that have adapted to the salt flats. They burrow into the crystalline crust and feed on the minerals. Their shells are translucent, revealing the organs inside. They are the only animal that thrives in the dead ports. Children in inland cities keep them as pets, feeding them salt-scraps and watching their organs pulse.
 
-**Behavior:** Salt-crabs are drawn to the scent of human memory. They will gather around a sea-wright who has recently performed a transfer, climbing up their legs to reach the brine on their hands. This is considered a bad omen.
+**INTERESTING FACT**: Salt-crabs are born with a single eye that splits into two as they mature. No one knows why.
 
-### The Deep-Things (Unconfirmed)
+### The Something in the Deep
 
-Fishermen report seeing shapes beneath the Last Sea's surface. Large shapes. Shapes that move with purpose. No one has caught one. No one has seen one clearly. The Deep-Root priests say these are the Sea-Mother's fingers, stretching in her sleep.
+Not a creature in any biological sense. A presence. The old gods beneath the sea-floor are not the only things down there—something else is reading the memories too. Something that should not be awake. The Deep-Sailors have names for it (the Sleeper, the Thief, the One Who Listens), but no one has seen it. The manta-rays that return with blank skins—their memories stolen en route—show signs of trauma: their skin is cold to the touch, their eyes are clouded, and they refuse to eat until they starve.
 
-**Behavior:** The deep-things are attracted to the sound of human voices. They have been observed to follow boats that are carrying manta-rays with transferred memories.
+**UNEXPLAINED FACT**: The blank-skin manta-rays do not die. They continue living without eating, without moving, for weeks. They are waiting for something too.
 
 ---
 
 ## CULTURAL DETAILS
 
-### Daily Life
+### The Morning Salt
 
-**Morning:** The brine-tide comes in at dawn. Everyone in Kethal wakes to the sound of water lapping against salt blocks. Breakfast is salt-fish porridge, served with a side of dried algae (chewy, tastes of copper). Children go to school in the Dry-Heels, where they learn to read the algae patterns and calculate the rate of the ocean's retreat.
+Every household on the Salt-Scar begins the day by scraping the overnight salt accumulation from their windowsills and doorsteps. This salt is collected in a clay pot called a "grief jar." When the jar is full, the family takes it to the nearest dead port and pours it into the petrified harbor. This is called "returning the grief." It is considered bad luck to let a grief jar overflow.
 
-**Midday:** The heat is intense. The salt flats reflect the sun. Everyone stays indoors between noon and three. This is when business is conducted—the cool hours of morning and evening are for work.
+### The Memory Feast
 
-**Evening:** The sea glows. People gather on the Wet-Toes to watch the algae patterns. Children play a game called "Name the Pattern"—they guess what the algae are saying. Adults pretend not to play, but they do.
+An annual festival held in every city on the Salt-Scar. Families gather and share their oldest memories—stories of ancestors, of the ocean before the retreat, of loved ones who have died. The memories are told aloud, then written down on paper made from pressed salt-flat crystals. The papers are burned, and the smoke is believed to carry the memories to the old gods. The festival lasts three days. On the third day, everyone is drunk on fermented kelp-wine and weeping openly.
 
-### Festivals
+### The Silence of the Hollows
 
-**The Night of the Gasp (annual, date varies):** Commemorates the three times the ocean expanded. On this night, no sea-wrighting is permitted. Everyone gathers at the shore to watch the algae. If the ocean gasps again, it is considered a miracle. If it does not, it is considered a warning.
+When a sea-wright becomes a hollow, their family holds a "wake of forgetting"—a ceremony where the hollow's remaining memories are distributed among the attendees. The hollow sits in the center of the room while family members press their hands to the hollow's forehead and *take* memories. This is not sea-wrighting; it is simply a cultural ritual, a way of ensuring that the hollow's life is not entirely lost. The memories taken this way are imprecise and fragmentary, but they are treasured.
 
-**The Hollowing Day (every five years):** A day when hollow sea-wrights are honored. They are given new clothes, a feast, and a boat to take them to the Hollowing Grounds. Most hollows do not understand what is happening. They accept the gifts and go.
+### Children's Games
 
-### Taboos
+Children play a game called "White-Walk," where they run across the salt flats without cracking the crust. The one who leaves the fewest footprints wins. Losers must collect salt-crabs for the winner's grief jar.
 
-- Never ask a sea-wright what they have forgotten.
-- Never touch a sea-wright's palms without permission.
-- Never eat a fish that was caught near a Weeping Dock after dark. (No one knows why this is taboo. It is simply observed.)
-- Never speak the name of the ocean after midnight. (This is fading from practice, but old people still enforce it.)
+Another game: "The Ocean Says," where one child acts as the ocean and the others must guess what the ocean wants. The ocean child can only communicate through gestures and humming. The game is considered a training exercise for interpreting the bioluminescent patterns.
 
 ### Clothing
 
-Everyone wears veils or scarves over their mouths. The salt air damages teeth and lungs. Clothing is layered—light cotton next to the skin, then oiled wool to repel brine, then a salt-crusted outer layer that is replaced monthly. The wealthy wear seal-hide boots. The poor wear sandals made from salt-crab shells.
+Practical and layered. Most people wear salt-resistant fabrics woven from a plant called "brine-reed," which grows in the brackish marshes that form at the edges of the retreating ocean. The fabric is stiff and scratchy but does not corrode. Sea-wrights wear gloves with the fingertips cut off, so they can soak their hands in brine without removing their gloves entirely.
 
-### Coming of Age
+### Cuisine
 
-At age twelve, children undergo the Brine-Soak Test. They submerge their hands in brine for one hour. Those who can hold the soak without pain are trained as sea-wrights. Those who cannot are marked as dry-palmed and given a small tattoo on their left wrist—a wave pattern that identifies them as non-sea-wrights. The tattoo is a mark of shame for some, a mark of freedom for others.
+Everything tastes of salt. The staple food is a flatbread made from ground salt-flat minerals mixed with fresh water—it is bland and chalky, but filling. Fish is a luxury, caught by Deep-Sailors who risk the journey to the remaining ocean. The fish is preserved in salt (of course) and eaten sparingly. The most prized dish is "memory-broth," a soup made from the bones of manta-rays that died naturally. It is believed to restore lost memories, though there is no evidence for this.
 
 ---
 
 ## INTERNAL CONSISTENCY RULES
 
-### Hard Constraints
+1. **The ocean cannot be crossed.** The remaining sea is not navigable in any conventional sense. The currents are unpredictable, the bioluminescent patterns are disorienting, and the Something in the Deep has been known to pull ships under. The only way to reach the abyssal plains is via a creature carrying a memory.
 
-1. **No one can remember a memory they have transferred.** Not through hypnosis, not through meditation, not through any known method. The memory is gone.
-2. **Sea-wrighting does not work on land creatures.** The transfer requires the creature's aquatic biology. A sea-wright cannot transfer a memory onto a dog or a bird.
-3. **The ocean cannot be stopped.** The retreat is not caused by human activity. It cannot be reversed by human action. It can only be observed and mapped.
-4. **The Deep-Root are correct about the Sea-Mother's existence.** She is real. She is sleeping. She is remembering. Whether her waking will crack the world is debated, but she is under the Last Sea, and she is not human-shaped.
-5. **The algae language is real.** It is grammatical. It has syntax. It can be learned, but no human has learned enough to hold a conversation.
+2. **Memories cannot be fabricated.** A sea-wright cannot transfer a false memory. The sea reads the truth of the memory and rejects anything fabricated. Attempting to transfer a fabricated memory causes the sea-wright to lose the *real* memory that the fabrication was based on.
 
-### Unexplained Phenomena (Iceberg Depth)
+3. **The cost cannot be shared.** A sea-wright cannot transfer a memory on behalf of someone else without taking the cost themselves. The scar is always personal.
 
-- The Salt-Scar's crystals grow at a rate that correlates with the number of sea-wrights living nearby. The more sea-wrights in a region, the faster the crystals grow. No one knows why.
-- Hollow sea-wrights sometimes speak in unison, saying the same thing at the same time, even when separated by miles. They do not remember doing it.
-- The Last Sea has no tides. The Sea-Mother's breathing does not affect the water level. The only movement is the retreat—a slow, steady shrinking that has never paused.
+4. **The old gods do not intervene.** They read. They arrange. They do not answer questions, grant wishes, or perform miracles. Any claim otherwise is either superstition or fraud.
+
+5. **The retreat is accelerating.** The rate of retreat has increased from three inches per year to three feet per year in the past decade. At current rates, the ocean will be gone entirely within twenty years.
+
+6. **The salt flats are not dead.** The crystalline crust is alive in some sense—it grows, it cracks, it reforms. The Cartographer's Guild has recorded patterns in the salt flats that mirror the bioluminescent patterns in the ocean. The land is learning to speak.
+
+7. **Ninsar cannot remember her daughter's face.** She has drawn it thousands of times, but each time she finishes the drawing, she realizes she has drawn it wrong. The real face is gone, transferred into a manta-ray years ago, and the manta-ray never returned. She is drawing a memory that no longer exists.
 
 ---
 
-## VOICE IDENTITY
+## THE LAST NOTE
 
-### Tone
+The sea-wright who summoned Ninsar is a hollow named Korr. He does not remember summoning her. He does not remember who he was before the transfers took everything. But when he speaks, the words that come out of his mouth are not his own. They are the words of the old gods, or the Something in the Deep, or the ocean itself—and they are saying the same thing, over and over:
 
-Spare and weighty. Sentences like stone laid on stone. The narration treats grief and salt as the same substance. Every description carries the awareness that things are ending. The prose is not sentimental—it is precise, almost clinical, but with an undercurrent of ache.
+*Bring her. Bring the one who remembers the child. Bring the grief that has not been returned.*
 
-### Sentence Rhythm
-
-Short sentences for action and memory loss. Longer sentences for description of the sea and the salt. Dialogue is clipped—people in this world do not waste words. Silence is common and meaningful.
-
-### Vocabulary Register
-
-Anglo-Saxon blunt for physical things (salt, bone, fish, hand, grief). Latinate for institutional things (Compact, Recession, transfer). The world sounds like a place where people have been saying the same words for centuries because they are the right words.
-
-### POV and Tense
-
-Third limited, past tense. Ninsar's POV throughout. The narration stays close to her sensory experience but does not enter her thoughts directly—her emotions are shown through what she notices, what she touches, what she avoids looking at.
-
-### Dialogue Conventions
-
-No dialogue tags where the speaker is clear from context. Action beats preferred ("She pressed her hand to the glass."). Characters say what they mean, but they say it in few words. Subtext is carried by what is not said—pauses, silences, the refusal to answer.
-
-### Exemplar Passages
-
-*The salt cracked under her boots. Each step was a small breaking. She had been walking for three days, and the sound had become a language she could almost understand—a word for distance, a word for thirst, a word for the thing she was trying not to think about.*
-
-*The sea was green tonight. Not the green of water, but the green of something alive and aware. The algae were spelling something. She could not read it, but she felt it in her teeth—a vibration, a frequency, a question.*
-
-*The manta-ray did not struggle. They never did. It floated in the brine tank, its wings spread wide, its skin dark and waiting. She soaked her hands. The brine stung. The scar on her palm—the one that used to be her daughter's name—throbbed.*
-
-### Anti-Exemplars
-
-*Not:* The salt flats stretched endlessly before her, a vast and shimmering tapestry of crystalline beauty that spoke to the grandeur of the natural world.
-
-*Instead:* The salt was white. It was flat. It was the same everywhere. She had stopped noticing the beauty two days ago.
-
-*Not:* "I remember when the ocean was full of life and wonder," she said, her voice trembling with emotion.
-
-*Instead:* "The water was higher." She did not look at him when she said it.
-
-*Not:* The magic system operated on a complex set of rules that governed the transfer of memories, which could only be accomplished through a ritualistic process involving brine and the flesh of deep-sea creatures.
-
-*Instead:* She soaked her hands. She pressed them to the skin. The memory left. That was all there was to it.
+*The ocean is waiting.*
