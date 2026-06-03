@@ -14,6 +14,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import ADV_EDIT_PROMPT, ADV_EDIT_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
@@ -29,12 +30,7 @@ def call_judge(prompt, max_tokens=8000):
     return chat_completion(
         model=JUDGE_MODEL,
         prompt=prompt,
-        system=(
-            "You are a ruthless literary editor. You cut fat from prose. "
-            "You have no sentiment about good-enough sentences -- if a sentence "
-            "isn't earning its place, it goes. You quote exactly from the text. "
-            "You never invent or paraphrase. Always respond with valid JSON."
-        ),
+        system=ADV_EDIT_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.3,
         timeout=300,
@@ -81,48 +77,7 @@ def parse_json(text):
                     return json.loads(text[start:i+1], strict=False)
         return json.loads(text[start:], strict=False)
 
-EDIT_PROMPT = """You are editing a fantasy novel chapter. Your job: identify exactly
-what to cut or rewrite to make this chapter tighter, sharper, more alive.
-
-THE CHAPTER ({word_count} words):
-{chapter_text}
-
-YOUR TASK:
-1. Find 10-20 specific passages that should be CUT or REWRITTEN.
-   For each, quote the EXACT text (minimum 10 words of the quote so
-   it's unambiguous), explain why it's weak, and classify it.
-
-2. Classify each cut as one of:
-   - FAT: adds nothing, could be removed with no loss
-   - REDUNDANT: restates what a previous sentence/scene already showed
-   - OVER-EXPLAIN: narrator explaining what the scene already demonstrated
-   - GENERIC: could appear in any novel, not specific to this world/character
-   - TELL: names an emotion or state instead of showing it
-   - STRUCTURAL: paragraph/section that disrupts pacing or rhythm
-
-3. For REWRITE candidates (not cuts), provide a specific revision.
-
-4. Estimate how many words could be cut total without losing anything
-   the chapter needs.
-
-Respond with JSON:
-{{
-  "cuts": [
-    {{
-      "quote": "exact text from the chapter (10+ words)",
-      "type": "FAT|REDUNDANT|OVER-EXPLAIN|GENERIC|TELL|STRUCTURAL",
-      "reason": "why this should go",
-      "action": "CUT or REWRITE",
-      "rewrite": "replacement text if action is REWRITE, null if CUT"
-    }}
-  ],
-  "total_cuttable_words": N,
-  "tightest_passage": "quote the best 2-3 sentences in the chapter -- the ones you'd never touch",
-  "loosest_passage": "quote the worst 2-3 sentences -- the ones that most need work",
-  "overall_fat_percentage": N,
-  "one_sentence_verdict": "what this chapter does well and what drags it down, in one sentence"
-}}
-"""
+EDIT_PROMPT = ADV_EDIT_PROMPT
 
 def edit_chapter(ch_num):
     ch_path = CHAPTERS_DIR / f"ch_{ch_num:02d}.md"

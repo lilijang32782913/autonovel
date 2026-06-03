@@ -10,6 +10,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import ARC_SUMMARY_CHAPTER_PROMPT, ARC_SUMMARY_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
@@ -23,7 +24,7 @@ def call_writer(prompt, max_tokens=4000):
     return chat_completion(
         model=WRITER_MODEL,
         prompt=prompt,
-        system="You summarize novel chapters precisely. State what HAPPENS, what CHANGES, and what QUESTIONS are left open. No evaluation. No praise. Just events and shifts.",
+        system=ARC_SUMMARY_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.1,
         timeout=120,
@@ -54,7 +55,7 @@ def main():
         
         # Get a 100-word summary from the model
         summary = call_writer(
-            f"Summarize this chapter in exactly 3 sentences. What happens, what changes, what question is left open.\n\nCHAPTER {ch}:\n{text}",
+            ARC_SUMMARY_CHAPTER_PROMPT.format(ch=ch, text=text),
             max_tokens=200
         )
         

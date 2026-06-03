@@ -226,9 +226,11 @@ def get_total_chapters(state: dict) -> int:
     outline = BASE_DIR / "outline.md"
     if outline.exists():
         text = outline.read_text(encoding="utf-8")
-        matches = re.findall(r'###\s*Ch(?:apter)?\s*(\d+)', text)
+        matches = re.findall(r'###\s*(?:Ch(?:apter)?\s*(\d+)|第\s*(\d+)\s*章)', text)
         if matches:
-            return max(int(m) for m in matches)
+            numbers = [int(n) for pair in matches for n in pair if n]
+            if numbers:
+                return max(numbers)
     return 24  # sensible default
 
 

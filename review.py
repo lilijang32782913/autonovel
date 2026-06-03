@@ -21,6 +21,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import REVIEW_PROMPT, REVIEW_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
@@ -33,17 +34,13 @@ API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 CHAPTERS_DIR = BASE_DIR / "chapters"
 LOGS_DIR = BASE_DIR / "edit_logs"
 
-REVIEW_PROMPT = """Read the below novel, "{title}". Review it first as a literary critic (like a newspaper book review) and then as a professor of fiction. In the later review, give specific, actionable suggestions for any defects you find. Be fair but honest. You don't *have* to find defects.
-
-{manuscript}"""
-
-
 def call_opus(prompt, max_tokens=8000):
     """Call Opus with the full manuscript."""
     print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
     return chat_completion(
         model=REVIEW_MODEL,
         prompt=prompt,
+        system=REVIEW_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.3,
         timeout=600,

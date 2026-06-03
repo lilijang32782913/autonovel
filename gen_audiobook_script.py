@@ -20,6 +20,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import AUDIOBOOK_SCRIPT_PROMPT, AUDIOBOOK_SCRIPT_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
@@ -71,6 +72,7 @@ def call_claude(prompt, max_tokens=8000):
     return chat_completion(
         model=WRITER_MODEL,
         prompt=prompt,
+        system=AUDIOBOOK_SCRIPT_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.1,
         timeout=300,
@@ -88,34 +90,14 @@ def parse_chapter(ch_num):
     title = text.split("\n")[0].lstrip("# ").strip()
     wc = len(text.split())
 
-    prompt = f"""You are parsing a novel chapter into an audiobook script. Your job is to break the text into segments, each attributed to a speaker, with optional audio delivery tags.
-
-CHARACTERS IN THIS NOVEL:
-{json.dumps(CHARACTERS, indent=2)}
-
-AUDIO TAG GUIDE:
-{AUDIO_TAG_GUIDE}
-
-RULES:
-1. Every piece of text must be attributed to a speaker. Narration = "NARRATOR".
-2. Dialogue lines must be attributed to the character who speaks them.
-3. Remove quotation marks from dialogue — the voice actor performs them.
-4. Keep narration segments reasonably sized (2-4 sentences each). Split long paragraphs.
-5. Dialogue "he said" / "she said" tags should be part of the NARRATOR segment AFTER the dialogue, not part of the character's line.
-6. Scene breaks (---) become {{"speaker": "NARRATOR", "text": "[pause]"}}
-7. Chapter titles become the first segment: {{"speaker": "NARRATOR", "text": "[slowly] Chapter One: The Morning Pitch"}}
-8. Add audio tags based on emotional context. Be subtle — most lines need no tag.
-9. Internal thoughts in *italics* should be read by the CHARACTER (Cass usually), tagged [softly] or [whisper].
-
-OUTPUT FORMAT: A JSON array of objects, each with:
-  "speaker": character name (from the list above)
-  "text": the text to speak (with optional [audio tags] at the start)
-
-CHAPTER {ch_num}: "{title}" ({wc} words)
-
-{text}
-
-Output the JSON array only. No other text."""
+    prompt = AUDIOBOOK_SCRIPT_PROMPT.format(
+        characters_json=json.dumps(CHARACTERS, indent=2, ensure_ascii=False),
+        audio_tag_guide=AUDIO_TAG_GUIDE,
+        ch_num=ch_num,
+        title=title,
+        wc=wc,
+        text=text,
+    )
 
     print(f"  Ch {ch_num}: parsing '{title}' ({wc}w)...", end="", flush=True)
     result = call_claude(prompt)

@@ -7,6 +7,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import VOICE_PROMPT, VOICE_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
@@ -19,12 +20,7 @@ def call_writer(prompt: str, max_tokens: int = 5000) -> str:
     return chat_completion(
         model=WRITER_MODEL,
         prompt=prompt,
-        system=(
-            "You are a literary voice designer. You write a novel-specific voice "
-            "identity that is concrete, usable, and distinct. Avoid generic praise. "
-            "Focus on sentence rhythm, diction, metaphor fields, sensory preference, "
-            "dialogue cadence, and anti-examples."
-        ),
+        system=VOICE_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.6,
         timeout=300,
@@ -48,38 +44,12 @@ def main() -> None:
     else:
         outline = ""
 
-    prompt = f"""Design the novel-specific voice for this story and write the Part 2 content for voice.md.
-
-NOVEL SEED:
-{seed}
-
-WORLD:
-{world}
-
-CHARACTERS:
-{characters}
-
-OUTLINE:
-{outline}
-
-Write a usable voice bible with these sections:
-## Voice Thesis
-## Sentence Rhythm
-## Diction and Metaphor Fields
-## Dialogue Habits
-## Sensory Preferences
-## Exemplar Passage 1
-## Exemplar Passage 2
-## Anti-Exemplar
-## Calibration Notes
-
-Requirements:
-- Make it specific to this story's sound, not generic literary advice.
-- Ground it in the story's world (sound, resonance, memory, salt, hands, weight, pressure).
-- Include concrete do/don't rules a drafting model can follow.
-- Include at least one short exemplar paragraph and one anti-exemplar paragraph.
-- Keep it compact but useful, about 900-1400 words.
-"""
+    prompt = VOICE_PROMPT.format(
+        seed=seed,
+        world=world,
+        characters=characters,
+        outline=outline,
+    )
 
     print("Calling writer model...", file=sys.stderr)
     part2 = call_writer(prompt)

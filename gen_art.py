@@ -33,6 +33,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import ART_STYLE_PROMPT
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
@@ -161,31 +162,7 @@ def cmd_style(args):
     if outline.exists():
         title = outline.read_text().split("\n")[0].lstrip("# ").strip()
 
-    prompt = f"""You are an art director designing the visual identity for a fantasy novel.
-
-NOVEL TITLE: {title}
-
-WORLD DESCRIPTION (excerpts):
-{world}
-
-VOICE/TONE:
-{voice}
-
-Define a VISUAL STYLE for all art in this novel. Output valid JSON:
-
-{{
-  "art_style": "one sentence describing illustration style",
-  "color_palette": "5-7 specific colors",
-  "texture": "dominant visual texture",
-  "mood": "visual mood",
-  "reference_artists": "2-3 real artists whose style approximates this",
-  "cover_concept": "specific image for the cover — concrete, no spoilers",
-  "ornament_concept": "what chapter ornaments should look like — symbolic, small",
-  "scene_break_concept": "what goes between scenes — minimal, horizontal",
-  "map_concept": "what the map shows and its style (if applicable)"
-}}
-
-JSON only."""
+        prompt = ART_STYLE_PROMPT.format(title=title, world=world, voice=voice)
 
     print("Deriving visual style from world + voice...")
     result = call_claude(prompt)

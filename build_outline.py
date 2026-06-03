@@ -12,6 +12,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import BUILD_OUTLINE_PROMPT, BUILD_OUTLINE_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
@@ -25,11 +26,7 @@ def call_model(prompt, max_tokens=1500):
     text = chat_completion(
         model=JUDGE_MODEL,
         prompt=prompt,
-        system=(
-            "You produce structured outline entries for novel chapters. "
-            "Be precise about what HAPPENS, what CHANGES, and what threads are planted/harvested. "
-            "Output valid JSON only."
-        ),
+        system=BUILD_OUTLINE_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.1,
         timeout=120,
@@ -54,25 +51,12 @@ def main():
         
         title_line = text.strip().split('\n')[0].lstrip('# ').strip()
         
-        prompt = f"""Analyze this chapter and produce a structured outline entry.
-
-CHAPTER {ch}: "{title_line}" ({wc} words)
-
-{text}
-
-Return JSON with these fields:
-- "title": the chapter title (string)
-- "location": primary setting (string)
-- "characters": list of characters who appear (list of strings)
-- "summary": 2-3 sentence summary of what happens (string)
-- "beats": list of 3-5 key story beats in order (list of strings)
-- "try_fail": the try-fail cycle type: "yes-but", "no-and", "yes-and", or "no-but" (string)
-- "plants": foreshadowing threads PLANTED in this chapter (list of strings)
-- "harvests": foreshadowing threads PAID OFF in this chapter (list of strings)
-- "emotional_arc": one sentence describing the emotional movement (string)
-- "chapter_question": the question left open at chapter's end (string)
-
-JSON only, no other text."""
+        prompt = BUILD_OUTLINE_PROMPT.format(
+            ch=ch,
+            title_line=title_line,
+            wc=wc,
+            text=text,
+        )
 
         data = call_model(prompt)
         data["num"] = ch

@@ -140,7 +140,7 @@ def panel_mentions_for_chapter(panel: dict, ch: int) -> dict:
 
     # Use word-boundary regex so "Chapter 2" doesn't match "Chapter 21"
     ch_re = re.compile(
-        rf"\b(?:Chapter|Ch\.?)\s*{ch}\b", re.I
+        rf"(?:\b(?:Chapter|Ch\.?)\s*{ch}\b|第\s*{ch}\s*章)", re.I
     )
 
     for reader_name, reader_data in readers.items():

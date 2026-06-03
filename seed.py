@@ -23,6 +23,12 @@ from deepseek_client import chat_completion
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
 
+from prompt_config_zh import (
+    SEED_GENERATE_PROMPT,
+    SEED_GUIDED_PROMPT,
+    SEED_RIFF_PROMPT,
+    SEED_SYSTEM,
+)
 WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6-20250217")
 HAS_API_KEY = bool(
   os.environ.get("DEEPSEEK_API_KEY", "")
@@ -34,100 +40,18 @@ def call_writer(prompt, max_tokens=4000):
     return chat_completion(
         model=WRITER_MODEL,
         prompt=prompt,
-        system=(
-            "You are a fantasy novelist with deep knowledge of the genre's "
-            "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
-            "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
-            "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
-            "SOUND. You never propose generic medieval Europe + elves. Each "
-            "concept should make a reader think 'I've never seen THAT before.'"
-        ),
+        system=SEED_SYSTEM,
         max_tokens=max_tokens,
         temperature=1.0,
         timeout=120,
     )
 
 
-GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts. Each should be
-a complete premise you could build a novel from.
+GENERATE_PROMPT = SEED_GENERATE_PROMPT
 
-For EACH concept, provide:
+RIFF_PROMPT = SEED_RIFF_PROMPT
 
-NUMBER. TITLE (a working title, evocative, not generic)
-HOOK: One sentence that would make someone pick up the book. Specific
-  and surprising, not "In a world where..."
-WORLD: What makes this world different? Not just "there's magic" but
-  what specific, unusual thing defines this place? Be concrete --
-  salt flats, inverted towers, cities that migrate, a sea that
-  remembers, whatever. Make it SENSORY.
-MAGIC/COST: What is the core speculative element and what does it
-  COST? Per Sanderson's Second Law, limitations > powers. The cost
-  should create interesting dilemmas.
-TENSION: What's the central conflict? It must be both PERSONAL (one
-  character's specific problem) and COSMIC (affects the world).
-  These two must be in tension with each other.
-THEME: What question does this story explore? Not a message -- a
-  genuine question with no easy answer.
-WHY IT'S NOT GENERIC: One sentence on what makes this different from
-  standard fantasy fare.
-
-Aim for DIVERSITY across the {count} concepts:
-  - At least one with a non-human-centric world
-  - At least one that's more literary/quiet than epic
-  - At least one with an unusual narrative structure idea
-  - At least one set outside the typical European-inspired setting
-  - Mix of tones: dark, warm, weird, melancholy, whimsical
-
-DO NOT generate:
-  - Chosen one prophecies (unless subverted in an interesting way)
-  - Dark lord / ultimate evil as the main antagonist
-  - Medieval Europe + elves/dwarves/orcs
-  - "Academy" or "school for magic" settings
-  - Love triangles as the central plot
-"""
-
-RIFF_PROMPT = """I have a seed idea for a fantasy novel:
-
-"{idea}"
-
-Generate 5 variations on this concept. Keep what's interesting about
-the core idea but push it in different directions. For each variation:
-
-NUMBER. TITLE
-HOOK: One sentence.
-HOW IT DIFFERS: What did you change from the original seed and why?
-WORLD: Concrete, sensory world details.
-MAGIC/COST: The speculative element and its cost.
-TENSION: Personal + cosmic conflict.
-THEME: The question it explores.
-
-Make the variations genuinely different from each other -- don't just
-tweak surface details. Change the protagonist, the setting, the tone,
-the structure, the thematic focus.
-"""
-
-GUIDED_GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts based on the following user brief and constraints.
-
-USER BRIEF AND CONSTRAINTS:
-{guidance}
-
-For EACH concept, provide:
-
-NUMBER. TITLE (a working title, evocative, not generic)
-HOOK: One sentence that would make someone pick up the book. Specific
-  and surprising, not "In a world where..."
-WORLD: What makes this world different? Be concrete and sensory.
-MAGIC/COST: The core speculative element and what it COSTS.
-TENSION: Personal + cosmic conflict in direct tension.
-THEME: The question this story explores.
-WHY IT'S NOT GENERIC: One sentence.
-
-RULES:
-- Follow MUST-HAVE constraints strictly.
-- Avoid MUST-AVOID constraints strictly.
-- If a constraint conflicts with fantasy conventions, prefer the constraint.
-- Keep concepts diverse in structure, tone, and conflict framing.
-"""
+GUIDED_GENERATE_PROMPT = SEED_GUIDED_PROMPT
 
 
 def read_brief(path_str: str | None) -> str:

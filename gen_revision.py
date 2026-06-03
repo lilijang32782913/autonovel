@@ -9,6 +9,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from deepseek_client import chat_completion
+from prompt_config_zh import REVISION_PROMPT, REVISION_SYSTEM
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env")
@@ -21,12 +22,7 @@ def call_writer(prompt, max_tokens=16000):
     return chat_completion(
         model=WRITER_MODEL,
         prompt=prompt,
-        system=(
-            "You are rewriting a fantasy novel chapter based on a specific revision brief. "
-            "You follow the brief exactly. You preserve the voice, world, and characters "
-            "from the existing draft while making the structural changes specified. "
-            "You write the FULL chapter. Do not truncate or summarize."
-        ),
+        system=REVISION_SYSTEM,
         max_tokens=max_tokens,
         temperature=0.8,
         timeout=600,
@@ -51,42 +47,16 @@ def main():
     old_path = BASE_DIR / "chapters" / f"ch_{ch_num:02d}.md"
     old_text = old_path.read_text() if old_path.exists() else "(no existing draft)"
     
-    prompt = f"""Rewrite Chapter {ch_num} of "The Second Son of the House of Bells."
-
-REVISION BRIEF (follow this exactly):
-{brief}
-
-VOICE DEFINITION:
-{voice}
-
-CHARACTER REGISTRY:
-{characters}
-
-WORLD BIBLE:
-{world}
-
-PREVIOUS CHAPTER ENDING (maintain continuity):
-{prev_tail}
-
-NEXT CHAPTER OPENING (end so this flows into it):
-{next_head}
-
-THE EXISTING DRAFT (use as raw material -- keep what works, cut what doesn't):
-{old_text}
-
-ANTI-PATTERN RULES:
-- NO triadic sensory lists (X. Y. Z.)
-- NO "He did not [verb]" more than once
-- NO "He thought about [X]" constructions
-- NO "the way [X] did [Y]" more than twice
-- NO "not X, but Y" formula in narration
-- NO over-explaining after showing
-- MAX 2 section breaks
-- At least one moment that genuinely surprises
-- 70%+ in-scene (dialogue and action, not summary)
-- Dialogue should sound like speech, not prose
-
-Write the FULL revised chapter now."""
+    prompt = REVISION_PROMPT.format(
+        ch_num=ch_num,
+        brief=brief,
+        voice=voice,
+        characters=characters,
+        world=world,
+        prev_tail=prev_tail,
+        next_head=next_head,
+        old_text=old_text,
+    )
 
     print(f"Rewriting Chapter {ch_num}...", file=sys.stderr)
     result = call_writer(prompt)
